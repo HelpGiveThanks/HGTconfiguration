@@ -1,4 +1,95 @@
-HGTtemplate
-===========
+## Help Give Thanks (HGT) Research Project Template by David Matson
 
-This template was created out of my need for an integrated website solution combining the powers of The Bug Genie and Vanilla.
+This template was created out of my need for an integrated website solution combining the powers of The Bug Genie (TBG) and Vanilla.   I have tried to make this template install easy to duplicate by relatively novice users to encourage wide spread duplication and use of these tools in everyday interactions with family and friends.  Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
+
+
+## Open Source
+
+This template is free, open source software.  The Bug Genie Nitrogen Template files are distributed under a Mozilla Public License Version 1.1, and the Vanilla Nitrogen Theme files are distributed under a GNU General Public License version 2 (GPLv2), which are the respective licenses of each of these amazing open source projects.  
+
+To compare CURRENT differences between the nitrogen template remix of TBG files and the original TBG v3.2.7.1 files, please visit https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 (GitHub will say 35 files have been changed as it combines both changed and added files in this count of changed files).  The Description of Nitrogen Template v1 Modifications.html that comes with each download of this template documents the EXACT CHANGES made to the files contained in this download.
+
+To see screenshots and read a detailed explanation about the HGT Template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
+
+To download a copy of this template go here https://sourceforge.net/projects/helpgivethanks/.
+
+
+## Installation
+
+Vanilla is built to be simple, and its installation is no exception.
+
+* Upload this entire file structure up to your web server.
+* Confirm the cache, conf, and uploads folders are writable by PHP.
+* Navigate to that folder in your web browser.
+* Follow the instructions on screen.
+
+## Upgrading
+
+Follow these steps to upgrade Vanilla when a new stable release is announced.
+
+
+* Backup your database and `conf/config.php` file somewhere safe.
+* Upload the new release's files so they overwrite the old ones.
+* Go to `yourforum.com/index.php?p=/utility/update` to force any updates needed.
+* If it fails, try it a second times by refreshing the page.
+
+To upgrade to **2.1 from 2.0.18**, add this step:
+
+* Delete the file [`/themes/mobile/views/discussions/helper_functions.php`](https://github.com/vanillaforums/Garden/blob/2.0/themes/mobile/views/discussions/helper_functions.php)
+
+To upgrade from Vanilla **1.0**, you must export your data using the Vanilla Porter as if it were a migration. Your theme and any customizations will need to be recreated. Backup your Vanilla 1 data and files completely, then delete them from your server before attempting to install Vanilla 2.
+
+## Migrating to Vanilla
+
+* Get [Vanilla Porter](http://vanillaforums.org/addon/porter-core) and verify it supports your platform.
+* Read the Advanced Uses notes on that page.
+* Upload it to your current server.
+* Navigate to the file in your web browser & run it.
+* Take the file it produces and import it to Vanilla.
+
+## Getting Help
+
+* [Troubleshooting upgrades & installs](http://codex.vanillaforums.com/developers/troubleshooting/)
+* [Official documentation](http://docs.vanillaforums.com)
+* [Vanilla community forums](http://vanillaforums.org/discussions)
+* [Official cloud hosting with professional support & migration services](http://vanillaforums.com/plans)
+
+## Contributing
+
+* Troubleshoot issues you run into on the community forum so everyone can help & reference it later.
+* Got an idea or suggestion? Use the forum to discuss it.
+* File detailed issues on GitHub (version number, what you did, and actual vs expected outcomes).
+* Sign the Contributors' Agreement to send us code.
+* Use pull requests against the correct release.
+
+## Version Control Strategy
+
+We've adopted the [git flow branching model](http://nvie.com/posts/a-successful-git-branching-model) in our projects.
+The creators of git flow released a [short intro video](http://vimeo.com/16018419) to explain the model.
+
+The `master` branch is production-ready for a our cloud product but is not yet vetted for open source release.
+Only small patches and `hotfix/x` branches land against `master`, and it always has a stable version number.
+The `develop` and `stage` branches are pre-production and are where we land `feature/x` branches for integration testing.
+
+Our open source release branches are named by version number, e.g. `2.0` and `2.1`.
+We begin release branches with a beta (b1) designation and progress them thru release candidate to stable.
+All open source releases (included pre-releases) are tagged.
+
+After `2.1`, we will be leap-frogging version numbers between `master` and releases.
+Releases will receive the next odd-point number and `master` will then jump to the next even-point number.
+Therefore, the next open source release after 2.1 will be 2.3. When the 2.3 beta begins, `master` will move to 2.4.
+
+## Legal Stuff
+Copyright &copy; 2009-2014 Vanilla Forums Inc.
+
+Vanilla Forums is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Vanilla Forums is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details. You should have received a copy of the GNU General Public License
+along with Vanilla Forums.  If not, see <http://www.gnu.org/licenses/>.
+Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
+
+## Bonk!
+
+Just kidding, everything's awesome. ![dance](http://cdn.vanillaforums.com/dance.gif)
