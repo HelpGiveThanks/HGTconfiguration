@@ -1,7 +1,17 @@
-## Help Give Thanks (HGT) Research Project Template by David Matson
+## Help Give Thanks (HGT) Research Project Template
 
-This template was created out of my need for an integrated website solution combining the powers of The Bug Genie (TBG) and Vanilla.   I have tried to make this template install easy to duplicate by relatively novice users to encourage wide spread duplication and use of these tools in everyday interactions with family and friends.  Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
+This template was created out of a need for an integrated website solution combining the powers of The Bug Genie (TBG) and Vanilla.   This template is aimed to be easy to install by relatively novice users to encourage wide spread use of these tools in everyday interactions with family and friends.  Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
+NOTE: The repository at https://github.com/HelpGiveThanks/HGTtemplate was created to make it easy to keep track of all files needed to accomplish this template in two different applications, but it is not a fork off of those applications, and so cannot be compared to them.  The actual fork off of TGB for the TGB template can found here https://github.com/virtualdavid/thebuggenie/tree/template.  The Vanilla theme files consists of a modified copy of its default theme version 2.1.  
+
+## Installation
+
+This template is built to make installation easy.
+
+* Upload zip to your web server and extract it.
+* .
+* Navigate to that folder in your web browser.
+* Follow the instructions on screen.
 
 ## Open Source
 
@@ -13,15 +23,6 @@ To see screenshots and read a detailed explanation about the HGT Template go her
 
 To download a copy of this template go here https://sourceforge.net/projects/helpgivethanks/.
 
-
-## Installation
-
-Vanilla is built to be simple, and its installation is no exception.
-
-* Upload this entire file structure up to your web server.
-* Confirm the cache, conf, and uploads folders are writable by PHP.
-* Navigate to that folder in your web browser.
-* Follow the instructions on screen.
 
 ## Upgrading
 
