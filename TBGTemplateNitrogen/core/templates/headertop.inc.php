@@ -15,7 +15,7 @@
 	
 <?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name favicon.png ?> 
 	<div id="logo_container">
-	    <img alt="YOURICON" src="<?php echo TBGContext::getTBGPath(); ?>favicon.png" style="width: 24px; height: 24px;"></img>
+	    <img alt="Site Icon" src="<?php echo TBGContext::getTBGPath(); ?>favicon.png" style="width: 24px; height: 24px;"></img>
 	</div>
 	
 <?php // Code in your forum and GitHub url's ?>
