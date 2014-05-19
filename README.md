@@ -1,4 +1,4 @@
-## Help Give Thanks (HGT) Research Project Template
+## Help Give Thanks Research Project Template
 
 This template was created out of a need for an integrated website solution combining the powers of The Bug Genie (TBG) and Vanilla.   This template is aimed to be easy to install by relatively novice users to encourage wide spread use of these tools in everyday interactions with family and friends.  Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
