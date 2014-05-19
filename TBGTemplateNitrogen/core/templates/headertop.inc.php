@@ -19,7 +19,7 @@
 	</div>
 	
 <?php // Code in your forum and GitHub url's ?>
-        <div><nav class="tab_menu header_menu" id="main_menu"
+        <div><nav class="tab_menu header_menu" id="main_menu">
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
                     
