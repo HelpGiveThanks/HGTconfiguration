@@ -12,17 +12,25 @@
 <?php // BEGIN: SHOW/HIDE FOUR BUTTONS TO FRONT OF TOP MENU FOR Forum, GitHub, Overview (A WIKI PAGE), AND PERMANENT PROJECT PAGE (BUG GENIE FRONTPAGE) ?>
 
 	<?php if (TBGSettings::getThemeName() == 'nitrogen'): ?>
+		
 	
-<?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name favicon.png ?> 
+<?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name custom-header.png  Experiment with icon width to get best look, but leave icon height alone. ?> 
 	<div id="logo_container">
-	    <img alt="Site Icon" src="<?php echo TBGContext::getTBGPath(); ?>favicon.png" style="width: 24px; height: 24px;"></img>
+            <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/AboutTheIcon">
+            <img alt="Site Icon" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img></a>
 	</div>
+	
 	
 <?php // Code in your forum and GitHub url's ?>
         <div><nav class="tab_menu header_menu" id="main_menu">
+			
+			
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
+				
+				
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
-                    
+                 
+				    
             <li <?php if ($tbg_response->getTitle() == 'Overview'): ?> class="selected"><?php endif; ?>
                 <?php if ($tbg_response->getTitle() != 'Overview'): ?> class="logo_name"><?php endif; ?>
                 <div><a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Overview">Overview</a> </div></li>

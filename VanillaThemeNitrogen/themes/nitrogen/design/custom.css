@@ -2,6 +2,59 @@
 .Row {
    width: 100%;
 }
+
+/* BugGenie Blue Gradient Head & Menu */
+#TopMenu {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    letter-spacing:.07em;
+    background: #6193cf; /* Old browsers */ ;
+    background: -moz-linear-gradient(top, #6193cf 0%, #396ba7 100%); /* FF3.6+ */;
+    background: -khtml-gradient(linear, left top, left bottom, from(#6193cf), to(#396ba7)); /* KHTML */;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6193cf), color-stop(100%,#396ba7)); /* Chrome,Safari4+ */;
+    background: -webkit-linear-gradient(top, #6193cf 0%,#396ba7 100%); /* Chrome10+,Safari5.1+ */;
+    background: -o-linear-gradient(top, #6193cf 0%,#396ba7 100%); /* Opera11.10+ */;
+    background: -ms-linear-gradient(top, #6193cf 0%,#396ba7 100%); /* IE10+ */;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6193cf', endColorstr='#396ba7',GradientType=0 ); /* IE6-9 */;
+    background: linear-gradient(top, #6193cf 0%,#396ba7 100%); /* W3C */;
+    font-size: 0.98em; 
+    font-family: 'Open Sans',sans-serif; 
+    width: 100%;  
+}
+
+#logo_container {
+    width: 30px;
+    padding: 5px 1px 5px 5px;
+    vertical-align: bottom;
+    line-height: 0;
+}
+
+#forum_cell {
+    padding-top: 7px; 
+    background: #FAF3B8; 
+    width: 1%;
+}
+
+#forum_button {
+    vertical-align: middle;
+    letter-spacing:.0em; 
+    padding: 5px; 
+    font-weight: bold; 
+    color: #000000;
+}
+
+#forum {
+padding-top: 7px; 
+background: #FAF3B8; 
+width: 1%;
+vertical-align: middle; 
+padding: 5px; 
+font-weight: bold; 
+color: #000000;
+}
+
 /* BugGenie Yellow Head & Menu */
 #Head {
    background: #FAF3B8;
