@@ -26,7 +26,6 @@
 
 #logo_container {
     width: 30px;
-    padding: 5px 1px 5px 5px;
     vertical-align: bottom;
     line-height: 0;
 }
@@ -46,21 +45,21 @@
 }
 
 #forum {
-padding-top: 7px; 
-background: #FAF3B8; 
-width: 1%;
-vertical-align: middle; 
-padding: 5px; 
-font-weight: bold; 
-color: #000000;
+    padding-top: 7px; 
+    background: #FAF3B8; 
+    width: 1%;
+    vertical-align: middle; 
+    padding: 5px; 
+    font-weight: bold; 
+    color: #000000;
 }
 
 /* BugGenie Yellow Head & Menu */
 #Head {
    background: #FAF3B8;
    color: #000;
-   padding: 3px 0 5px 0;
-   height: 20px;
+   padding: 5px 0px 0px 0px;
+   height: 25px;
 
 }
 #Head a {
