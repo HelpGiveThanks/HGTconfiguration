@@ -54,9 +54,16 @@
     color: #000000;
 }
 
+.ProfilePhotoMedium {
+    float: right;
+    padding: 0px 2px 0px 0px; 
+    height: 22px;
+    width: 22px;
+}
+
 #UserName {
     text-align: right;
-    padding: 0px 5px 0px 0px;   
+    padding: 0px 33px 0px 10px;   
     color: #fff;
 }
 #UserName a {

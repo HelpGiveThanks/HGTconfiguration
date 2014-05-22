@@ -5,7 +5,7 @@
 
 
 /* Code in your favorite icon which shows up in browser tabs. */ 
-/*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your Forum and GitHub urls to be added in below. */
+/*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder" including this one.  This will leave just your Forum and GitHub urls to be added in below. */
 rel="icon" type="image/png" 
 
 
@@ -28,8 +28,8 @@ rel="icon" type="image/png"
 	src="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/custom-header.png" 
 	
 	
-/* Experiment with icon width to get best look, but leave icon height alone.  */	
-	style="width: 24px; height: 24px;"></img></a></td><td id="forum_cell"><a id="forum_button"
+/* Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.  */	
+	style="width: 24px; height: 24px; padding: 5px 5px 5px 5px;"></img></a></td><td id="forum_cell"><a id="forum_button"
     
     
 /* Code in your Forum, GitHub, Overview, and Project Manager urls */
@@ -39,12 +39,13 @@ rel="icon" type="image/png"
     href="https://github.com/YOURorganization">GitHub </a><a style="margin-left: 20px; color: white;" 
     
     
-    href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/Overview">Overview </a><a class="GOPM" 
+    href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/Overview">Overview </a><a style="margin-left: 20px; color: white;" 
     
     
     href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie">Project Manager </a></td>
     
     
+            <td>{module name="MeModule"}</td>
         </tr>
     </table>
 <div id="Frame">

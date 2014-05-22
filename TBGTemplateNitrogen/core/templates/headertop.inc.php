@@ -12,25 +12,16 @@
 <?php // BEGIN: SHOW/HIDE FOUR BUTTONS TO FRONT OF TOP MENU FOR Forum, GitHub, Overview (A WIKI PAGE), AND PERMANENT PROJECT PAGE (BUG GENIE FRONTPAGE) ?>
 
 	<?php if (TBGSettings::getThemeName() == 'nitrogen'): ?>
-		
-	
-<?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name custom-header.png  Experiment with icon width to get best look, but leave icon height alone. ?> 
+<?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name custom-header.png  Experiment with icon width to get best look, but leave icon height alone.  ?> 
 	<div id="logo_container">
-            <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/AboutTheIcon">
-            <img alt="Site Icon" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img></a>
+	    <img alt="NeckerCube" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img>
 	</div>
-	
-	
-<?php // Code in your forum and GitHub url's ?>
         <div><nav class="tab_menu header_menu" id="main_menu">
-			
-			
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
-				
-				
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
-                 
-				    
+
+<?php // Code in your forum and GitHub url's ?>      
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://helpgivethanks.org/forum/"> Forum</a></li>
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/helpgivethanks/"> GitHub</a></li>
+                    
             <li <?php if ($tbg_response->getTitle() == 'Overview'): ?> class="selected"><?php endif; ?>
                 <?php if ($tbg_response->getTitle() != 'Overview'): ?> class="logo_name"><?php endif; ?>
                 <div><a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Overview">Overview</a> </div></li>
@@ -148,7 +139,7 @@
 						<?php if ($tbg_user->isGuest()): ?>
 							<a href="javascript:void(0);" <?php if (TBGContext::getRouting()->getCurrentRouteName() != 'login_page'): ?>onclick="$('login_backdrop').show();TBG.Main.Helpers.tabSwitcher('tab_login', 'login_menu');$('tbg3_username').focus();"<?php endif; ?>><?php echo  __('You are not logged in'); ?></a>
 						<?php else: ?>
-							<?php echo link_tag(make_url('dashboard'),  tbg_decodeUTF8($tbg_user->getDisplayName())); ?>
+							<?php echo link_tag(make_url('dashboard'), image_tag($tbg_user->getAvatarURL(true), array('alt' => '[avatar]', 'id' => 'header_avatar'), true) . tbg_decodeUTF8($tbg_user->getDisplayName())); ?>
 						<?php endif; ?>
 						<?php if (TBGContext::getRouting()->getCurrentRouteName() != 'login_page'): ?>
 							
