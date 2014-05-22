@@ -126,6 +126,12 @@
 #Panel input.InputBox {
    width: 192px;
 }
+#Panel .PanelInfo .PictureLink  {
+    display: none;
+}
+.PhotoWrap:hover a.ChangePicture {
+    display: none;
+}
 
 /* Backwards compatibility for themes that extended/customized the old version */
 #Body .Wrapper #Content {
