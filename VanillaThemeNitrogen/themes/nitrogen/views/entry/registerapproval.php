@@ -2,9 +2,14 @@
 <div class="FormTitleWrapper">
 <h1><?php echo T("Apply for Membership") ?></h1>
 <div class="FormWrapper">
-   <?php
+
+
+
+   <?php // Change terms url to your TGB wiki page's url.
    $TermsOfServiceUrl = 'http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/TermsOfUse';
    $TermsOfServiceText = sprintf(T('I agree to the <a id="TermsOfService" target="terms" href="%s">terms of use</a>'), Url($TermsOfServiceUrl));
+   
+   
    
    // Make sure to force this form to post to the correct place in case the view is
    // rendered within another view (ie. /dashboard/entry/index/):
@@ -45,8 +50,8 @@
       </li>
       <li class="Gender">
          <?php
-            // echo $this->Form->Label('Gender', 'Gender');
-            // echo $this->Form->RadioList('Gender', $this->GenderOptions, array('default' => 'u'))
+            echo $this->Form->Label('Gender', 'Gender');
+            echo $this->Form->RadioList('Gender', $this->GenderOptions, array('default' => 'u'))
          ?>
       </li>
       <li>

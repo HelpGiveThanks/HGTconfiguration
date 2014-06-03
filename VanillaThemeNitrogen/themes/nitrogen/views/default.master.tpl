@@ -5,11 +5,11 @@
 
 
 /* Code in your favorite icon which shows up in browser tabs. */ 
-/*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder" including this one.  This will leave just your Forum and GitHub urls to be added in below. */
+/*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your Forum and GitHub urls to be added in below. */
 rel="icon" type="image/png" 
 
 
-	href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/favicon.png" />
+	href="http://helpgivethanks.org/apps/thebuggenie/favicon.png" />
 
 
     {asset name='Head'}</head>
@@ -28,11 +28,11 @@ rel="icon" type="image/png"
 	src="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/custom-header.png" 
 	
 	
-/* Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.  */	
+/* Experiment with icon width to get best look, but leave icon height alone.  */	
 	style="width: 24px; height: 24px; padding: 5px 5px 5px 5px;"></img></a></td><td id="forum_cell"><a id="forum_button"
     
     
-/* Code in your Forum, GitHub, Overview, and Project Manager urls */
+/* Code in your Forum, GitHub, Overview, and Project Manager urls/* 
     href="http://YOURSITE.COM/YOURforum/">Forum</a></td><td><a style="margin-left: 20px; color: white;" 
     
     
@@ -58,7 +58,7 @@ rel="icon" type="image/png"
       {activity_link}
       {inbox_link}
       {custom_menu}
-      {profile_link}
+
       {signinout_link}
      </ul>
    </div>

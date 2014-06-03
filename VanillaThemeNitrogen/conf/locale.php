@@ -8,14 +8,8 @@ You should have received a copy of the GNU General Public License along with Gar
 Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
 */
 
-/**
- * An associative array of information about this application.
- */
-$ThemeInfo['nitrogen'] = array(
-   'Name' => 'nitrogen',
-   'Description' => "The Nitrogen theme for Vanilla is a remix of the EmbedFriendly theme. This Nitrogen theme's purpose is to match the styling of the Nitrogen Bug Genie template, and to provide a top button menu button bar that allows for seemless navigation between a Vanilla Forum and a Bug Genie Project Managaer.",
-   'Version' => APPLICATION_VERSION,
-   'Author' => "Mark O'Sullivan (original EmbedFriendly theme), David Matson (Nitrogen remix)",
-   'AuthorEmail' => '',
-   'AuthorUrl' => 'http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate'
-);
+/*
+Got solution for changing the registration button-text in the dashboard from Register to Register Invitation from this forum post's second comment by crmarks <http://vanillaforums.org/discussion/16177/solved-change-apply-for-membership-text-to-register-on-homepage> 
+*/
+
+$Definition['Apply for Membership'] = 'Register Invitation';
