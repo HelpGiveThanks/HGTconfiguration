@@ -1,20 +1,12 @@
-The Q&A plugin by Todd is licensed under a GNU GPL2 license.
+###The Q&A Big Button Remix plugin
 
-Check for updates and ask questions about this plugin on its author's page: http://vanillaforums.org/addon/734/q-a
+David Matson (remixer only adding in a very small number of code changes suggested by peregrine), Todd Burry (original author)
 
-It is provided as a convenience by David Matson in its current remixed form to save you time downloading and changing its code to put a big 'Ask a Question' button on your Vanilla forum.
+David Matson altered this plugin coping and pasting code changes found in the helpful forum post The Big Button option part A: http://vanillaforums.org/discussion/26902/some-adjustments-to-more-clearly-see-ask-a-question-in-q-a-1-2-1-new-discussion-button.  
+
+This remix is provided as a convenience saving you the time altering the original Q&A plugin code yourself to put a big 'Ask a Question' button on your Vanilla forum, and is provided to you under a GNU GPL2 license just like the original. Compare original and remixed versions of this plugin here: https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1.
+
+To upgrade this plugin remix you will need to download the latest original (unremixed) version of the plugin http://vanillaforums.org/addon/734/q-a, and modify it with code changes found in the above forum post yourself, or hire someone to do it for you. You can check at the Help Give Thanks SourceForge folder to see if there is an upgrade available, but no promises: http://sourceforge.net/projects/helpgivethanks/files/HGTtemplate/.
 
 
-*About the Changes*
 
-I only made code changes specified by peregrine as "The Big Button option part A" spelled out here: http://vanillaforums.org/discussion/26902/some-adjustments-to-more-clearly-see-ask-a-question-in-q-a-1-2-1-new-discussion-button
-
-Compare original and remixed versions of this plugin here: https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
-
-In addition to these code changes, peregrine also writes that you'll need to add these lines to your config.php file:
-```
-$Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
-```
-```
-$Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
-```
