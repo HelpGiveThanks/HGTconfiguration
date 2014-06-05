@@ -1,12 +1,8 @@
-NOTE: 33 files have been changed in The Bug Genie v3.2.7.1 release and 2 added to accomplish and explain a template change entitled nitrogen.
-
-To compare CURRENT differences between the nitrogen template remix of TBG files and the original TBG v3.2.7.1 files, please visit https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 (GitHub will say 35 files have been changed as it combines both changed and added files in this count of changed files).  The Description of Nitrogen Template v1 Modifications.html that comes with each download of this template documents the EXACT CHANGES made to the files contained in this download.
-
-To see screenshots and read a detailed explanation about the remix go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
-
-To download a copy of the template files go here https://sourceforge.net/projects/helpgivethanks/.  The ReadME.txt file that comes with this template explains how to customize the template files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.
 
 THE BUG GENIE VERSION 3
+
+NOTE: The Nitrogen Template has been applied to this copy of The Bug Genie primarily affecting its look and feel. Scroll down for more info. 
+
 -------
 The Bug Genie is an enterprise-grade issue-tracking, development and project
 management system. Main features includes:
@@ -55,3 +51,18 @@ To install:
 Thank you for downloading The Bug Genie
 If you find any issues, please report them in the issue tracker on our website:
 http://issues.thebuggenie.com
+
+
+*NITROGEN TEMPLATE*
+
+The Nitrogen Template by David Matson = 33 minor file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel. Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a.
+
+To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1.
+
+To see screenshots and read a detailed explanation about the template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
+
+To download a copy of the template files and learn how to customize and install them via drop-in replace go here https://sourceforge.net/projects/helpgivethanks/
+
+The Nitrogen Template is part of the of Help Give Thanks Research Project Template: http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate.
+
+The Nitrogen Template is also distributed under the MPL v1.1. as required in section 3.1. Application of License: “The Modifications which You create or to which You contribute are governed by the terms of this License…,” which can be read at opensource.org. 

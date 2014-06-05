@@ -51,6 +51,9 @@
 		To download a copy of the template files and learn how to customize and install them via drop-in replace go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i> 
 		<br>
 		<br>
+The Nitrogen Template is part of the of Help Give Thanks Research Project Template  <a target="_blank" href="http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate/"> http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate </a> <i>(opens in a new window)</i>
+		<br>
+		<br>
 		The Nitrogen Template is also distributed under the MPL v1.1. as required in section 3.1. Application of License: “The Modifications which You create or to which You contribute are governed by the terms of this License…,” which can be <?php echo __('read at %link_to_MPL%', array('%link_to_MPL%' => '<a href="http://www.opensource.org/licenses/mozilla1.1.php">opensource.org</a>')); ?>.
 </div>
 </div>
