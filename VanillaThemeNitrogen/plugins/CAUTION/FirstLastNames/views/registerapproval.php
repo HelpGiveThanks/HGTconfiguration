@@ -3,7 +3,7 @@
 <h1><?php echo T("Apply for Membership") ?></h1>
 <div class="FormWrapper">
 
-
+<?php //  111111111111111111111111111111111  ?>	
 
    <?php // Change terms url to your TGB wiki page's url.
    $TermsOfServiceUrl = 'http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/TermsOfUse';

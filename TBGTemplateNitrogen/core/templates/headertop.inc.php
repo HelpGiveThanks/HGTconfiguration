@@ -14,8 +14,10 @@
 	<?php if (TBGSettings::getThemeName() == 'nitrogen'): ?>
 	 
 	 
+
+<?php //  111111111111111111111111111111111  ?>	 
 	
-<?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name custom-header.png  Experiment with icon width to get best look, but leave icon height alone.  ?> 
+<?php // Experiment with icon width and height to get best look.  ?> 
 	<div id="logo_container">
 	    <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Icon"><img alt="icon" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img></a>
 	</div>
@@ -23,8 +25,15 @@
 
 
 
+<?php //  222222222222222222222222222222222  ?>
+
 <?php // Code in your forum and GitHub url's ?>      
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
+
+
+
+<?php //  333333333333333333333333333333333  ?>
+
             <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
                  
                  

@@ -4,6 +4,9 @@
 <link 
 
 
+
+/*  111111111111111111111111111111111	*/
+
 /* Code in your favorite icon which shows up in browser tabs. */ 
 /*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your Forum and GitHub urls to be added in below. */
 rel="icon" type="image/png" 
@@ -27,6 +30,10 @@ rel="icon" type="image/png"
 	
 	src="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/custom-header.png" 
 	
+	  
+	  
+	
+/*  222222222222222222222222222222222  */
 	
 /* Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.  */	
 	style="width: 24px; height: 24px; padding: 5px 5px 5px 5px;"></img></a></td><td id="forum_cell"><a id="forum_button"
@@ -34,6 +41,7 @@ rel="icon" type="image/png"
     
 	
 	
+/*  333333333333333333333333333333333  */	
 	
 /* Code in your Forum, GitHub, Overview, and Project Manager urls */
     href="http://YOURSITE.COM/YOURforum/">Forum</a></td><td><a style="margin-left: 20px; color: white;" 
@@ -41,6 +49,7 @@ rel="icon" type="image/png"
     
 	
 	
+/*	 444444444444444444444444444444444  */
 	
     href="https://github.com/YOURorganization">GitHub </a><a style="margin-left: 20px; color: white;" 
     

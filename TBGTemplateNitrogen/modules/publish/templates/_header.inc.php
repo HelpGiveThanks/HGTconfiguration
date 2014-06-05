@@ -55,12 +55,16 @@
 			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'max-height: 24px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 
 				
 				
+
+<?php //  111111111111111111111111111111111  ?>
 				
 <?php // Customize your site's guest view homepage title and welcome message. ?>						
- 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on line 59."; ?></span></div><br>
+ 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on lines 62 and 70."; ?></span></div><br>
 		<?php else: ?>
 			
 			
+
+<?php //  222222222222222222222222222222222  ?>
 			
 <?php // Customize your site's logged in view homepage title. ?>			
 		<?php echo "Your Website Name Overview"; ?><?php endif; ?>

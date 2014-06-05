@@ -10,6 +10,8 @@
 	
 	
 	
+<?php //  111111111111111111111111111111111  ?>		
+	
 <?php // Replace YOURSITE.COM with your site's url. ?>		
 	Show issue: <?php echo link_tag("http://YOURSITE.COM".make_url('viewissue', array('project_key' => $issue->getProject()->getKey(), 'issue_no' => $issue->getFormattedIssueNo()))); ?><br>
 	

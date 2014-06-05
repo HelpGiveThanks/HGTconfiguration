@@ -18,18 +18,26 @@ This template is built to make installation easy.
 
 * Upload zip to your web server and extract it.
 Change links
-* TGB public_html/HGTtemplate/TBGTemplateNitrogen/core/templates/headertop.inc.php 
-http://YOURSITE.COM/YOURforum/ 
-https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
+* TGB 
+
+public_html/HGTtemplate/TBGTemplateNitrogen/core/templates/headertop.inc.php 
+
+1 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+
+
+2 http://YOURSITE.COM/YOURforum/ 
+
+3 https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
 
 _header.inc.php
-Customize your site's guest view homepage title and welcome message.
+1 Customize your site's guest view homepage title and welcome message.
 and
-Customize your site's logged in view homepage title. 
+2 Customize your site's logged in view homepage title. 
 
 
 _issueupdate.html.inc.php
-Replace YOURSITE.COM with your site's url. 
+
+1 Replace YOURSITE.COM with your site's url. 
 
 
 
@@ -39,18 +47,19 @@ Upload image files to replace custom-header.png (site icon) and favicon.png
 
 Vanilla
 default.master.tpl
-You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your 
+1 You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your 
 
-Forum and 
+2 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
 
-GitHub urls to be added in
+3 Forum http://YOURSITE.COM/YOURforum 
 
-Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+4 GitHub http://github.com/YOURorganization
 
 
-http://YOURSITE.COM/YOURforum
-and
-http://github.com/YOURorganization
+
+
+
+
 
 
 Change locale.php "register invitation if you want"
