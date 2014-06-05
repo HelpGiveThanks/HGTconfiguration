@@ -8,7 +8,7 @@ $Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 
 $Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
 
-This remix is provided as a convenience saving you the time altering the original Q&A plugin code yourself to put a big 'Ask a Question' button on your Vanilla forum, and is provided to you under a GNU GPL2 license just like the original. Compare original and remixed versions of this plugin here: https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1.
+This remix is provided as a convenience saving you the time altering the original Q&A plugin code yourself to put a big 'Ask a Question' button on your Vanilla forum, and is provided to you under a GNU GPL2 license just like the original. Compare original and remixed versions of this plugin here: https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1. To see actual differences on the date these changes where made, unzip and review the archived comparison file located in the same folder as this ReadMe file: Comparing vanilla_2.1...HelpGiveThanks_2.1 · HelpGiveThanks_addons.zip
 
 To upgrade this plugin remix you will need to download the latest original (unremixed) version of the plugin http://vanillaforums.org/addon/734/q-a, and modify it with code changes found in the above forum post yourself, or hire someone to do it for you. You can check at the Help Give Thanks SourceForge folder to see if there is an upgrade available, but no promises: http://sourceforge.net/projects/helpgivethanks/files/HGTtemplate/.
 
