@@ -1,11 +1,13 @@
 <?php $article = (isset($article)) ? $article : null; ?>
 
 
+
 <?php // CHANGE STYLE OF WIKI TITLE IF USER IS GUEST ?>
 <?php if (!$tbg_user->isGuest()): ?> <div class="header tab_menu"   > 
 <?php else: ?>
 		<div class="guest"   >
 <?php endif; ?>
+
 
 
 <?php // BEGIN ONLY SHOW EDITING TABS IF USER IS LOGGED IN ?>
@@ -35,6 +37,7 @@
 <?php // END ONLY SHOW EDITING TABS IF USER IS LOGGED IN ?>
 
 
+
 	<?php if (TBGContext::isProjectContext()): ?>
 		<?php if ((mb_strpos($article_name, ucfirst(TBGContext::getCurrentProject()->getKey())) == 0) || ($article instanceof TBGWikiArticle && $article->isCategory() && mb_strpos($article_name, ucfirst(TBGContext::getCurrentProject()->getKey())) == 9)): ?>
 			<?php $project_article_name = mb_substr($article_name, (($article instanceof TBGWikiArticle && $article->isCategory()) * 9) + mb_strlen(TBGContext::getCurrentProject()->getKey())+1); ?>
@@ -45,15 +48,25 @@
 	<?php else: ?>
 	
 	
+	
 <?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
 		<?php if ($tbg_response->getTitle() != 'Overview'): ?><?php echo get_spaced_name($article_name); ?> <?php else: ?>
 		<?php if ($tbg_user->isGuest()): ?>  
-			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'max-height: 24px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 		
- 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on line 51."; ?></span></div><br>
+			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'max-height: 24px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 
+				
+				
+				
+<?php // Customize your site's guest view homepage title and welcome message. ?>						
+ 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on line 59."; ?></span></div><br>
 		<?php else: ?>
+			
+			
+			
+<?php // Customize your site's logged in view homepage title. ?>			
 		<?php echo "Your Website Name Overview"; ?><?php endif; ?>
 <?php endif; ?>
 <?php // END IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
+
 
 
 	<?php endif; ?>

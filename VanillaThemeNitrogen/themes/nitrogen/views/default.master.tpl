@@ -32,12 +32,21 @@ rel="icon" type="image/png"
 	style="width: 24px; height: 24px; padding: 5px 5px 5px 5px;"></img></a></td><td id="forum_cell"><a id="forum_button"
     
     
+	
+	
+	
 /* Code in your Forum, GitHub, Overview, and Project Manager urls */
     href="http://YOURSITE.COM/YOURforum/">Forum</a></td><td><a style="margin-left: 20px; color: white;" 
     
     
+	
+	
+	
     href="https://github.com/YOURorganization">GitHub </a><a style="margin-left: 20px; color: white;" 
     
+	
+	
+	
     
     href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/Overview">Overview </a><a style="margin-left: 20px; color: white;" 
     

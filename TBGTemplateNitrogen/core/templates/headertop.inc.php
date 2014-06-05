@@ -9,18 +9,25 @@
 	<?php endif; ?>
 
 
-<?php // BEGIN: SHOW/HIDE FOUR BUTTONS TO FRONT OF TOP MENU FOR Forum, GitHub, Overview (A WIKI PAGE), AND PERMANENT PROJECT PAGE (BUG GENIE FRONTPAGE) ?>
 
+<?php // BEGIN: SHOW/HIDE FOUR BUTTONS TO FRONT OF TOP MENU FOR Forum, GitHub, Overview (A WIKI PAGE), AND PERMANENT PROJECT PAGE (BUG GENIE FRONTPAGE) ?>
 	<?php if (TBGSettings::getThemeName() == 'nitrogen'): ?>
+	 
+	 
+	
 <?php // Code in an icon for the top left menu bar.  Must exist in buggenie folder with name custom-header.png  Experiment with icon width to get best look, but leave icon height alone.  ?> 
 	<div id="logo_container">
-	    <img alt="NeckerCube" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img>
+	    <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Icon"><img alt="icon" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img></a>
 	</div>
         <div><nav class="tab_menu header_menu" id="main_menu">
 
+
+
 <?php // Code in your forum and GitHub url's ?>      
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://helpgivethanks.org/forum/"> Forum</a></li>
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/helpgivethanks/"> GitHub</a></li>
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
+                 
+                 
                     
             <li <?php if ($tbg_response->getTitle() == 'Overview'): ?> class="selected"><?php endif; ?>
                 <?php if ($tbg_response->getTitle() != 'Overview'): ?> class="logo_name"><?php endif; ?>
@@ -33,10 +40,12 @@
 <?php // END: SHOW/HIDE FOUR BUTTONS ... ?>
 
 
+
 	<?php if (!TBGSettings::isMaintenanceModeEnabled()): ?>
 		<nav class="tab_menu header_menu<?php if (TBGContext::isProjectContext()): ?> project_context<?php endif; ?>" id="main_menu">
 			<ul>
 				<?php if (!TBGSettings::isSingleProjectTracker() && !TBGContext::isProjectContext()): ?>
+
 
 
 <?php // SHOW/HIDE FRONT PAGE BUTTON/TAB ?>
@@ -44,6 +53,7 @@
 				<?php elseif (TBGContext::isProjectContext()): ?>
 					<li<?php if (in_array($tbg_response->getPage(), array('project_dashboard', 'project_planning', 'project_scrum', 'project_scrum_sprint_details', 'project_timeline', 'project_team', 'project_roadmap', 'project_statistics', 'vcs_commitspage'))): ?> class="selected"<?php endif; ?>>
 						<div>
+
 
 
 <?php // SHOW/HIDE ICONS  (Not sure if the best method for doing this is one icon a time or all at once.  So, this is the only icon that can be toggled.  Until I learn more, the rest of them are just hidden all the time.) ?>
@@ -58,6 +68,7 @@
 						</div>
 					</li>
 				<?php endif; ?>
+
 
 
 <?php // CHANGE STRING DASHBOARD TO MY DASHBOARD SO USER CAN SEE DIFFERENCE BETWEEN THEIR DASHBOARD BUTTON AND PROJECT DASHBOARD BUTTON ON BUG GENIE FRONTPAGE ?>

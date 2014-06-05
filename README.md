@@ -4,14 +4,72 @@ This template was created out of a need for an integrated website solution combi
 
 NOTE: The repository at https://github.com/HelpGiveThanks/HGTtemplate was created to make it easy to keep track of all files needed to accomplish this template in two different applications, but it is not a fork off of those applications, and so cannot be compared to them.  The actual fork off of TGB for the TGB template can found here https://github.com/virtualdavid/thebuggenie/tree/template.  The Vanilla theme files consists of a modified copy of its default theme version 2.1.  
 
+
+Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
+
+TGB https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
+
+FirstLastNames https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
+
+Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 ## Installation
 
 This template is built to make installation easy.
 
 * Upload zip to your web server and extract it.
-* .
-* Navigate to that folder in your web browser.
-* Follow the instructions on screen.
+Change links
+* TGB public_html/HGTtemplate/TBGTemplateNitrogen/core/templates/headertop.inc.php 
+http://YOURSITE.COM/YOURforum/ 
+https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
+
+_header.inc.php
+Customize your site's guest view homepage title and welcome message.
+and
+Customize your site's logged in view homepage title. 
+
+
+_issueupdate.html.inc.php
+Replace YOURSITE.COM with your site's url. 
+
+
+
+Upload image files to replace custom-header.png (site icon) and favicon.png
+
+
+
+Vanilla
+default.master.tpl
+You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your 
+
+Forum and 
+
+GitHub urls to be added in
+
+Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+
+
+http://YOURSITE.COM/YOURforum
+and
+http://github.com/YOURorganization
+
+
+Change locale.php "register invitation if you want"
+
+
+YOURSITE.COM/YOURTBGfolder for registerapproval.php
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Open Source
 
