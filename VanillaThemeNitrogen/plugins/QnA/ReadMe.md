@@ -1,6 +1,6 @@
 ###The Q&A Big Button Remix plugin
 
-Code changes found in the helpful forum post The Big Button option part A: http://vanillaforums.org/discussion/26902/some-adjustments-to-more-clearly-see-ask-a-question-in-q-a-1-2-1-new-discussion-button have made to this plugin. 
+Code changes have made to this plugin found in the helpful forum post The Big Button option part A: http://vanillaforums.org/discussion/26902/some-adjustments-to-more-clearly-see-ask-a-question-in-q-a-1-2-1-new-discussion-button. 
 
 In addition to these code changes, add the two additional lines of code below (also copied from the above post) to your config.php file to make the Big Button appear: 
 
