@@ -12,10 +12,11 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
  * An associative array of information about this application.
  */
 $ThemeInfo['nitrogen'] = array(
-   'Name' => 'nitrogen',
-   'Description' => "The Nitrogen theme for Vanilla is a remix of the EmbedFriendly theme. This Nitrogen theme's purpose is to match the styling of the Nitrogen Bug Genie template, and to provide a top button menu button bar that allows for seemless navigation between a Vanilla Forum and a Bug Genie Project Managaer.",
-   'Version' => APPLICATION_VERSION,
-   'Author' => "Mark O'Sullivan (original EmbedFriendly theme), David Matson (Nitrogen remix)",
-   'AuthorEmail' => '',
+   'Name' => 'Nitrogen',
+   'Description' => "The Nitrogen theme for Vanilla is a remix of the EmbedFriendly version 3.0 theme by Mark O'Sullivan, and is provided to you under a GNU GPL2 license just like the original. Compare current original and remixed versions of these themes here: https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1.  
+
+The Nitrogen theme's purpose is to match the styling of the Nitrogen Bug Genie template, and to provide a top-menu button bar for easy navigation between a Vanilla Forum and a Bug Genie Project Manager.  It is designed to be used with the Help Give Thanks Research Project Template: http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate.",
+   'Version' => "1.0",
+   'Author' => "David Matson",
    'AuthorUrl' => 'http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate'
 );
