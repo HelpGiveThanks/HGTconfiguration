@@ -59,6 +59,8 @@ The Nitrogen Template by David Matson = 33 minor file changes and 2 additions to
 
 To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1.
 
+To see actual differences on the date these changes where made, unzip and review the archived comparison file located in the same folder as this ReadMe file: Comparing thebuggenie_branch-32...HelpGiveThanks_nitrogen · HelpGiveThanks_thebuggenie.zip
+
 To see screenshots and read a detailed explanation about the template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
 
 To download a copy of the template files and learn how to customize and install them via drop-in replace go here https://sourceforge.net/projects/helpgivethanks/
