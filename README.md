@@ -21,23 +21,23 @@ This template is built to make installation easy.
 2 Download it to a safe place on your computer.  
 
 Drop-in replacement and new TGB files  
-1 select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder  
-2 click move  
-3 change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.  
-3 go to YOURTGBfolder/  
-8 Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
-9 Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
-4 login  
-5 go to configure bug genie   
-6 if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.    
-7 go the main YOURTGBfolder  
-9 enable file uploads  
-9 go to Settings  
-19 select the Appearance tab  
-1 select theme nitrogen  
-1 click save  
-1 click Configure icons  
-10 upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
+1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder  
+2. click move  
+3. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.  
+3. go to YOURTGBfolder/  
+8. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
+9. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
+4. login  
+5. go to configure bug genie   
+6. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.    
+7. go the main YOURTGBfolder  
+9. enable file uploads  
+9. go to Settings  
+19. select the Appearance tab  
+1. select theme nitrogen  
+1. click save  
+1. click Configure icons  
+10. upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
 
 
 
