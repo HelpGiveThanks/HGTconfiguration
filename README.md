@@ -17,22 +17,16 @@ Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 This template is built to make installation easy.
 
 * Upload zip to your web server and extract it.
+
 1 Save your bug genie install by zipping it.  
 2 Download it to a safe place on your computer.  
 
-1. First ordered list item
-1. Another item
-  * Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-1. And another item.
+Drop-in replacement and new TGB files
 
-Drop-in replacement and new TGB files  
 1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder
 1. click move
 1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
 1. go to YOURTGBfolder/
-
 1. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
 1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
 1. login  
