@@ -21,17 +21,29 @@ This template is built to make installation easy.
 1 Save your bug genie install by zipping it.  
 2 Download it to a safe place on your computer.  
 
-Drop-in replacement and new TGB files
+Drop-in replacement and new TGB files, and upload some icons to tell your website apart from others.
 
 1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder
 1. click move
 1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
 1. go to YOURTGBfolder/
 1. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
-1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
+1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/ 
+1. click the 'Overview' button.
+
+Configure headertop.inc.php file
+
+7. open the /core/templates/  headertop.inc.php
+1. Experiment with icon size and padding to get best look.
+2. http://YOURSITE.COM/YOURforum/
+3. https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
+
+Configure TGP name, theme, icons, and your custom icon
+ 
 1. login  
 1. go to configure bug genie
 1. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.
+1. Change type in your Bug Genie's custom name.
 1. go the main YOURTGBfolder  
 1. enable file uploads  
 1. go to Settings  
@@ -40,26 +52,24 @@ Drop-in replacement and new TGB files
 1. click save  
 1. click Configure icons  
 1. upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
+1. go to 'My account' settings 'General settings' tab and enable Gravatar avatar to show personal icon by click 'Yes' and then 'Save'.
+1. log out
 
 
-
-7 open the /core/templates/  headertop.inc.php
-
-1 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
-
-2 http://YOURSITE.COM/YOURforum/
-
-3 https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
+C. Configure Overview Page
 
 _header.inc.php
 1 Customize your site's guest view homepage title and welcome message.
-and
 2 Customize your site's logged in view homepage title.
-
 
 _issueupdate.html.inc.php
 
 1 Replace YOURSITE.COM with your site's url.
+
+
+
+
+
 
 
 
