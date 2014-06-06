@@ -32,6 +32,7 @@ Drop-in replacement and new TGB files
 1. click move
 1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
 1. go to YOURTGBfolder/
+
 1. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
 1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
 1. login  
