@@ -17,12 +17,13 @@ Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 This template is built to make installation easy.
 
 * Upload zip to your web server and extract it.
-Change links
-* TGB 
+
+
 
 public_html/HGTtemplate/TBGTemplateNitrogen/core/templates/headertop.inc.php 
 
 1 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+Better to wait though and do this one after Drop-in replacement and new TGB files
 
 
 2 http://YOURSITE.COM/YOURforum/ 
