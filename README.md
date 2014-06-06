@@ -22,49 +22,49 @@ This template is built to make installation easy.
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
+  * Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
   1. Ordered sub-list
 4. And another item.
 
 Drop-in replacement and new TGB files  
 1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder
-2. click move
-3. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
-3. go to YOURTGBfolder/
-8. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
-9. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
-4. login  
-5. go to configure bug genie   
-6. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.    
-7. go the main YOURTGBfolder  
-9. enable file uploads  
-9. go to Settings  
-19. select the Appearance tab  
+1. click move
+1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
+1. go to YOURTGBfolder/
+1. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
+1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
+1. login  
+1. go to configure bug genie
+1. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.
+1. go the main YOURTGBfolder  
+1. enable file uploads  
+1. go to Settings  
+1. select the Appearance tab  
 1. select theme nitrogen  
 1. click save  
 1. click Configure icons  
-10. upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
+1. upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
 
 
 
-7 open the /core/templates/  headertop.inc.php 
+7 open the /core/templates/  headertop.inc.php
 
 1 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
 
-2 http://YOURSITE.COM/YOURforum/ 
+2 http://YOURSITE.COM/YOURforum/
 
 3 https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
 
 _header.inc.php
 1 Customize your site's guest view homepage title and welcome message.
 and
-2 Customize your site's logged in view homepage title. 
+2 Customize your site's logged in view homepage title.
 
 
 _issueupdate.html.inc.php
 
-1 Replace YOURSITE.COM with your site's url. 
+1 Replace YOURSITE.COM with your site's url.
 
 
 
@@ -74,11 +74,11 @@ _issueupdate.html.inc.php
 
 Vanilla
 default.master.tpl
-1 You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your 
+1 You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your
 
 2 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
 
-3 Forum http://YOURSITE.COM/YOURforum 
+3 Forum http://YOURSITE.COM/YOURforum
 
 4 GitHub http://github.com/YOURorganization
 
