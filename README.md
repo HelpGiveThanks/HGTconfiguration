@@ -21,10 +21,10 @@ This template is built to make installation easy.
 2 Download it to a safe place on your computer.  
 
 Drop-in replacement and new TGB files  
-1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder  
-2. click move  
-3. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.  
-3. go to YOURTGBfolder/  
+1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder
+2. click move
+3. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
+3. go to YOURTGBfolder/
 8. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
 9. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/  
 4. login  
