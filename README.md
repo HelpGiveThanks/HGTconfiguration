@@ -27,14 +27,13 @@ Drop-in replacement and new TGB files, and upload some icons to tell your websit
 1. click move
 1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
 1. go to YOURTGBfolder/
-1. Upload image files to replace custom-header.png (site icon) and favicon.png (these will be used by Vanilla later on in this install)  
+1. Upload image files to replace custom-header.png (site icon) and favicon.png  
 1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/ 
 1. click the 'Overview' button.
 
-Configure headertop.inc.php file
+C. open and configure the /core/templates/  headertop.inc.php
 
-7. open the /core/templates/  headertop.inc.php
-1. Experiment with icon size and padding to get best look.
+1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
 2. http://YOURSITE.COM/YOURforum/
 3. https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
 

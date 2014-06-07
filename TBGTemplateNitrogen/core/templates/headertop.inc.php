@@ -17,7 +17,7 @@
 
 <?php //  111111111111111111111111111111111  ?>	 
 	
-<?php // Experiment with icon width and height to get best look.  ?> 
+<?php // Experiment with icon width and height to get best look. Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right. ?> 
 	<div id="logo_container">
 	    <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Icon"><img alt="icon" src="<?php echo TBGContext::getTBGPath(); ?>custom-header.png" style="width: 24px; height: 24px;"></img></a>
 	</div>
