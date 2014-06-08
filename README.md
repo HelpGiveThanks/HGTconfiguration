@@ -16,29 +16,35 @@ Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 
 This template is built to make installation easy.
 
-* Upload zip to your web server and extract it.
+#####A. Template drop-in replacement preparation
+1. Upload the HGTtemplate.zip to your web server and extract it.
+1. Zip your TGB folder.  
+2. Download it to a safe place on your computer as a backup.  
 
-1 Save your bug genie install by zipping it.  
-2 Download it to a safe place on your computer.  
+#####B. TGB Drop-in replacement and icon upload
 
-Drop-in replacement and new TGB files, and upload some icons to tell your website apart from others.
+1. Select all files in .../HGTtemplate/TBGTemplateNitrogen/ folder.
+1. Click move.
+1. Change folder name to your Bug Genie's folder name, which, if you followed my recommendation, you named 'pm' for project manager.
+1. Click into YOURTGBfolder/.
+1. Upload image files to replace header.png (site icon) and favicon.png to help identify your TGB website.  
+1. Go to your website's buggenie: http://YOURSITE.COM/YOURTGBfolder/.
+1. Click the 'Overview' button.
 
-1. select all files in public_html/HGTtemplate/TBGTemplateNitrogen/ folder
-1. click move
-1. change folder name to your Bug Genie's folder name which if you followed my recommendation you named 'pm' for project manager.
-1. go to YOURTGBfolder/
-1. Upload image files to replace custom-header.png (site icon) and favicon.png  
-1. Go to your website's buggenie http://YOURSITE.COM/YOURTGBfolder/ 
-1. click the 'Overview' button.
+#####C. Configure Overview Page
+_header.inc.php
 
-C. open and configure the /core/templates/  headertop.inc.php
+1. Customize your site's guest view homepage title and welcome message.
+2. Customize your site's logged in view homepage title.
+
+#####D. Configure top, menu-bar icon and links in file .../core/templates/  headertop.inc.php
 
 1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
-2. http://YOURSITE.COM/YOURforum/
-3. https://github.com/YOURorganization/  OR  https://drive.google.com/YOURdrive  OR   other collaborative document creating, editing, etc. web tool.
+2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
+3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool
 
 Configure TGP name, theme, icons, and your custom icon
- 
+
 1. login  
 1. go to configure bug genie
 1. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.
@@ -55,11 +61,7 @@ Configure TGP name, theme, icons, and your custom icon
 1. log out
 
 
-C. Configure Overview Page
 
-_header.inc.php
-1 Customize your site's guest view homepage title and welcome message.
-2 Customize your site's logged in view homepage title.
 
 _issueupdate.html.inc.php
 
