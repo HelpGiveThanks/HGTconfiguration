@@ -51,20 +51,26 @@
 	
 <?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
 		<?php if ($tbg_response->getTitle() != 'Overview'): ?><?php echo get_spaced_name($article_name); ?> <?php else: ?>
-		<?php if ($tbg_user->isGuest()): ?>  
-			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'max-height: 24px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 
+		<?php if ($tbg_user->isGuest()): ?> 
+						
+				
+
+<?php //  111111111111111111111111111111111  ?> 
+
+<?php // Customize your site's icon size. ?>
+			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'width: 75px; height: 75px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 
 				
 				
 
-<?php //  111111111111111111111111111111111  ?>
+<?php //  222222222222222222222222222222222  ?>
 				
 <?php // Customize your site's guest view homepage title and welcome message. ?>						
- 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on lines 62 and 70."; ?></span></div><br>
+ 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on lines 68 and 76."; ?></span></div><br>
 		<?php else: ?>
 			
 			
 
-<?php //  222222222222222222222222222222222  ?>
+<?php //  333333333333333333333333333333333  ?>
 			
 <?php // Customize your site's logged in view homepage title. ?>			
 		<?php echo "Your Website Name Overview"; ?><?php endif; ?>

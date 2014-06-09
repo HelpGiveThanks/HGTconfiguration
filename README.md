@@ -17,27 +17,30 @@ Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 This template is built to make installation easy.
 
 #####A. Template drop-in replacement preparation
-1. Upload the HGTtemplate.zip to your web server and extract it.
+1. Download the HGTtemplate.zip template.
+1. Upload the template to your web server and extract it.
 1. Zip your TGB folder.  
 2. Download it to a safe place on your computer as a backup.  
 
 #####B. TGB Drop-in replacement and icon upload
 
-1. Select all files in .../HGTtemplate/TBGTemplateNitrogen/ folder.
-1. Click move.
-1. Change folder name to your Bug Genie's folder name, which, if you followed my recommendation, you named 'pm' for project manager.
-1. Click into YOURTGBfolder/.
-1. Upload image files to replace header.png (site icon) and favicon.png to help identify your TGB website.  
-1. Go to your website's buggenie: http://YOURSITE.COM/YOURTGBfolder/.
+1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder.
+1. Click 'Select all' from the cPanel file menubar.
+1. Click 'Move' from the cPanel top menubar.
+1. Change folder name /TBGTemplateNitrogen/ in the popup window to your Bug Genie's folder name, which, if you followed my recommendation, you named /pm/ for project manager.
+1. Click into your TGB folder.
+1. Upload image files to replace header.png (site icon) and favicon.png to help identify your website.
+1. Open a new tab in browser.  
+1. Type in your website's buggenie url: http://YOURSITE.COM/YOURTGBfolder/.
 1. Click the 'Overview' button.
 
-#####C. Configure Overview Page
-_header.inc.php
+#####C. Configure overview page icon and titles in file _header.inc.php located in folder .../modules/publish/templates/
 
-1. Customize your site's guest view homepage title and welcome message.
-2. Customize your site's logged in view homepage title.
+1. Customize your site's icon size. Keep width and height equal and upload a new icon if you need to change it's proportions. The icon shows up on other pages that you are not going to customize with equal proportions.
+1. Rewrite your site's guest overview page title and welcome message on line 68.
+2. Rewrite your site's logged in overview title on line 76.
 
-#####D. Configure top, menu-bar icon and links in file .../core/templates/  headertop.inc.php
+#####D. Configure top, menu-bar icon and links in file headertop.inc.php located in folder .../core/templates/  
 
 1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
 2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
