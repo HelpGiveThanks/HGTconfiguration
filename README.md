@@ -75,8 +75,13 @@ This template is built to make installation easy.
 1. Click Header icon's upload new icon radio button, and then click the 'Choose File' button.
 1. Select a custom-header.png file, and click 'Choose'.
 1. Click 'Close popup' button.
-1. Click the 'save' button (bottom right).  
-Click on 'System Administrator' (upper right corner).
+1. Click the 'save' button (bottom right).
+1. Select the 'Users & security' tab.  
+1. Scroll down to 'Gravatar user icons' and select gravatar.com service option.  
+1. Scroll down to 'Gravatar user icons' and select gravatar.com service option.
+1. If you are taking your time setting things up change the 'New user accounts' default to "... created by admin" until you are ready.
+1. Click the 'save' button (bottom right).
+1. Click on 'System Administrator' (upper right corner).
 1. Select 'My account' option.
 1. Change the Full Name to your full name.
 1. Make sure the Gravatar email address you want is in the 'your email' address field.
@@ -87,15 +92,15 @@ Click on 'System Administrator' (upper right corner).
 
      I will cover the other important TBG configuration options and setting up projects in another video.  This video is focused just on intial look-and-feel configurations.
 
-#####E. Fix system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
+#####E. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
 
-1 Replace YOURSITE.COM with your site's name and .com, .org, etc.
+1 Replace YOURSITE.COM with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
 
 Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc., but let's move on for now to add the nitrogen template to your Vanilla forum.
 
 #####F. Vanilla template drop-in replacement preparation
 
-1. Zip your TGB folder.  
+1. Zip your Vanilla folder.  
 2. Download it to a safe place on your computer as a backup.
 
 #####G. Vanilla Drop-in replacement
