@@ -46,40 +46,69 @@ This template is built to make installation easy.
 2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
 3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool
 
-Configure TGP name, theme, icons, and your custom icon
+#####D. Configure TGB name, theme, and icons
 
-1. login  
-1. go to configure bug genie
-1. if getting magic quotes error message, go to the YOURTGBfolder/thebuggenie and extract the php.ini.zip.  This may solve the problem. If not contact your hosting company help desk.
-1. Change type in your Bug Genie's custom name.
-1. go the main YOURTGBfolder  
-1. enable file uploads  
-1. go to Settings  
-1. select the Appearance tab  
-1. select theme nitrogen  
-1. click save  
-1. click Configure icons  
-1. upload Favicon and Upload new icon option and then Header icon Upload new icon option and click Update icons  
-1. go to 'My account' settings 'General settings' tab and enable Gravatar avatar to show personal icon by click 'Yes' and then 'Save'.
-1. log out
+1. Click on 'You are not logged in' (upper right corner).
+1. Login.
+1. Click on 'System Administrator' (upper right corner).
+1. Select 'Configure The Bug Genie' option.
 
+     NOTE: If you get a magic quotes error message
+     1. Click on the tab for your cPanel file manager and go to  YOURTGBfolder/thebuggenie.
+     1. Click once on the php.ini.zip to select it.
+     1. Click on the 'Extract' button in the cPanel's top menu bar.
+     1. Click on the tab for your Bug Genie, and refresh the page.
 
+     This may solve the problem. If not contact your hosting company's tech support people.
+1. Select the 'Settings' tile (top row, middle tile on the 'Configure The Bug Genie' page).
+1. Type in your Bug Genie's custom name (the name of your website, family, organizaiton, etc.).
+1. Click the 'save' button (bottom right).
+1. Select 'Uploads & attachments' (6th option from the right menu column).  
+1. Enable file uploads.
+1. Click the 'save' button (bottom right).  
+1. Select 'Settings' (2nd option from the right menu column).
+1. Select the 'Appearance' tab.  
+1. Click on the selected theme 'oxygen' and change it to 'nitrogen' (keep oxygen as the iconset).
+1. Click the blue 'Configure icons' button.  
+1. Click Favicon's upload new icon radio button, and then click the 'Choose File' button.
+1. Select a custom favicon.png file, and click 'Choose'.
+1. Click Header icon's upload new icon radio button, and then click the 'Choose File' button.
+1. Select a custom-header.png file, and click 'Choose'.
+1. Click 'Close popup' button.
+1. Click the 'save' button (bottom right).  
+Click on 'System Administrator' (upper right corner).
+1. Select 'My account' option.
+1. Change the Full Name to your full name.
+1. Make sure the Gravatar email address you want is in the 'your email' address field.
+1. Click the 'save' button (bottom right).
+1. Click the 'General settings' tab.
+1. Select 'Yes' for 'Use Gravatar avatar' option.
+1. Click the 'save' button (bottom right).
 
+     I will cover the other important TBG configuration options and setting up projects in another video.  This video is focused just on intial look-and-feel configurations.
 
-_issueupdate.html.inc.php
+#####E. Fix system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
 
-1 Replace YOURSITE.COM with your site's url.
+1 Replace YOURSITE.COM with your site's name and .com, .org, etc.
 
+Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc., but let's move on for now to add the nitrogen template to your Vanilla forum.
 
+#####F. Vanilla template drop-in replacement preparation
 
+1. Zip your TGB folder.  
+2. Download it to a safe place on your computer as a backup.
 
+#####G. Vanilla Drop-in replacement
 
+1. Click into the .../HGTtemplate/VanillaTemplateNitrogen/ folder.
+1. Click 'Select all' from the cPanel file menubar.
+1. Click 'Move' from the cPanel top menubar.
+1. Change folder name /VanillaTemplateNitrogen/ in the popup window to your Vanilla forum's folder name, which, if you followed my recommendation, you named /forum/.
+1. Click into your Vanilla /forum/ folder.  
 
+#####D. Enable Nitogen theme and selected plugins
 
-
-
-
-
+#####D. Configure top, menu-bar icon and links in filedefault.master.tpl located in folder .../core/templates/
 
 Vanilla
 default.master.tpl
