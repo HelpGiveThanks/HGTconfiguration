@@ -43,14 +43,15 @@ rel="icon" type="image/png"
 	
 /*  333333333333333333333333333333333  */	
 	
-/* Code in your Forum, GitHub, Overview, and Project Manager urls */
+/* Type in your Forum url, replacing http://YOURSITE.COM/YOURforum. */
     href="http://YOURSITE.COM/YOURforum/">Forum</a></td><td><a style="margin-left: 20px; color: white;" 
     
     
 	
 	
-/*	 444444444444444444444444444444444  */
-	
+/*  444444444444444444444444444444444  */
+
+/* Type in your GitHub url, replacing http://github.com/YOURorganization */	
     href="https://github.com/YOURorganization">GitHub </a><a style="margin-left: 20px; color: white;" 
     
 	

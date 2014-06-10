@@ -16,6 +16,27 @@ Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 
 This template is built to make installation easy.
 
+#####A. Create a new project manager and forum for your family, roomates, friends, organization, business, etc.
+1. Purchase a website hosting accounting that comes with a cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and am very happy with their service: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plan.  (Perfect for a small website.)
+1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
+1. Scroll down to Software/Services sections and click on Softaculous icon.
+1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
+1. Click install.
+1. Leave most everything as is, but change
+     1. In Directory 'buggenie' to 'pm' for project manager.
+     1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
+     1. Change the email address to an email address associated with a Gravatar icon.
+1. Click install.  
+1. Next type 'vanilla' in the top right search box, and click on Vanilla.
+1. Click install.
+1. Leave most everything as is, but change
+     1. In Directory 'vanilla' to 'forum' for forum.
+     1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
+     1. Change the email address to the same one used to install The Bug Genie (TGB).  
+1. Click install.
+1. Return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
+1. In the Files section click the 'File Manager' icon, and then click the popup window's 'Go' button.
+
 #####A. Template drop-in replacement preparation
 1. Download the HGTtemplate.zip template.
 1. Upload the template to your web server and extract it.
@@ -26,11 +47,11 @@ This template is built to make installation easy.
 
 1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder.
 1. Click 'Select all' from the cPanel file menubar.
-1. Click 'Move' from the cPanel top menubar.
-1. Change folder name /TBGTemplateNitrogen/ in the popup window to your Bug Genie's folder name, which, if you followed my recommendation, you named /pm/ for project manager.
+1. Click 'Copy' (not move) from the cPanel top menubar.
+1. Replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ in the popup window with your Bug Genie's one folder name, which, if you followed my recommendation, you named /pm/ for project manager.
 1. Click into your TGB folder.
 1. Upload image files to replace header.png (site icon) and favicon.png to help identify your website.
-1. Open a new tab in browser.  
+1. Open a new tab in your browser.  
 1. Type in your website's buggenie url: http://YOURSITE.COM/YOURTGBfolder/.
 1. Click the 'Overview' button.
 
@@ -63,10 +84,10 @@ This template is built to make installation easy.
 1. Select the 'Settings' tile (top row, middle tile on the 'Configure The Bug Genie' page).
 1. Type in your Bug Genie's custom name (the name of your website, family, organizaiton, etc.).
 1. Click the 'save' button (bottom right).
-1. Select 'Uploads & attachments' (6th option from the right menu column).  
+1. Select 'Uploads & attachments' (6th option from the left menu column).  
 1. Enable file uploads.
 1. Click the 'save' button (bottom right).  
-1. Select 'Settings' (2nd option from the right menu column).
+1. Select 'Settings' (2nd option from the left menu column).
 1. Select the 'Appearance' tab.  
 1. Click on the selected theme 'oxygen' and change it to 'nitrogen' (keep oxygen as the iconset).
 1. Click the blue 'Configure icons' button.  
@@ -105,49 +126,111 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 
 #####G. Vanilla Drop-in replacement
 
-1. Click into the .../HGTtemplate/VanillaTemplateNitrogen/ folder.
+1. Click into the .../HGTtemplate/VanillaThemeNitrogen/ folder.
 1. Click 'Select all' from the cPanel file menubar.
-1. Click 'Move' from the cPanel top menubar.
-1. Change folder name /VanillaTemplateNitrogen/ in the popup window to your Vanilla forum's folder name, which, if you followed my recommendation, you named /forum/.
-1. Click into your Vanilla /forum/ folder.  
+1. Click 'Copy' (not move file) from the cPanel top menubar.
+1. Replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ in the popup window with your Vanilla forum's folder one name, which, if you followed my recommendation, you named /forum/.
+1. Click into your Vanilla /forum/ folder.
+1. Open a new tab in your browser.
+1. Type in your website's forum url: http://YOURSITE.COM/FORUMfolder/.
 
-#####D. Enable Nitogen theme and selected plugins
+#####H. Enable Nitogen theme and selected plugins
 
-#####D. Configure top, menu-bar icon and links in filedefault.master.tpl located in folder .../core/templates/
+1. Sign in.
+1. Click the gear icon (right above the 'New Discussion' button) and select the 'dashboard' option from the popup menu that opens.
+1. From the right Appearance menu click on Themes.
+1. Scroll down the Nitrogen theme and click its 'Apply' button.
+1. Scroll down looking for the Addons left menu options, and click its Plugins option.
+1. Enable the following plugins:
+     1. Emotify :) – There fun and can inject levity into serious discussions.
+     1. EpicEditor
+     1. Flagging
+     1. Gravatar
+     1. In This Discussion
+     1. Last Edited
+     1. Q&A Big Button Remix
+     1. Split / Merge
+     1. Tagging
+     1. Vanilla Statistics
+     1. WYSIWYG (CLEditor)
 
-Vanilla
-default.master.tpl
-1 You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your
+#####I. Copy and paste text below (required to make the Q&A Big Button appear) into file config.php located in folder .../conf/
 
-2 Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+1. Paste text below under config.php's line 1 ```<?php if (!defined('APPLICATION')) exit();```  
+(do make a space or two before and after (less crowded)).
 
-3 Forum http://YOURSITE.COM/YOURforum
+```
+//Make big question button appear
+$Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 
-4 GitHub http://github.com/YOURorganization
+$Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
+```
+#####J. CAUTION: Enable FirstLastName plugin if your forum is for only people you know and trust.
+
+1. Open into your Vanilla's .../plugins/CAUTION/ folder.
+1. Click 'Select all' from the cPanel file menubar.
+1. Click 'Copy' (not move file) from the cPanel top menubar.
+1. Delete /CAUTION/ in the popup window.  It should read: .../plugins/.
+1. Click the 'Copy File(s)' button to copy FirstLastName folder to the Plugins folder.
+1. Click the plugins browser tab, and then refresh it.
+1. Scroll down to the FirstLastName plugin, and read the reason for keeping this plugin disabled if your forum is open to strangers.
+1. Enable it if there is no security risk, and allow users to  sign posts using their full names versus a user nickname.
+
+     If after reading the Warning, you decide it is unsafe to enable, then don't.  You do not need to put it back into the CAUTION folder.
+1. Scroll to the Forum section of the left hand menu, and click on the 'FirstLastNames' option.
+1. Click 'Use Display Names' to show users full names.  
+
+#####K. Customize link to your Terms of Use wiki page.
+
+Lawyers need our heartfelt gratitude for creating documents like Terms of Use.  This is an essential, serious document for regulating emotions and keeping everyone on your forum respectful of the feelings and thoughts of others.  Everyone who uses your forum must agree to abide by your Terms of Use.
+
+The custom link will point people to one Terms of Use document for both your Forum and Bug Genie, located where it is easiest to modify, in your Bug Genie's wiki.  
+
+1. Click on your File Manager tab.
+1. Go to the Vanilla folder .../plugins/FirstLastNames/views/
+1. Open the registerapproval.php file.
+1. Replace /YOURSITE.COM/YOURTBGfolder/ with requested information (your site's name and .com, .org, etc. and your Vanilla folder's name: example – /forum/).
+1. Save and close file.
+1. Repeat the above three steps for the rest of these files:
+     1. registerbasic.php
+     1. registercaptcha.php
+     1. registerinvitation.php
+1. Go to the Vanilla folder .../themes/nitrogen/views/entry/ and repeat the above three step process on these files:
+     1. registerapproval.php
+     1. registerbasic.php
+     1. registercaptcha.php
+     1. registerinvitation.php
 
 
 
+#####L. Configure top, menu-bar icon and links in file default.master.tpl located in folder .../themes/nitrogen/views
 
+1. Do a find/replace of "YOURSITE.COM/YOURTBGfolder" to  customize all 8 instances of it.
+     1. Click the binocluar icon to open the find/replace window.
+     1. If you don't see this icon, then click the 'Use code editor' button.
+2. Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+3. Type in your Forum url, replacing http://YOURSITE.COM/YOURforum.
+4. Type in your GitHub url, replacing http://github.com/YOURorganization
 
+     You can also change the GitHub link name to Docs or something else, if you decided to use Google Docs instead of GitHub to colaborate with others on file creation, improvements, etc.
 
+#####M. Restrict access to just people you want on the forum while you build up a trusted user base.
 
+1. Click on your browser's Vanilla dashboard plugin tab.
+1. Scroll to the top and click on the 'Registration' option under the left hand menu's Users section.
+1. Select the 'invitation' option.
+1. Scroll down and under 'Role	Invitations per month'
+     1. Select 'Unlimited' for Administrator = you.
+     1. Select 'None' for all other roles.
+1. Click the 'save' button.
 
-Change locale.php "register invitation if you want"
+     This insures that no one can create an account without your consent while you setup the forum.
 
+#####N. Final Step
 
-YOURSITE.COM/YOURTBGfolder for registerapproval.php
-
-
-
-
-
-
-
-
-
-
-
-
+1. If you want the 'Register Invitation' button to say something different
+     1. Go to Vanilla folder /conf/ and open file local.php.
+     1. Change the text in single quotes on line 15 after the equal sign.
 
 
 ## Open Source
@@ -160,63 +243,6 @@ To see screenshots and read a detailed explanation about the HGT Template go her
 
 To download a copy of this template go here https://sourceforge.net/projects/helpgivethanks/.
 
-
-## Upgrading
-
-Follow these steps to upgrade Vanilla when a new stable release is announced.
-
-
-* Backup your database and `conf/config.php` file somewhere safe.
-* Upload the new release's files so they overwrite the old ones.
-* Go to `yourforum.com/index.php?p=/utility/update` to force any updates needed.
-* If it fails, try it a second times by refreshing the page.
-
-To upgrade to **2.1 from 2.0.18**, add this step:
-
-* Delete the file [`/themes/mobile/views/discussions/helper_functions.php`](https://github.com/vanillaforums/Garden/blob/2.0/themes/mobile/views/discussions/helper_functions.php)
-
-To upgrade from Vanilla **1.0**, you must export your data using the Vanilla Porter as if it were a migration. Your theme and any customizations will need to be recreated. Backup your Vanilla 1 data and files completely, then delete them from your server before attempting to install Vanilla 2.
-
-## Migrating to Vanilla
-
-* Get [Vanilla Porter](http://vanillaforums.org/addon/porter-core) and verify it supports your platform.
-* Read the Advanced Uses notes on that page.
-* Upload it to your current server.
-* Navigate to the file in your web browser & run it.
-* Take the file it produces and import it to Vanilla.
-
-## Getting Help
-
-* [Troubleshooting upgrades & installs](http://codex.vanillaforums.com/developers/troubleshooting/)
-* [Official documentation](http://docs.vanillaforums.com)
-* [Vanilla community forums](http://vanillaforums.org/discussions)
-* [Official cloud hosting with professional support & migration services](http://vanillaforums.com/plans)
-
-## Contributing
-
-* Troubleshoot issues you run into on the community forum so everyone can help & reference it later.
-* Got an idea or suggestion? Use the forum to discuss it.
-* File detailed issues on GitHub (version number, what you did, and actual vs expected outcomes).
-* Sign the Contributors' Agreement to send us code.
-* Use pull requests against the correct release.
-
-## Version Control Strategy
-
-We've adopted the [git flow branching model](http://nvie.com/posts/a-successful-git-branching-model) in our projects.
-The creators of git flow released a [short intro video](http://vimeo.com/16018419) to explain the model.
-
-The `master` branch is production-ready for a our cloud product but is not yet vetted for open source release.
-Only small patches and `hotfix/x` branches land against `master`, and it always has a stable version number.
-The `develop` and `stage` branches are pre-production and are where we land `feature/x` branches for integration testing.
-
-Our open source release branches are named by version number, e.g. `2.0` and `2.1`.
-We begin release branches with a beta (b1) designation and progress them thru release candidate to stable.
-All open source releases (included pre-releases) are tagged.
-
-After `2.1`, we will be leap-frogging version numbers between `master` and releases.
-Releases will receive the next odd-point number and `master` will then jump to the next even-point number.
-Therefore, the next open source release after 2.1 will be 2.3. When the 2.3 beta begins, `master` will move to 2.4.
-
 ## Legal Stuff
 Copyright &copy; 2009-2014 Vanilla Forums Inc.
 
@@ -227,7 +253,3 @@ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 See the GNU General Public License for more details. You should have received a copy of the GNU General Public License
 along with Vanilla Forums.  If not, see <http://www.gnu.org/licenses/>.
 Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
-
-## Bonk!
-
-Just kidding, everything's awesome. ![dance](http://cdn.vanillaforums.com/dance.gif)
