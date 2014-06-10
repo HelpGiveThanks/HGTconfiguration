@@ -3,7 +3,7 @@
 	<?php if (TBGSettings::getThemeName() != 'nitrogen'): ?>
 	<div id="logo_container">
 		<?php $link = (TBGSettings::getHeaderLink() == '') ? TBGContext::getTBGPath() : TBGSettings::getHeaderLink(); ?>
-		<a class="logo" href="<?php print $link; ?>"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'width: 24px; height: 35px;'), TBGSettings::isUsingCustomHeaderIcon()); ?></a>
+		<a class="logo" href="<?php print $link; ?>"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'width: 24px; height: 24px;'), TBGSettings::isUsingCustomHeaderIcon()); ?></a>
 		<div class="logo_name"><?php echo TBGSettings::getTBGname(); ?></div>
 	</div> 
 	<?php endif; ?>
@@ -19,7 +19,7 @@
 	
 <?php // Experiment with icon width and height to get best look. Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right. ?> 
 	<div id="logo_container">
-	    <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Icon"><img alt="icon" src="<?php echo TBGContext::getTBGPath(); ?>header.png" style="width: 35px; height: 30px;"></img></a>
+	    <a href="<?php echo TBGContext::getTBGPath(); ?>wiki/Icon"><img alt="icon" src="<?php echo TBGContext::getTBGPath(); ?>header.png" style="width: 24px; height: 24px;"></img></a>
 	</div>
         <div><nav class="tab_menu header_menu" id="main_menu">
 
@@ -28,13 +28,13 @@
 <?php //  222222222222222222222222222222222  ?>
 
 <?php // Code in your forum and GitHub url's ?>      
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://helpfreeintelligece.org/forum/"> Forum</a></li>
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="http://YOURSITE.COM/YOURforum/"> Forum</a></li>
 
 
 
 <?php //  333333333333333333333333333333333  ?>
 
-            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/helpfreeintelligence/"> GitHub</a></li>
+            <li><div><a class= "tab_menu header_menu" id="main_menu" href="https://github.com/YOURorganization/"> GitHub</a></li>
                  
                  
                     

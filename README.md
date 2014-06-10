@@ -21,51 +21,47 @@ This template is built to make installation easy.
 1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
 1. Scroll down to Software/Services sections and click on Softaculous icon.
 1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
-1. Click install.
+1. Click the blue 'install' button.
 1. Leave most everything as is, but change
      1. In Directory 'buggenie' to 'pm' for project manager.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon.
-1. Click install.  
+1. Click the grey 'install' button.
 1. Next type 'vanilla' in the top right search box, and click on Vanilla.
-1. Click install.
+1. Click the blue 'install' button.
 1. Leave most everything as is, but change
      1. In Directory 'vanilla' to 'forum' for forum.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
-1. Click install.
+1. Click the grey 'install' button.
 1. Return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
 1. In the Files section click the 'File Manager' icon, and then click the popup window's 'Go' button.
 
-#####A. Template drop-in replacement preparation
+#####B. Template drop-in replacement preparation
 1. Download the HGTtemplate.zip template.
-1. Upload the template to your web server and extract it.
-1. Zip your TGB folder.  
-2. Download it to a safe place on your computer as a backup.  
+1. Click the 'Upload' icon (File Manager's top menu bar).
+1. Click the 'Choose File' button in the window that opens and choose the HGTtemplate.zip to upload it.
+1. Close the upload window.
+1. Click the 'Reload' button (second menu bar) if you do not see the HGTtemplate.zip.
+1. Click on HGTtemplate.zip to select it.
+1. Click the 'Extract' button to unzip it.
+1. You can now delete the zip file to reduce clutter in your File Manager.
+1. Select your pm folder and compress it (click the 'Compress' button and then the 'Compress File(s)' button).  
+2. Download the resulting zip file to a safe place on your computer as a backup (select the file and click the 'Download' button).  
 
-#####B. TGB Drop-in replacement and icon upload
+#####C. TGB Drop-in replacement and icon upload
 
-1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder.
+1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder (by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, which you then double-click on to click into it).
 1. Click 'Select all' from the cPanel file menubar.
 1. Click 'Copy' (not move) from the cPanel top menubar.
-1. Replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ in the popup window with your Bug Genie's one folder name, which, if you followed my recommendation, you named /pm/ for project manager.
-1. Click into your TGB folder.
-1. Upload image files to replace header.png (site icon) and favicon.png to help identify your website.
-1. Open a new tab in your browser.  
+1. In the popup window that opens, replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation, you named /pm/ for project manager.
+1. Click into your /TGB folder/ folder (by clicking the 'Up One Level' button twice, and then double clicking on your TGB folder).
+
+     I'll refer this folder from now on with three dots '...'
+1. Click into your .../thebuggenie/ folder.
+1. Upload image files with the same names to replace header.png (this is the white or very light version of your icon) and favicon.png (a dark, tiny version of your icon) to help distinguish your TGB from other TGBs (see instructions above for how to upload files).
+1. Open a new tab in your browser.
 1. Type in your website's buggenie url: http://YOURSITE.COM/YOURTGBfolder/.
-1. Click the 'Overview' button.
-
-#####C. Configure overview page icon and titles in file _header.inc.php located in folder .../modules/publish/templates/
-
-1. Customize your site's icon size. Keep width and height equal and upload a new icon if you need to change it's proportions. The icon shows up on other pages that you are not going to customize with equal proportions.
-1. Rewrite your site's guest overview page title and welcome message on line 68.
-2. Rewrite your site's logged in overview title on line 76.
-
-#####D. Configure top, menu-bar icon and links in file headertop.inc.php located in folder .../core/templates/  
-
-1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
-2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
-3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool
 
 #####D. Configure TGB name, theme, and icons
 
@@ -75,12 +71,12 @@ This template is built to make installation easy.
 1. Select 'Configure The Bug Genie' option.
 
      NOTE: If you get a magic quotes error message
-     1. Click on the tab for your cPanel file manager and go to  YOURTGBfolder/thebuggenie.
+     1. Click on the tab for your cPanel file manager and go to  .../thebuggenie.
      1. Click once on the php.ini.zip to select it.
      1. Click on the 'Extract' button in the cPanel's top menu bar.
      1. Click on the tab for your Bug Genie, and refresh the page.
 
-     This may solve the problem. If not contact your hosting company's tech support people.
+     This may solve the problem. If does not, contact your hosting company's tech support people.
 1. Select the 'Settings' tile (top row, middle tile on the 'Configure The Bug Genie' page).
 1. Type in your Bug Genie's custom name (the name of your website, family, organizaiton, etc.).
 1. Click the 'save' button (bottom right).
@@ -90,41 +86,63 @@ This template is built to make installation easy.
 1. Select 'Settings' (2nd option from the left menu column).
 1. Select the 'Appearance' tab.  
 1. Click on the selected theme 'oxygen' and change it to 'nitrogen' (keep oxygen as the iconset).
+1. Click the 'save' button (bottom right).
 1. Click the blue 'Configure icons' button.  
 1. Click Favicon's upload new icon radio button, and then click the 'Choose File' button.
-1. Select a custom favicon.png file, and click 'Choose'.
+1. Select favicon.png file (this is the tiny high-contrast version of your icon), and click 'Choose'.
 1. Click Header icon's upload new icon radio button, and then click the 'Choose File' button.
-1. Select a custom-header.png file, and click 'Choose'.
-1. Click 'Close popup' button.
-1. Click the 'save' button (bottom right).
+1. Select Header icon.png file (This is the 75+px dark version of your icon), and click 'Choose File'.
+1. Click the green 'Update icons' button.
 1. Select the 'Users & security' tab.  
 1. Scroll down to 'Gravatar user icons' and select gravatar.com service option.  
-1. Scroll down to 'Gravatar user icons' and select gravatar.com service option.
-1. If you are taking your time setting things up change the 'New user accounts' default to "... created by admin" until you are ready.
+1. Scroll down to 'New user accounts' and select 'All new user accounts will be created by an admin' option, until you are ready, if ever, to allow strangers to create accounts.
 1. Click the 'save' button (bottom right).
-1. Click on 'System Administrator' (upper right corner).
+1. Scroll up, and click on 'System Administrator' (upper right corner).
 1. Select 'My account' option.
 1. Change the Full Name to your full name.
 1. Make sure the Gravatar email address you want is in the 'your email' address field.
 1. Click the 'save' button (bottom right).
-1. Click the 'General settings' tab.
+1. If your Gravatar icon is not showing, click the 'General settings' tab.
 1. Select 'Yes' for 'Use Gravatar avatar' option.
 1. Click the 'save' button (bottom right).
 
      I will cover the other important TBG configuration options and setting up projects in another video.  This video is focused just on intial look-and-feel configurations.
 
-#####E. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
+#####E. Configure top, menu-bar icon and links in file headertop.inc.php located in folder .../core/templates/
 
-1 Replace YOURSITE.COM with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
+To open cPanel files like headertop.inc.php, click on the file to select it, then click the'Code Editor' button in the top menu bar,  and finally click the 'Edit' button in the popup window that opens, and your file will then open.  
+
+If the text in the edit window does not display properly, then click the 'Use text editor' button, which is a more boring, but more stable cPanel file editor.
+
+1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
+
+      Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your TGB window to see it.
+2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
+3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool.
+1. Click the 'Save Changes' button and then the 'Close' button.
+1. Click your name, and then select the 'Logout' option.
+1. Click your TGB's  'Overview' button  to see your website guests' view.
+
+#####F. Configure overview page icon and titles in file _header.inc.php located in folder .../modules/publish/templates/
+
+1. Customize your the icon size above the Overview page's title. Keep width and height equal and upload a new icon if you need to change it's proportions.
+
+     This icon shows up on other pages that you are not customizing, and it is important that its proportions be consistent on all website pages.
+1. Rewrite your site's guest overview page title and welcome message on line 68.
+2. Rewrite your site's logged in overview title on line 76.
+
+#####G. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
+
+1 Replace YOURSITE.COM on line 16 and line 24 with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
 
 Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc., but let's move on for now to add the nitrogen template to your Vanilla forum.
 
-#####F. Vanilla template drop-in replacement preparation
+#####H. Vanilla template drop-in replacement preparation
 
 1. Zip your Vanilla folder.  
 2. Download it to a safe place on your computer as a backup.
 
-#####G. Vanilla Drop-in replacement
+#####I. Vanilla Drop-in replacement
 
 1. Click into the .../HGTtemplate/VanillaThemeNitrogen/ folder.
 1. Click 'Select all' from the cPanel file menubar.
@@ -134,7 +152,7 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 1. Open a new tab in your browser.
 1. Type in your website's forum url: http://YOURSITE.COM/FORUMfolder/.
 
-#####H. Enable Nitogen theme and selected plugins
+#####J. Enable Nitogen theme and selected plugins
 
 1. Sign in.
 1. Click the gear icon (right above the 'New Discussion' button) and select the 'dashboard' option from the popup menu that opens.
@@ -154,7 +172,7 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
      1. Vanilla Statistics
      1. WYSIWYG (CLEditor)
 
-#####I. Copy and paste text below (required to make the Q&A Big Button appear) into file config.php located in folder .../conf/
+#####K. Copy and paste text below (required to make the Q&A Big Button appear) into file config.php located in folder .../conf/
 
 1. Paste text below under config.php's line 1 ```<?php if (!defined('APPLICATION')) exit();```  
 (do make a space or two before and after (less crowded)).
@@ -165,7 +183,7 @@ $Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 
 $Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
 ```
-#####J. CAUTION: Enable FirstLastName plugin if your forum is for only people you know and trust.
+#####L. CAUTION: Enable FirstLastName plugin if your forum is for only people you know and trust.
 
 1. Open into your Vanilla's .../plugins/CAUTION/ folder.
 1. Click 'Select all' from the cPanel file menubar.
@@ -180,7 +198,7 @@ $Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule
 1. Scroll to the Forum section of the left hand menu, and click on the 'FirstLastNames' option.
 1. Click 'Use Display Names' to show users full names.  
 
-#####K. Customize link to your Terms of Use wiki page.
+#####M. Customize link to your Terms of Use wiki page.
 
 Lawyers need our heartfelt gratitude for creating documents like Terms of Use.  This is an essential, serious document for regulating emotions and keeping everyone on your forum respectful of the feelings and thoughts of others.  Everyone who uses your forum must agree to abide by your Terms of Use.
 
@@ -203,7 +221,7 @@ The custom link will point people to one Terms of Use document for both your For
 
 
 
-#####L. Configure top, menu-bar icon and links in file default.master.tpl located in folder .../themes/nitrogen/views
+#####N. Configure top, menu-bar icon and links in file default.master.tpl located in folder .../themes/nitrogen/views
 
 1. Do a find/replace of "YOURSITE.COM/YOURTBGfolder" to  customize all 8 instances of it.
      1. Click the binocluar icon to open the find/replace window.
@@ -214,7 +232,7 @@ The custom link will point people to one Terms of Use document for both your For
 
      You can also change the GitHub link name to Docs or something else, if you decided to use Google Docs instead of GitHub to colaborate with others on file creation, improvements, etc.
 
-#####M. Restrict access to just people you want on the forum while you build up a trusted user base.
+#####O. Restrict access to just people you want on the forum while you build up a trusted user base.
 
 1. Click on your browser's Vanilla dashboard plugin tab.
 1. Scroll to the top and click on the 'Registration' option under the left hand menu's Users section.
@@ -226,7 +244,7 @@ The custom link will point people to one Terms of Use document for both your For
 
      This insures that no one can create an account without your consent while you setup the forum.
 
-#####N. Final Step
+#####P. Final Step
 
 1. If you want the 'Register Invitation' button to say something different
      1. Go to Vanilla folder /conf/ and open file local.php.
