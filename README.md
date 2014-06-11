@@ -108,25 +108,23 @@ These are icons, not logos.  They do not have to be unique, just distinctive fro
      1. Click on the tab for your Bug Genie, and refresh the page.
 
      This may solve the problem. If does not, contact your hosting company's tech support people.
-1. Select the 'Settings' tile (top row, middle tile on the 'Configure The Bug Genie' page).
-1. Type in your Bug Genie's custom name (the name of your website, family, organizaiton, etc.).
-1. Click the 'save' button (bottom right).
-1. Select 'Uploads & attachments' (6th option from the left menu column).  
+1. Select 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).  
 1. Enable file uploads.
-1. Click the 'save' button (bottom right).  
+1. Click the 'save' button (bottom right).
 1. Select 'Settings' (2nd option from the left menu column).
+1. Type in your Bug Genie's custom name (the name of your website, family, organizaiton, etc.).
+1. Click the 'save' button (bottom right).  
 1. Select the 'Appearance' tab.  
-1. Click on the selected theme 'oxygen' and change it to 'nitrogen' (keep oxygen as the iconset).
+1. Click on the currently selected theme 'oxygen' and change it to the 'nitrogen' theme.  Do keep oxygen as the selected iconset.
 1. Click the 'save' button (bottom right).
 1. Click the blue 'Configure icons' button.  
 1. Click Favicon's upload new icon radio button, and then click the 'Choose File' button.
-1. Select favicon.png file (this is the tiny high-contrast version of your icon), and click 'Choose'.
-1. Click Header icon's upload new icon radio button, and then click the 'Choose File' button.
-1. Select Header icon.png file (This is the 75+px dark version of your icon), and click 'Choose File'.
+1. Select favicon.png file in the popup window that opens, and then click 'Choose'.
+1. Click the Header icon's upload new icon radio button, and then click the 'Choose File' button.
+1. Select the 'Header icon.png' NOT 'header.png' file, and click 'Choose' button.
 1. Click the green 'Update icons' button.
-1. Select the 'Users & security' tab.  
-1. Scroll down to 'Gravatar user icons' and select gravatar.com service option.  
-1. Scroll down to 'New user accounts' and select 'All new user accounts will be created by an admin' option, until you are ready, if ever, to allow strangers to create accounts.
+1. Select the 'Users & security' tab.
+1. Scroll down to 'New user accounts' and select 'All new user accounts will be created by an admin' option.  This will keep strangers from setting up accounts on your website until you are ready, if ever, to allow strangers to create accounts.
 1. Click the 'save' button (bottom right).
 1. Scroll up, and click on 'System Administrator' (upper right corner).
 1. Select 'My account' option.
@@ -145,12 +143,14 @@ To open cPanel files like headertop.inc.php, click on the file to select it, the
 
 If the text in the edit window does not display properly, then click the 'Use text editor' button, which is a more boring, but more stable cPanel file editor.
 
-1. Experiment with icon size and padding to get best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
+1. Experiment with icon size and padding in the headertop.inc.php file to get the best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over the right.
 
       Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your TGB window to see it.
 2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
 3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool.
-1. Click the 'Save Changes' button and then the 'Close' button.
+1. Click the 'Save Changes' button.
+1. Test botht the Forum and GitHub links in your TGB.
+1. Return the headertop.inc.php tab and click the 'Close' button.
 1. Click your name, and then select the 'Logout' option.
 1. Click your TGB's  'Overview' button  to see your website guests' view.
 

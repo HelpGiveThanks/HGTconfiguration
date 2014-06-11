@@ -159,7 +159,7 @@
 						<?php if ($tbg_user->isGuest()): ?>
 							<a href="javascript:void(0);" <?php if (TBGContext::getRouting()->getCurrentRouteName() != 'login_page'): ?>onclick="$('login_backdrop').show();TBG.Main.Helpers.tabSwitcher('tab_login', 'login_menu');$('tbg3_username').focus();"<?php endif; ?>><?php echo  __('You are not logged in'); ?></a>
 						<?php else: ?>
-							<?php echo link_tag(make_url('dashboard'), image_tag($tbg_user->getAvatarURL(true), array('alt' => '[avatar]', 'id' => 'header_avatar'), true) . tbg_decodeUTF8($tbg_user->getDisplayName())); ?>
+							<?php echo (image_tag($tbg_user->getAvatarURL(true), array('alt' => '[avatar]', 'id' => 'header_avatar'), true) . tbg_decodeUTF8($tbg_user->getDisplayName())); ?>
 						<?php endif; ?>
 						<?php if (TBGContext::getRouting()->getCurrentRouteName() != 'login_page'): ?>
 							
