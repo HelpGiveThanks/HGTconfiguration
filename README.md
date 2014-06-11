@@ -12,7 +12,7 @@ TGB https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32.
 FirstLastNames https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
-## Installation
+## HGT Template Setup
 
 This template is built to make installation easy.
 
@@ -135,6 +135,10 @@ If the text in the edit window does not display properly, then click the 'Use te
 #####G. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
 
 1. Replace YOURSITE.COM on line 16 and line 24 with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
+
+#####H. Create a strong password for your admin account.
+
+1.
 
 Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc.  
 
