@@ -27,14 +27,15 @@ This template is built to make installation easy.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon.
 1. Click the grey 'install' button.
-1. Next type 'vanilla' in the top right search box, and click on Vanilla.
+1. Next, scroll up and type 'vanilla' in the top right search box.
+1. Click on Vanilla.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
      1. In Directory 'vanilla' to 'forum' for forum.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
 1. Click the grey 'install' button.
-1. Return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
+1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
 1. In the Files section click the 'File Manager' icon, and then click the popup window's 'Go' button.
 
 #####B. Template drop-in replacement preparation
