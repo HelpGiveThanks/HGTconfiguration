@@ -40,32 +40,61 @@ This template is built to make installation easy.
 
 #####B. Template drop-in replacement preparation
 
-1. Download the HGTtemplate.zip template.
-1. Click the 'Upload' icon (File Manager's top menu bar).
-1. Click the 'Choose File' button in the window that opens and choose the HGTtemplate.zip to upload it.
-1. Close the upload window.
+1. Download the HGTtemplate.zip from http://sourceforge.net/projects/helpgivethanks/files/HGTtemplate/.
+1. Click your browser's cPanel File Manager tab.
+1. Click the 'Upload' button in the File Manager's top menu bar.
+1. Click the 'Choose File' button in the window that opens.
+1. Find and click on  the HGTtemplate.zip.
+1. Click the 'Choose' button.
+1. When the bottom right grey progress bar says the upload is complete, close the upload window.
 1. Click the 'Reload' button (second menu bar) if you do not see the HGTtemplate.zip.
 1. Click on HGTtemplate.zip to select it.
-1. Click the 'Extract' button to unzip it.
+1. Click the 'Extract' button from the top menu bar to unzip it.
+1. Click the grey 'Extract File(s)' button in the popup window that opens, and then 'close' button.
 1. You can now delete the zip file to reduce clutter in your File Manager.
-1. Select your /pm/ folder by clicking on it, and compress it by clicking the 'Compress' button and then the 'Compress File(s)' button in the popup window that opens.  
+1. Now backup The Bug Genie (TGB) you just installed before applying this uploaded template. 1. Select your /pm/ (buggenie) folder by clicking on it.
+1. Create a compressed copy of it by clicking the 'Compress' button and then the 'Compress File(s)' button in the popup window that opens, and then the 'close' button.  
 2. Click on the resulting pm.zip file to select it, and then download it to a safe place on your computer as a backup by clicking the 'Download' button in the top menu bar.  
 
-#####C. TGB Drop-in replacement and icon upload
+#####C. TGB Drop-in replacement
 
-1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder (by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, which you then double-click on to click into it).
-1. Click 'Select all' from the cPanel file menubar.
-1. Click 'Copy' (not move) from the cPanel top menubar.
+1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, which you then double-click on to open it.
+1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
+1. Click the 'Copy' (not move) button from the top menubar.
 1. In the popup window that opens, replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation, you named /pm/ for project manager.
-1. Click into your /TGB folder/ folder (by clicking the 'Up One Level' button twice, and then double clicking on your TGB folder).
 
-     I'll refer this folder from now on with three dots '...'
-1. Click into your .../thebuggenie/ folder.
-1. Upload image files with the same names to replace header.png (this is the white or very light version of your icon) and favicon.png (a dark, tiny version of your icon) to help distinguish your TGB from other TGBs (see instructions above for how to upload files).
+     It should now read something like /public_html/pm.
+1. Click the grey 'Copy File(s)' button.
+
+#####D. Custom website ID icon upload
+
+This next section depends up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites.  You can find lots of free images to use and modify at wikipedia.org, provided you reference their creators and provide a link to the original wikipedia image page.  I would recomend something very simple, and all one color, as these icons need to be identifiable when very, very small.  You could use just a stylied capital letter or two or three.  
+
+These are icons, not logos.  They do not have to be unique, just distinctive from the icons of Bug Genie websites that your users might use.
+
+1. After you have created three version of your website's icon
+     1. 24px x 24px dark or solid black icon named favicon.png
+     1. 50px x 50px light or solid white icon named header.png
+     1. 100px x 100px light or grey (hex #666666 or RGB	102	102	102) icon named Header icon.png
+     and saved them ...
+1. Click into your /pm/ folder by clicking the 'Up One Level' button twice, and then double clicking on your buggenie folder = pm.
+
+     I'll refer this pm folder from now on with three dots '...'
+1. Next, click into your .../thebuggenie/ folder.
+1. Click the 'Upload' button in the File Manager's top menu bar.
+1. Click the 'Choose File' button in the window that opens.
+1. Find and click on the favicon.png image file.
+1. Click the 'Choose' button.
+1. Click the 'Yes' button the next popup window to replace the current favicon.png file.
+1. Click the 'Choose File' button again.
+1. Find and click on the header.png image file.
+1. Click the 'Choose' button.
+1. Click the 'Yes' button the next popup window to replace the current header.png file.
+1. When the bottom right grey progress bar says that this upload is complete, close the upload window.
 1. Open a new tab in your browser.
-1. Type in your website's buggenie url: http://YOURSITE.COM/YOURTGBfolder/.
+1. Type in your website's buggenie url: http://YOURSITE.COM/pm/.
 
-#####D. Configure TGB name, theme, and icons
+#####E. Configure TGB name, theme, and icons
 
 1. Click on 'You are not logged in' (upper right corner).
 1. Login.
@@ -73,7 +102,7 @@ This template is built to make installation easy.
 1. Select 'Configure The Bug Genie' option.
 
      NOTE: If you get a magic quotes error message
-     1. Click on the tab for your cPanel file manager and go to  .../thebuggenie.
+     1. Click on the tab for your cPanel File Manager and go to  .../thebuggenie folder.
      1. Click once on the php.ini.zip to select it.
      1. Click on the 'Extract' button in the cPanel's top menu bar.
      1. Click on the tab for your Bug Genie, and refresh the page.
