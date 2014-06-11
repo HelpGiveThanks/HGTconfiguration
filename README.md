@@ -38,6 +38,7 @@ This template is built to make installation easy.
 1. In the Files section click the 'File Manager' icon, and then click the popup window's 'Go' button.
 
 #####B. Template drop-in replacement preparation
+
 1. Download the HGTtemplate.zip template.
 1. Click the 'Upload' icon (File Manager's top menu bar).
 1. Click the 'Choose File' button in the window that opens and choose the HGTtemplate.zip to upload it.
@@ -46,8 +47,8 @@ This template is built to make installation easy.
 1. Click on HGTtemplate.zip to select it.
 1. Click the 'Extract' button to unzip it.
 1. You can now delete the zip file to reduce clutter in your File Manager.
-1. Select your pm folder and compress it (click the 'Compress' button and then the 'Compress File(s)' button).  
-2. Download the resulting zip file to a safe place on your computer as a backup (select the file and click the 'Download' button).  
+1. Select your /pm/ folder by clicking on it, and compress it by clicking the 'Compress' button and then the 'Compress File(s)' button in the popup window that opens.  
+2. Click on the resulting pm.zip file to select it, and then download it to a safe place on your computer as a backup by clicking the 'Download' button in the top menu bar.  
 
 #####C. TGB Drop-in replacement and icon upload
 
