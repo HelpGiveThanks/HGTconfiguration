@@ -133,9 +133,11 @@ If the text in the edit window does not display properly, then click the 'Use te
 
 #####G. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
 
-1 Replace YOURSITE.COM on line 16 and line 24 with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
+1. Replace YOURSITE.COM on line 16 and line 24 with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
 
-Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc., but let's move on for now to add the nitrogen template to your Vanilla forum.
+Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc.  
+
+Now you can apply the nitrogen theme to your Vanilla forum so that its look-and-feel matches your TBG.
 
 #####H. Vanilla template drop-in replacement preparation
 
@@ -145,22 +147,23 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 #####I. Vanilla Drop-in replacement
 
 1. Click into the .../HGTtemplate/VanillaThemeNitrogen/ folder.
-1. Click 'Select all' from the cPanel file menubar.
+1. Click the 'Select all' button from the cPanel file menubar.
 1. Click 'Copy' (not move file) from the cPanel top menubar.
-1. Replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ in the popup window with your Vanilla forum's folder one name, which, if you followed my recommendation, you named /forum/.
+1. Replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ in the popup window that opens with your Vanilla forum's folder name, which, if you followed my recommendation, you named /forum/.
 1. Click into your Vanilla /forum/ folder.
-1. Open a new tab in your browser.
-1. Type in your website's forum url: http://YOURSITE.COM/FORUMfolder/.
+1. Click on the browser tab for your TBG and click the "Forum" button (left-most top-menu-bar button).  If you don't have a tab open for your TGB then
+   1. Open a new tab in your browser.
+   1. Type in your website's forum url: http://YOURSITE.COM/FORUMfolder/.
 
 #####J. Enable Nitogen theme and selected plugins
 
-1. Sign in.
+1. Click the grey 'Sign In' button and sign in.
 1. Click the gear icon (right above the 'New Discussion' button) and select the 'dashboard' option from the popup menu that opens.
-1. From the right Appearance menu click on Themes.
-1. Scroll down the Nitrogen theme and click its 'Apply' button.
-1. Scroll down looking for the Addons left menu options, and click its Plugins option.
+1. From the left menue column in the  Appearance section, click the 'Themes' button.
+1. Scroll down to the Nitrogen theme and click its light blue 'Apply' button.
+1. Scroll down again looking for the Addons left menu section, and click its 'Plugins' option.
 1. Enable the following plugins:
-     1. Emotify :) – There fun and can inject levity into serious discussions.
+     1. Emotify :)
      1. EpicEditor
      1. Flagging
      1. Gravatar
@@ -172,39 +175,46 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
      1. Vanilla Statistics
      1. WYSIWYG (CLEditor)
 
-#####K. Copy and paste text below (required to make the Q&A Big Button appear) into file config.php located in folder .../conf/
+#####K. Finish enabling the Q&A Big Button Remix plugin
 
-1. Paste text below under config.php's line 1 ```<?php if (!defined('APPLICATION')) exit();```  
-(do make a space or two before and after (less crowded)).
+1. Open the config.php file located in folder .../conf/ (Now these three dots '...' refer to your Vanilla forum's cPanel File Manager folder).
+1. Copy the text below (required to make a big 'Ask a Question' button appear below the 'New Discussion' button):
 
-```
-//Make big question button appear
+ ```
+ //Make big question button appear
 $Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 
-$Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
-```
+  $Configuration['Modules']['Vanilla']['Panel'] = array('MeModule', 'UserBoxModule', 'GuestModule', 'NewDiscussionModule', 'NewQuestionModule','DiscussionFilterModule', 'SignedInModule', 'Ads');
+ ```
+1. Paste the copied code into the config.php right below line 1 = ```<?php if (!defined('APPLICATION')) exit();```  
+(do make a space or two before and after the pasted code (less crowded)).
+1. Click the 'Save Changes' button and then the 'Close' button.
+
 #####L. CAUTION: Enable FirstLastName plugin if your forum is for only people you know and trust.
 
-1. Open into your Vanilla's .../plugins/CAUTION/ folder.
+1. In your cPanel File Manager, open your your Vanilla's .../plugins/CAUTION/ folder.
 1. Click 'Select all' from the cPanel file menubar.
 1. Click 'Copy' (not move file) from the cPanel top menubar.
-1. Delete /CAUTION/ in the popup window.  It should read: .../plugins/.
+1. Delete /CAUTION/ from the folder list in the popup window (not the File Manager) so that reads .../plugins/.
 1. Click the 'Copy File(s)' button to copy FirstLastName folder to the Plugins folder.
-1. Click the plugins browser tab, and then refresh it.
-1. Scroll down to the FirstLastName plugin, and read the reason for keeping this plugin disabled if your forum is open to strangers.
-1. Enable it if there is no security risk, and allow users to  sign posts using their full names versus a user nickname.
+1. Click on the browser tab for your forum.
+1. Click the plugins browser tab, and then refresh it to show the FirstLastName plugin.
+1. Scroll down to the FirstLastName plugin, and read the WARNING for keeping this plugin disabled if your forum is open to strangers.
+1. Enable it if there is no security risk (no strangers allowed), and allow users (family, friends, co-workers, etc.) to  sign posts using their real names versus a user nickname.  
 
-     If after reading the Warning, you decide it is unsafe to enable, then don't.  You do not need to put it back into the CAUTION folder.
-1. Scroll to the Forum section of the left hand menu, and click on the 'FirstLastNames' option.
-1. Click 'Use Display Names' to show users full names.  
+     If after reading the warning, you decide it is unsafe to enable, then don't enable it.  You do not need to also put it back into the CAUTION folder.
+1. Scroll to the left hand menu's Forum section, and click on the 'FirstLastNames' option.
+1. Click 'Use Display Names' to show users' full names.  
 
 #####M. Customize link to your Terms of Use wiki page.
 
-Lawyers need our heartfelt gratitude for creating documents like Terms of Use.  This is an essential, serious document for regulating emotions and keeping everyone on your forum respectful of the feelings and thoughts of others.  Everyone who uses your forum must agree to abide by your Terms of Use.
+Lawyers need our heartfelt gratitude for creating documents like Terms of Use (no kidding).  This is an essential, serious document for regulating TBG and Vanilla Forum participants' emotions.  It lays out the requirements for respecting the feelings and thoughts of others, and the consequences for failing to do.  Everyone who uses your forum must agree to abide by the Terms of Use agreement.  If your forum is for family, friend, etc., spend some time, especially with kids, editing this document so that it make sense to everyone.  
 
-The custom link will point people to one Terms of Use document for both your Forum and Bug Genie, located where it is easiest to modify, in your Bug Genie's wiki.  
+You are welcome to copy the Help Give Thanks Terms of Use document at https://github.com/HelpGiveThanks/Drafts/blob/master/Website/English/TermsOfUseAgreement.md and modify it to your needs as long as you don't delete the required copyright references, and seek out professional legal help to determine if it is right for you, or even legally valid (I cut and pasted it together from a number of T.O.U. documents (all referenced), and am in no way qualified to counsel anyone about their legal needs).
 
-1. Click on your File Manager tab.
+The custom link in your Vanilla Forum will point people to a single Terms of Use document for both your Forum and Bug Genie, located where it is easiest to modify, in your Bug Genie's wiki. To create this custom link in your Vanilla Forum registration windows (the popup window users see when they click to join your forum)
+
+1. Click on your cPanel File Manager tab.
 1. Go to the Vanilla folder .../plugins/FirstLastNames/views/
 1. Open the registerapproval.php file.
 1. Replace /YOURSITE.COM/YOURTBGfolder/ with requested information (your site's name and .com, .org, etc. and your Vanilla folder's name: example – /forum/).
@@ -219,14 +229,14 @@ The custom link will point people to one Terms of Use document for both your For
      1. registercaptcha.php
      1. registerinvitation.php
 
+#####N. Configure top menu-bar icon and links, and footer links (T.O.S and Privacy policy) in the file default.master.tpl located in folder .../themes/nitrogen/views
 
-
-#####N. Configure top, menu-bar icon and links in file default.master.tpl located in folder .../themes/nitrogen/views
-
-1. Do a find/replace of "YOURSITE.COM/YOURTBGfolder" to  customize all 8 instances of it.
+1. Do a find/replace of "YOURSITE.COM/YOURTBGfolder" to  customize all 8 instances of this link.
      1. Click the binocluar icon to open the find/replace window.
      1. If you don't see this icon, then click the 'Use code editor' button.
-2. Experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+2. Next, experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+
+     Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your Vanilla Forum window to see it.
 3. Type in your Forum url, replacing http://YOURSITE.COM/YOURforum.
 4. Type in your GitHub url, replacing http://github.com/YOURorganization
 
@@ -235,21 +245,24 @@ The custom link will point people to one Terms of Use document for both your For
 #####O. Restrict access to just people you want on the forum while you build up a trusted user base.
 
 1. Click on your browser's Vanilla dashboard plugin tab.
-1. Scroll to the top and click on the 'Registration' option under the left hand menu's Users section.
+1. Scroll to the top and click on the left hand menu's Users section 'Registration' option.
 1. Select the 'invitation' option.
-1. Scroll down and under 'Role	Invitations per month'
-     1. Select 'Unlimited' for Administrator = you.
-     1. Select 'None' for all other roles.
+1. Scroll down and under the column 'Role' (to the left of the column 'Invitations per month')
+     1. Select 'Unlimited' for Administrator = You.
+     1. Select 'None' (which is the default) for all other roles.
 1. Click the 'save' button.
 
      This insures that no one can create an account without your consent while you setup the forum.
 
 #####P. Final Step
 
-1. If you want the 'Register Invitation' button to say something different
-     1. Go to Vanilla folder /conf/ and open file local.php.
-     1. Change the text in single quotes on line 15 after the equal sign.
+1. If you want the 'Register Invitation' button (seen when you are logged out) to say something different
+     1. Go to the cPanel File Manager folder .../conf/ and open the file local.php.
+     1. Change the text on line 15 in single quotes after the equal sign = 'Register Invitation'.
 
+Congratualtions!  Your forum's look-and-feel is now identical to your project manager TGB and navigation between the two should be seamless.  
+
+Your next step is to create some categories for the forum and projects for the project manager, and setup user permissions for both.
 
 ## Open Source
 
