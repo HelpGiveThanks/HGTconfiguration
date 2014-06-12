@@ -35,8 +35,27 @@ This is part 1 of a 2 part tutorial on one way to set up a collaboration website
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
 1. Click the grey 'install' button.
+1. If you would like visitors to see something while you set up your website
+     1. Scroll up and type 'Word Search' in the top right search box.
+     1. Click on Word Search Puzzle.
+
+        This game does not require a database and just works right away.
+     1. Click the blue 'install' button.
 1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
-1. In the Files section click the 'File Manager' icon, and then click the popup window's 'Go' button.
+1. In the Files section click the 'File Manager' icon.
+1. In the popup window that opens click the option to 'Show Hidden Files (dotfiles).'
+1. Click the popup window's 'Go' button.
+1. If you added the word search puzzle
+     1. Click on the 'New File' button in the top menu bar.
+     1. In the popup window that opens, type in 'index.html' in the 'New File Name' text box.
+     1. Click the 'Create New File' button.
+     1. Click on your new index.html file to select it.
+     1. Click the 'Edit' button in the top menu bar to open it.
+     1. In the popup window that opens, click the 'Edit' button.
+     1. Copy the text below and paste it into the file: ```<meta http-equiv="refresh" content="0; url=http://YOURWEBSITE.COM/wsp/" />```
+     1. Replace 'YOURWEBSITE.COM' with your website's name and .com, .org, etc.
+     1. Click the 'Save' button, and the 'Close' button.
+     1. Check out your website's new false front by opening a new tab and typing in your website's url: YOURWEBSITE.COM.
 
 #####B. Template drop-in replacement preparation
 
