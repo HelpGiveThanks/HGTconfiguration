@@ -112,7 +112,7 @@ https://openclipart.org/
 AND ALSO HERE
 https://openclipart.org
 
-Example: ruthirsty's 2014 Red googly-eye bird. Public Domain https://openclipart.org/detail/190894/green-bird-by-ruthirsty-190894
+Example: ruthirsty's 2014 Green googly-eye bird. Public Domain (not copyrighted, free to use, etc.) https://openclipart.org/detail/190894/green-bird-by-ruthirsty-190894
 
 ![alt text](https://openclipart.org/people/ruthirsty/green_bird.svg)
 
@@ -375,29 +375,28 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
 
 1. Click on your browser's Vanilla forum.
 1. Click the 'dashboard' button (left most button in the second row of buttons).
-1. Scroll to the top and click on the left hand menu's Users section 'Registration' option.
+1. Scroll to the top and click on the left menu column's Users section 'Registration' option.
 1. Select the 'invitation' option in the 'Method' column.
 1. Scroll down and under the column 'Role' (to the left of the column 'Invitations per month')
      1. Change the Administrator = You from 'None' to 'Unlimited' from the pulldown menu that opens.
      1. Leave the other roles with 'None' as their amount of invitations.
 
-     This insures that no one can create an account without your consent while you setup the forum.
-1. Scroll down and click the 'save' button.
+     This insures that no one can create an account while you setup the forum.
+1. Scroll down and click the blue 'save' button.
 
 #####H. Create a strong password for your Vanilla admin account
 
 1. Click on 'admin' in the upper right corner of your forum.
 1. Click the 'Edit Profile' button below the search text box.  
 1. From the right menu column, click the 'Change My Password' button.
-1. Click the 'Change my password' button, which is in the first row of buttons.
 1. Enter your current password = pass.
-1. Now, wherever you keep your passwords, type out a new one including at least two symbols, two numbers, two lower-case, and two upper-case letters = e#T89Gc& (but not, of course, exactly like this example)
+1. Now, wherever you keep your passwords, type out a new one including at least two symbols, two numbers, two lower-case, and two upper-case letters = e#T89Gc& (but not, of course, exactly like this example).
 
-#####P. Final Step
+#####P. Optional Final Step
 
 1. If you want the 'Register Invitation' button (seen when you are logged out) to say something different
      1. Go to the cPanel File Manager folder .../conf/ and open the file local.php.
-     1. Change the text on line 15 in single quotes after the equal sign = 'Register Invitation'.
+     1. Change the text on line 15 in single quotes after the equal sign = 'Register Invitation'.  Then save and close this file.
 
 Congratualtions!  Your forum's look-and-feel is now identical to your TGB project manager, and navigation between the two should be seamless.  
 
