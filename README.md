@@ -31,6 +31,8 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
      1. In Directory textbox info from 'buggenie' to 'pm' for project manager.
+
+     If you plan on hosting several family, friend, etc. collaborative websites, then type in a folder name for each followed by pm = myfamily/pm.  The forward slash = new folder, so myfamily will be a folder containing a family's project manager and forum.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon: https://en.gravatar.com
 1. Click the grey 'install' button.
@@ -38,8 +40,10 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Click on Vanilla.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory textbox info from 'vanilla' to 'forum' for forum.
-     1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
+     1. In Directory textbox info from 'vanilla' to 'forum'.
+
+     If you plan on hosting several family, friend, etc. collaborative websites, then type the family's folder name followed by forum = myfamily/forum.
+     1. Leave the password as 'pass' and change it when you're finished setting up.  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
 1. Click the grey 'install' button.
 1. If you would like visitors to see a false front while you set up your website
@@ -49,11 +53,11 @@ http://www.umbrahosting.com/ssl-certificates.
         This game does not require a database and just works right away.
      1. Click the blue 'install' button.
      1. Click the grey 'Install' button.
-1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
+1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp-with-a-gear-over-it icon (the first icon reading left-to-right).
 1. In the cPanel Files section click the 'File Manager' icon.
-1. !IMPORTANT! In the popup window that opens click the option to 'Show Hidden Files (dotfiles).'
+1. !IMPORTANT! In the popup window that opens click the option to 'Show Hidden Files'.
 1. Click the popup window's 'Go' button.
-1. If you added the word search puzzle game for your website's false front
+1. If you added the word-search puzzle game for your website's false front
      1. Click on the 'New File' button in the top menu bar.
      1. In the popup window that opens, type  'index.html' in the 'New File Name' text box (don't forget to put the period between 'index' and 'html').
      1. Click the 'Create New File' button.
@@ -61,7 +65,7 @@ http://www.umbrahosting.com/ssl-certificates.
      1. Click the 'Edit' button in the top menu bar to open it.
      1. In the popup window that opens, click the 'Edit' button.
      1. Copy the text below and paste it into the index.html file: ```<meta http-equiv="refresh" content="0; url=http://YOURWEBSITE.COM/wsp/" />```
-     1. Replace 'YOURWEBSITE.COM' with your website's url = name and .com, .org, etc.
+     1. In this index.html file, replace 'YOURWEBSITE.COM' with your website's url = name and .com, .org, etc.
      1. Click the 'Save Changes' button.
      1. Check out your website's new false front by typing in your website's url: YOURWEBSITE.COM.
 
@@ -72,7 +76,7 @@ http://www.umbrahosting.com/ssl-certificates.
      NOTE: If you are  using Apple's Safari browser, it will unzip this zip file and trash the zip if you have the 'Open "save" files after downloading' preference checked in Safari's General Preferences. If this happens
      1. Retrive the zip from the trash.
 
-     DO NOT re-compress/zip the HGTtemplate folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these added files cluttering your cPanel's File Manager folders.
+     DO NOT re-compress/zip the HGTtemplate folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these files cluttering your cPanel's File Manager folders.
 1. Click your browser's cPanel File Manager tab.
 1. Click the 'Upload' button in the File Manager's top menu bar.
 1. Click the 'Choose File' button in the window that opens.
@@ -82,7 +86,7 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Click the 'Reload' button (second menu bar) if you do not see the HGTtemplate.zip.
 1. Click on HGTtemplate.zip to select it.
 1. Click the 'Extract' button from the top menu bar to unzip it.
-1. Click the grey 'Extract File(s)' button in the popup window that opens, and then 'close' button.
+1. Click the grey 'Extract File(s)' button in the popup window that opens, and then the 'close' button.
 1. You can now delete the zip file to reduce clutter in your File Manager.
 1. Now backup The Bug Genie (TGB) you just installed before applying this uploaded template.
 1. Select your /pm/ (buggenie) folder by clicking on it.
@@ -92,16 +96,16 @@ http://www.umbrahosting.com/ssl-certificates.
 #####C. TGB Drop-in replacement
 
 1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, that you then double-click on to open it.
-1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
+1. Click the 'Select all' button from the  menubar, right above the file window, and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager.
+1. In the popup window that opens, replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager, OR if it is in a family folder then = familyfolder/pm.
 
-     It should now read something like /public_html/pm.
+     It should now read something like /public_html/pm, OR /public_html/familyfolder/pm.
 1. Click the grey 'Copy File(s)' button.
 
 #####D. Custom website ID icon upload
 
-These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites = other families, friends, etc. Bug Genies.  You can find lots of free images to use and modify for this purpose.
+These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites = other families', friends', etc. Bug Genies.  You can find lots of free images to use and modify for this purpose.
 
 HERE http://commons.wikimedia.org/wiki/Category:Initials
 
@@ -119,20 +123,20 @@ Example: ruthirsty's 2014 Green googly-eye bird. Public Domain (not copyrighted,
 
 Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users frequent.
 
-I would recommend something very simple as these icons need to be identifiable when very, very small. They also need to visible against a dark blue background and a white background.
+I would recommend something very simple as these icons need to be identifiable when very, very small. They also need to visible against a dark blue background and a white background.  You could use just one icon, or a light and dark version of the same icon.
 
 1. If you downloaded an icon
-   1. Duplicate it twice you that you have three copies of it and then name the copies
-         1. favicon.png
-         2. header.png
-         3. Header icon.png
-1. If you got ambitious and modified or created your website's icon, make sure you save three copies:
+   1. Duplicate it twice you that you have three copies of it and then name the copies:
+         1. favicon.png (dark version)
+         2. header.png (light version)
+         3. Header icon.png (dark version)
+1. If you get ambitious and modified or created your website's icon, make sure you save three copies:
      1. 24px x 24px dark or solid black icon named favicon.png
      1. 50px x 50px light or solid white icon named header.png
      1. 100px x 100px light or grey (hex #666666 or RGB	102	102	102) icon named Header icon.png
 
   Once you have your three icon files stored on your computer ...
-1. Click into your browsers cPanel File Manager /pm/ folder by clicking the 'Up One Level' button twice, and then double clicking on your TGB folder = pm.
+1. Click into your browsers cPanel File Manager pm folder by clicking the 'Up One Level' button twice, and then double clicking on your TGB folder = pm.
 
      I'll refer to this main Bug Genie folder from now on with three dots '...' in case you named it something different.
 1. Next, click into your .../thebuggenie/ folder.
@@ -140,11 +144,11 @@ I would recommend something very simple as these icons need to be identifiable w
 1. Click the 'Choose File' button in the window that opens.
 1. Find and click on the favicon.png image file.
 1. Click the 'Choose' button.
-1. Click the 'Yes' button the next popup window to replace the current favicon.png file.
+1. Click the 'Yes' button in the next popup window to replace the current favicon.png file.
 1. Click the 'Choose File' button again.
-1. Find and click on the header.png image file NOT the Header icon.png file.
+1. Find and click on the header.png file NOT the Header icon.png file.
 1. Click the 'Choose' button.
-1. Click the 'Yes' button the next popup window to replace the current header.png file.
+1. Click the 'Yes' button in the next popup window to replace the current header.png file.
 1. When the bottom right grey progress bar says that these uploads are complete, close the upload window.
 1. Open a new tab in your browser.
 1. Type in your website's buggenie url: http://YOURSITE.COM/pm/.
@@ -154,7 +158,7 @@ I would recommend something very simple as these icons need to be identifiable w
 1. Click on 'You are not logged in' (upper right corner).
 1. Login.  U = admin, P = pass.
 1. Click on 'System Administrator' (upper right corner).
-1. Select 'Configure The Bug Genie' option.
+1. Select the 'Configure The Bug Genie' option.
 
      NOTE: If you get a magic quotes error message
      1. Click on the tab for your cPanel File Manager, which should still be showing your  .../thebuggenie folder.
@@ -163,56 +167,64 @@ I would recommend something very simple as these icons need to be identifiable w
      1. Click the 'Extract file(s)' button in the popup window that opens and then click the 'Close' button.
      1. Click on the tab for your Bug Genie, and refresh the page.
 
-     This may solve the problem. If does not, contact your hosting company's tech support people.
-1. Select 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).  
+     This may solve the problem. If it does not, contact your hosting company's tech support people.
+1. Select the 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).  
 1. Click 'Yes' for 'Enable uploads' which is the first option.
 1. Click the 'save' button (bottom right).
 1. Select 'Settings' (2nd option from the left menu column).
 1. Type in your Bug Genie's custom name (the name of your website, family, organization, etc.).
 1. Scroll down (if necessary) and click the 'save' button (bottom right).  
 1. Scroll up  (if necessary) and select the 'Appearance' tab.  
-1. Click on the currently selected theme 'oxygen' and change it to the 'nitrogen' theme.  Do keep oxygen as the selected iconset.
+1. Click on the currently selected theme 'oxygen' and change it to 'nitrogen'.  Keep oxygen as the selected iconset.
 1. Click the 'save' button (bottom right).
 1. Click the blue 'Configure icons' button.  
 1. Click Favicon's 'Upload new icon' radio button, and then click the 'Choose File' button.
 1. Select favicon.png file in the popup window that opens, and then click 'Choose'.
 1. Click the Header icon's 'Upload new icon' radio button, and then click the 'Choose File' button.
-1. Select the 'Header icon.png' NOT 'header.png' file, and click 'Choose' button.
+1. Select the 'Header icon.png' NOT 'header.png' file, and click the 'Choose' button.
 1. Click the green 'Update icons' button.
 1. Select the 'Users & security' tab.
-1. Scroll down to 'New user accounts' and click on 'Users can register new accounts' and change it to 'All new user accounts will be created by an admin' option.  This will keep strangers from setting up accounts on your website until you are ready, if ever, to allow strangers to create accounts.
-1. Click the 'save' button (bottom right).
+1. Scroll down to 'New user accounts' and click on 'Users can register new accounts' and change it to 'All new user accounts will be created by an admin'.  This will keep strangers from setting up accounts on your website until you are ready, if ever, to allow strangers to create accounts.
+1. Click the 'Save' button (bottom right).
 1. Select 'Email communication' (left menu column, 2nd item from the bottom).
 
      The main reason to set this up now is to insure that if you forget your password TBG will be able to send you a new one via its forgot password button, which is only enabled if you configure this email module.
 1. Change the 'Enable outgoing email notifications' option from 'No' to 'Yes'.
-1. In the 'Email "from"-name' text box replace 'The Bug Genie' with your website's name followed by the word 'Automailer' (to identify automated system sent emails).
+1. In the 'Email "from"-name' text box replace 'The Bug Genie' with your website's name followed by the word 'Automailer' (to identify, automated system-sent emails).
 1. In the 'Email "from"-address' text box type in  'Do_Not_Reply@YOURWEBSITE.COM' (as you do not want people replying to automated emails.  NOTE: Each user can control whether or not to receive automated emails).
-1. Click the 'save' button (bottom right).
+1. Click the 'Save' button (bottom right).
 1. Scroll up, and click on 'System Administrator' (upper right corner).
-1. Select 'My account' option.
-1. Change the Full Name to your full name.
-1. Make sure the Gravatar email address you want is in the 'your email' address field.
+1. Select the 'My account' option.
+1. In the 'Full name' text field type your full name.
+1. Make sure the email address linked to your Gravatar icon is in the 'Email address' field.
 1. Click the 'save' button (bottom right).
 1. If your Gravatar icon is not showing, click the 'General settings' tab.
-1. Select 'Yes' for 'Use Gravatar avatar' option.
+1. Select 'Yes' for the 'Use Gravatar avatar' option.
 1. Click the 'save' button (bottom right).
 
-     I will cover the other important TBG configuration options, setting up projects, etc. in a follow on tutorial.  This one is focused on configuring the initial  look-and-feel.  Onward!
+     I will cover the other important TBG configuration options, setting up projects, etc. in a follow-on tutorial.  This one is focused on configuring the initial  look-and-feel.  Onward!
 
 #####F. Configure top, menu-bar icon and links in file  headertop.inc.php located in folder .../core/templates/
 
-To open cPanel files like the above – headertop.inc.php – that you now need to open, go your browser's File Manager tab, go the folder specified  – .../core/templates/ –  by clicking the 'Up One Level' button as many times as neccessary to get the main folder = ... (in this case once), and then clicking on each subfolder in turn so in this case /core/ and then /templates/.  Once in last folder specified, click on the file you need to open to select it –  headertop.inc.php.  Finally, click the 'Code Editor' button in the top menu bar, and then click the 'Edit' button in the popup window that opens to open the file.  
+To open cPanel files like the above – headertop.inc.php – that you now need to open ...
+1. Go to your browser's File Manager tab.
+1. Go to the folder specified  – .../core/templates/ –  by clicking the 'Up One Level' button as many times as neccessary to get the main folder = ... = pm.
+1. Then click on each subfolder in turn, which in this case is /core/ and then /templates/.  
+1. Once you've opened the last folder specified, click on the file you need to open to select it –  headertop.inc.php.  
+1. Finally, click the 'Code Editor' button in the top menu bar, and then ...
+1. Click the 'Edit' button in the popup window that opens to open the file.  
 
 If the text in the edit window does not display properly, then click the 'Use text editor' (upper right) button, which opens a more boring, but a more stable cPanel file editor.
 
-NOTE: I put a long string of numbers like this 111111111111111111111111111111111 above each section of code that you need to modify.  1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to near the bottom of file to find the first change that you need to make.
+NOTE: I put a long string of numbers like this 111111111111111111111111111111111 above each section of code that you need to modify: 1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to near the bottom of file to find the first change that you need to make (there are very few changes, and all are very easy to make).  
 
-1. Experiment with icon size and padding in the headertop.inc.php file to get the best look. Click on your TBG browser tab to see how it looks now, and toggle back and forth as you make changes, if any. Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over to the right.
+Let's now make first change to the file headertop.inc.php.
 
-      Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your TGB window to see it.
-2. Change http://YOURSITE.COM/YOURforum/ to your site's forum folder location
-3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool.
+1. Experiment with icon size in the headertop.inc.php file to get it looking its best. Click on your TBG browser tab to see how it looks after each saved change, if any are needed. Don't forget to refresh the view in your TGB window to see saved changes.
+
+    Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under the icon to the right.
+2. Change http://YOURSITE.COM/YOURforum/ to your site's forum folder url.
+3. Change https://github.com/YOURorganization/ to your external GitHub ($7/month for 5 private repositories (family, friend, etc. folders))  OR  Google Drive (free private folders, but fewer collaboration tools than GitHub)  OR other collaborative document creating, editing, etc. web tool.
 1. Click the 'Save Changes' button.
 1. Test both the Forum and GitHub links in your  TGB browser tab (after you refresh your TGB window to upload the new links).
 1. Return to the headertop.inc.php tab when everything is working, and click its 'Close' button (upper right corner).
@@ -274,9 +286,9 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 1. Click into the .../HGTtemplate/VanillaThemeNitrogen/ folder.
 1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum.
+1. In the popup window that opens, replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum, OR if it is in a family folder then = familyfolder/forum.
 
-   It should now read something like /public_html/forum.
+   It should now read something like /public_html/forum, OR /public_html/familyfolder/forum.
 1. Click the grey 'Copy File(s)' button.
 1. Now open your Vanilla /forum/ folder by clicking the 'Up One Level' button twice, and then /forum/ folder once.
 1. Click on the browser tab for your TGB and then click the TGB's 'Forum' button (left-most top-menu-bar button).  If you don't have a tab open for your TGB then
