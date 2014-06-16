@@ -23,6 +23,8 @@ This is part 1 of a 2 part tutorial on one way to set up a collaboration website
 http://www.umbrahosting.com/ssl-certificates.
 
      Learn more about SSL Certificates here http://en.wikipedia.org/wiki/SSL_certificate
+
+     !SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, setting various privacy levels for different projects, forum topics, etc. = allow just imediate family members access, all family and friends but no strangers, etc.  It's your website so you have full control over privacy!
 1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
 1. Scroll down to Software/Services sections and click on Softaculous icon.
 1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
@@ -59,8 +61,8 @@ http://www.umbrahosting.com/ssl-certificates.
      1. In the popup window that opens, click the 'Edit' button.
      1. Copy the text below and paste it into the file: ```<meta http-equiv="refresh" content="0; url=http://YOURWEBSITE.COM/wsp/" />```
      1. Replace 'YOURWEBSITE.COM' with your website's name and .com, .org, etc.
-     1. Click the 'Save' button, and the 'Close' button.
-     1. Check out your website's new false front by opening a new tab and typing in your website's url: YOURWEBSITE.COM.
+     1. Click the 'Save' button.
+     1. Check out your website's new false front by typing in your website's url: YOURWEBSITE.COM.
 
 #####B. Template drop-in replacement preparation
 
@@ -88,7 +90,7 @@ http://www.umbrahosting.com/ssl-certificates.
 
 #####C. TGB Drop-in replacement
 
-1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, which you then double-click on to open it.
+1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, that you then double-click on to open it.
 1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
 1. In the popup window that opens, replace the two folder names /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager.
@@ -98,18 +100,40 @@ http://www.umbrahosting.com/ssl-certificates.
 
 #####D. Custom website ID icon upload
 
-These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites.  You can find lots of free images to use and modify for this purpose at wikipedia.org (provided you reference their creators and provide a link to the original wikipedia image page).  I would recomend something very simple, and all one color, as these icons need to be identifiable when very, very small.  You can also use an image of a capital letter or two or three (your sites initials, for example).  
+These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites = other families, friends, etc. Bug Genies.  You can find lots of free images to use and modify for this purpose.
 
-Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users could confuse with your website.
+HERE http://commons.wikimedia.org/wiki/Category:Initials
 
-1. After you have created three version of your website's icon
+Example: Cuculcan's 2008 InicialM. Copyright CC BY-SA 3.0  http://commons.wikimedia.org/wiki/File:InicialM.svg
+https://openclipart.org/
+
+![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png)
+
+AND ALSO HERE
+https://openclipart.org
+
+Example: ruthirsty's 2014 Red googly-eye bird. Public Domain https://openclipart.org/detail/190894/green-bird-by-ruthirsty-190894
+
+![alt text](https://openclipart.org/people/ruthirsty/green_bird.svg)
+
+Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users frequent.
+
+I would recommend something very simple as these icons need to be identifiable when very, very small. They also need to visible against a dark blue background and a white background.
+
+1. If you downloaded an icon
+   1. Duplicate it twice you that you have three copies of it and then name the copies
+         1. favicon.png
+         2. header.png
+         3. Header icon.png
+1. If you got ambitious and modified or created your website's icon, make sure you save three copies:
      1. 24px x 24px dark or solid black icon named favicon.png
      1. 50px x 50px light or solid white icon named header.png
      1. 100px x 100px light or grey (hex #666666 or RGB	102	102	102) icon named Header icon.png
-     and saved them ...
-1. Click into your /pm/ folder by clicking the 'Up One Level' button twice, and then double clicking on your buggenie folder = pm.
 
-     I'll refer this main Bug Genie folder from now on with three dots '...' in case you named it something different.
+  Once you have your three icon files stored on your computer ...
+1. Click into your browsers cPanel File Manager /pm/ folder by clicking the 'Up One Level' button twice, and then double clicking on your buggenie folder = pm.
+
+     I'll refer to this main Bug Genie folder from now on with three dots '...' in case you named it something different.
 1. Next, click into your .../thebuggenie/ folder.
 1. Click the 'Upload' button in the File Manager's top menu bar.
 1. Click the 'Choose File' button in the window that opens.
@@ -144,8 +168,8 @@ Think of these images as icons, not logos.  They do not have to be unique, just 
 1. Click the 'save' button (bottom right).
 1. Select 'Settings' (2nd option from the left menu column).
 1. Type in your Bug Genie's custom name (the name of your website, family, organization, etc.).
-1. Click the 'save' button (bottom right).  
-1. Select the 'Appearance' tab.  
+1. Scroll down (if necessary) and click the 'save' button (bottom right).  
+1. Scroll up  (if necessary) and select the 'Appearance' tab.  
 1. Click on the currently selected theme 'oxygen' and change it to the 'nitrogen' theme.  Do keep oxygen as the selected iconset.
 1. Click the 'save' button (bottom right).
 1. Click the blue 'Configure icons' button.  
@@ -157,7 +181,7 @@ Think of these images as icons, not logos.  They do not have to be unique, just 
 1. Select the 'Users & security' tab.
 1. Scroll down to 'New user accounts' and select 'All new user accounts will be created by an admin' option.  This will keep strangers from setting up accounts on your website until you are ready, if ever, to allow strangers to create accounts.
 1. Click the 'save' button (bottom right).
-1. Select 'Email communication' (2nd from the bottom, left menu column).
+1. Select 'Email communication' (left menu column, 2nd item from the bottom).
 
      The main reason to set this up now is to insure that if you forget your password TBG will be able to send you a new one via its forgot password button, which is only enabled if you configure this email module.
 1. Change the 'Enable outgoing email notifications' option from 'No' to 'Yes'.
@@ -177,31 +201,33 @@ Think of these images as icons, not logos.  They do not have to be unique, just 
 
 #####E. Configure top, menu-bar icon and links in file  headertop.inc.php located in folder .../core/templates/
 
-To open cPanel files like the above headertop.inc.php that you do need to open now, go your browser's File Manager tab, go the folder specified (.../core/templates/), and then click on the file to select it.  Next, click the'Code Editor' button in the top menu bar,  and finally click the 'Edit' button in the popup window that opens, and your file will open.  
+To open cPanel files like the above headertop.inc.php that you now need to open, go your browser's File Manager tab, go the folder specified (.../core/templates/ (click the 'Up One Level' button and then /core/ and then /templates/)), and then click on the file to select it (headertop.inc.php).  Next, click the'Code Editor' button in the top menu bar,  and finally click the 'Edit' button in the popup window that opens, and your file will open.  
 
 If the text in the edit window does not display properly, then click the 'Use text editor' button, which is a more boring, but a more stable cPanel file editor.
 
-A long string of numbers like this 111111111111111111111111111111111 will appear above each change you need to make in file.  1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to near the bottom of file to find the first change that you need to make.
+NOTE: I put a long string of numbers like this 111111111111111111111111111111111 above each section of code that you need to modify.  1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to near the bottom of file to find the first change that you need to make.
 
-1. Experiment with icon size and padding in the headertop.inc.php file to get the best look.  Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over to the right.
+1. Experiment with icon size and padding in the headertop.inc.php file to get the best look. Click on your TBG browser tab to see how it looks now, and toggle back and forth as you make changes, if any. Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under it over to the right.
 
       Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your TGB window to see it.
-2. Change http://YOURSITE.COM/YOURforum/ to your sites forum folder location
+2. Change http://YOURSITE.COM/YOURforum/ to your site's forum folder location
 3. Change https://github.com/YOURorganization/ to your external GitHub  OR  Google Drive  OR other collaborative document creating, editing, etc. web tool.
 1. Click the 'Save Changes' button.
-1. Test both the Forum and GitHub links in your  TGB browser tab.
-1. Return the headertop.inc.php tab when everything is working, and click its 'Close' button (upper right corner).
+1. Test both the Forum and GitHub links in your  TGB browser tab (after you refresh your TGB window to upload the new links).
+1. Return to the headertop.inc.php tab when everything is working, and click its 'Close' button (upper right corner).
 1. Return to the TGB browser tab and click your name, and then select the 'Logout' option.
-1. Click your TGB's  'Overview' button to see your website guests' view.
+1. Click your TGB's  'Overview' button.
 
 #####F. Configure overview page icon and titles in file _header.inc.php located in folder .../modules/publish/templates/
 
-1. Customize your the icon size above the Overview page's title (scroll down until you see  111111111111111111111111111111111 to find this size control section of the _header.inc.php file).
+1. Customize your the icon size above the Overview page's title (scroll down until you see  111111111111111111111111111111111 to find this size control section of the _header.inc.php file code).
 
      Keep width and height equal and upload a new icon if you need to change it's proportions.
 
      This icon shows up on other pages that you are not customizing, and it is important that its proportions be consistent on all website pages.
-1. Rewrite your site's guest overview page title and welcome message on line 68 (line numbers only show up when using the code editor).
+1. Rewrite your site's guest overview page title and welcome message on line 68.
+
+     FYI: Line numbers only show up when using the cPanel code editor to edit files, versus the text editor.
 2. Rewrite your site's logged in overview title on line 76.
 1. Click the 'Save Changes' button after each change.
 1. Test the look of your icon and titles in your  TGB browser tab.
@@ -209,7 +235,10 @@ A long string of numbers like this 111111111111111111111111111111111 will appear
 
 #####G. Fix a system email issue in the file _issueupdate.html.inc.php located in folder .../modules/mailing/templates/
 
-1. Replace YOURSITE.COM on line 16 and line 24 with your site's name and .com, .org, etc. and correct links to will be sent by the system informing users of activity on your bug genie.
+1. Replace YOURSITE.COM on line 16 with your site's url.
+2. Replace YOURSITE.COM on line 24, and then save and close the file.
+
+     These changes insure that emails sent by the system informing users of activity on your bug genie include correct links.
 
 #####H. Create a strong password for your TGB admin account.
 
@@ -220,12 +249,12 @@ A long string of numbers like this 111111111111111111111111111111111 will appear
 1. Select 'My account' option.
 1. Click the 'Change my password' button, which is in the first row of buttons.
 1. Enter your current password = pass.
-1. Now, wherever you keep your passwords, type out a new one including at least two symbols, two numbers, two lower-case, and two upper-case letters = e#T89Gc& (but not, of course, exactly like this example)
+1. Now, wherever you keep your passwords, type out a new one including at least two symbols, two numbers, two lower-case, and two upper-case letters = e#T89Gc& (but not, of course, exactly like this example).
 
-     Always create a unique password for each website login, as no site is impossible to hack, and if your password is stolen, at least it can't be used anywhere else.  
+     Always create a unique password for each website login, as no site or web server is impossible to hack, and if your password is stolen, at least it can't be used anywhere else.  
 
-     If you don't have to access to your stored passwords and need to get into your TGB, not to worry, The Bug Genie can email you password reset automatically.
-1. Copy and paste this saved password (from wherever you store them) into the two new password fields.  
+     NOTE: If you need to get into your TGB and don't have access to your password, not to worry, The Bug Genie can email you a new password by clicking the 'Forgot Password' button under the 'login' button.
+1. Copy and paste your newly saved password into the two new password fields.  
 1. Click the 'Change password' button.
 1. Click the 'Save' button (just for good measure).
 
@@ -245,8 +274,10 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
 1. In the popup window that opens, replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum.
+
+   It should now read something like /public_html/forum.
 1. Click the grey 'Copy File(s)' button.
-1. Now open your Vanilla /forum/ folder by click the 'Up One Level' button twice, and then your /forum/ folder once.
+1. Now open your Vanilla /forum/ folder by clicking the 'Up One Level' button twice, and then /forum/ folder once.
 1. Click on the browser tab for your TGB and then click the TGB's 'Forum' button (left-most top-menu-bar button).  If you don't have a tab open for your TGB then
    1. Open a new tab in your browser.
    1. Type in your website's forum url = http://YOURSITE.COM/FORUMfolder/.
@@ -255,10 +286,10 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 
 1. Click your forum's grey 'Sign In' button and sign in: U = admin, P = pass.
 1. Click the gear icon (right above the 'New Discussion' button) and click on the 'dashboard' option from the popup menu that opens.
-1. In the Appearance section of left menu column, click on the 'Themes' button.
+1. In the left menu column's Appearance section, click on the 'Themes' button.
 1. Scroll down to the Nitrogen theme and click its light blue 'Apply' button.
 1. Scroll down again looking for the Addons left menu section, and click its 'Plugins' option.
-1. Enable the following plugins (which you can read about as you apply them):
+1. Enable the following plugins (which you can read about as you enable them):
      1. Emotify :)
      1. EpicEditor
      1. Flagging
@@ -273,9 +304,9 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 
 #####K. Finish enabling the Q&A Big Button Remix plugin
 
-1. Click on your browsers cPanel File Manager tab.
-1. Open the config.php file located in folder .../conf/ (Now these three dots '...' refer to your Vanilla forum's cPanel File Manager folder).
-1. Copy the text below (required to make a big 'Ask a Question' button appear below the 'New Discussion' button):
+1. Click on your browser's cPanel File Manager tab.
+1. Open the config.php file located in folder .../conf/ (Now these three dots '...' refer to your Vanilla forum's cPanel File Manager folder = forum).
+1. Select and then copy ALL the code below from ```//Make``` to ```'Ads');```  (required to make a big 'Ask a Question' button appear below the 'New Discussion' button):
 
  ```
  //Make big question button appear
@@ -290,9 +321,9 @@ $Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 #####L. CAUTION: Enable FirstLastName plugin if your forum is for only people you know and trust.
 
 1. In your cPanel File Manager, open your your Vanilla's .../plugins/CAUTION/ folder.
-1. Click 'Select all' from the cPanel file menubar.
+1. Click on the FirstLastNames folder to select it.
 1. Click 'Copy' (not move file) from the cPanel top menubar.
-1. Delete /CAUTION/ from the list of folders in the popup text box, so that no /plugins/ is the last folder in this list.
+1. Delete /CAUTION/ from the list of folders in the popup text box, so that /plugins/ is the last folder in this list.
 1. Click the 'Copy File(s)' button to copy FirstLastName folder to the Plugins folder.
 1. Click your browser's tab for your forum dashboard.
 1. Refresh it to show the FirstLastName plugin.
@@ -307,14 +338,14 @@ $Configuration['Plugins']['QnA']['UseBigButtons'] = TRUE;
 
 Lawyers need our heartfelt gratitude for creating documents like Terms of Use (no kidding).  This is an essential, serious document for regulating TBG and Vanilla Forum participants' emotions.  It lays out the requirements for respecting the feelings and thoughts of others, and the consequences for failing to do so.  Everyone who uses your forum must agree to abide by the Terms of Use agreement.  If your forum is only for family, friends, etc., spend some time, especially with kids, editing this document so that it make sense to everyone.  
 
-You are welcome to copy the Help Give Thanks Terms of Use document at https://github.com/HelpGiveThanks/Drafts/blob/master/Website/English/TermsOfUseAgreement.md and modify it to your needs as long as you don't delete the required copyright references, and if necessary seek out professional legal help to determine if it is right for you, or even legally valid.
+You are welcome to copy the Help Give Thanks Terms of Use document at https://github.com/HelpGiveThanks/Drafts/blob/master/Website/English/TermsOfUseAgreement.md and modify it to your needs as long as you don't delete the required copyright references, and, if necessary, seek out professional legal help to determine if it is right for you, or even legally valid.
 
-The custom link in your Vanilla Forum will point people to a single Terms of Use document for both your Forum and Bug Genie, located where it is easiest to modify, in your Bug Genie's wiki. To create this custom link in your Vanilla Forum registration windows
+The Terms of Use link in your Vanilla Forum will point people to a single document for both your forum and Bug Genie, located where it is easiest to modify, in your Bug Genie's wiki. To create this custom
 
 1. Click on your cPanel File Manager tab.
-1. Go to the Vanilla folder .../plugins/FirstLastNames/views/
-1. Open the registerapproval.php file.
-1. Replace /YOURSITE.COM/YOURTBGfolder/ with your site's name at .com, .org, etc. and your Bug Genie folder's name = /YOURSITE.COM/pm/).
+1. Go to the Vanilla folder .../plugins/FirstLastNames/views/ !NOT! .../plugins/CAUTION/FirstLastNames/views/
+1. Open the registerapproval.php file with a cPanel file editor.
+1. Replace /YOURSITE.COM/YOURTBGfolder/ with your site's  url and your Bug Genie folder's name = /YOURSITE.COM/pm/).
 1. Save and close the file.
 1. Repeat the above three steps for the rest of these files:
      1. registerbasic.php
@@ -331,7 +362,7 @@ The custom link in your Vanilla Forum will point people to a single Terms of Use
 1. Do a find/replace of "YOURSITE.COM/YOURTBGfolder" (NOT /YOURforumfolder) to  customize all 9 instances of this TGB link.
      1. Click the binoculars icon to open the find/replace window.
      1. If you don't see this icon, then click the 'Use code editor' button.
-2. Next, experiment with icon size and padding to get best look, while making sure whatever you do matches the look in TGB exactly.
+2. Next, experiment with icon size and padding (TOPpx RIGHTpx BOTTOMpx LEFTpx = 5px 5px 5px 5px) to match the icon in TGB exactly.  If you increase the icon's height, you will need to decrease the bottom padding = 5px 5px 0px 5px.
 
      Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your Vanilla Forum window to see it.
 3. Type in your Forum url, replacing http://YOURSITE.COM/YOURforum.

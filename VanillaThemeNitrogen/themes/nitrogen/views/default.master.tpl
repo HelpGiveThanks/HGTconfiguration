@@ -35,7 +35,7 @@ rel="icon" type="image/png"
 	
 /*  222222222222222222222222222222222  */
 	
-/* Experiment with icon size and padding (TOPpx RIGHTpx BOTTOMpx LEFTpx) to get best look, while making sure whatever you do matches the look in TGB exactly.  If you increase the height, you will need to decrease the BOTTOMpx padding = 3rd 5px value reading left-to-right. */	
+/* Experiment with icon size and padding (TOPpx RIGHTpx BOTTOMpx LEFTpx = 5px 5px 5px 5px) to match the icon in TGB exactly.  If you increase the icons height, you will need to decrease the bottom padding = 5px 5px 0px 5px. */	
 	style="width: 24px; height: 24px; padding: 5px 5px 5px 5px;"></img></a></td><td id="forum_cell"><a id="forum_button"
     
     
