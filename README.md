@@ -24,13 +24,13 @@ http://www.umbrahosting.com/ssl-certificates.
 
      Learn more about SSL Certificates here http://en.wikipedia.org/wiki/SSL_certificate
 
-     !SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, setting various privacy levels for different projects, forum topics, etc. = allow just imediate family members access, all family and friends but no strangers, etc.  It's your website so you have full control over privacy!
+     !SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, setting various privacy levels for different projects, forum topics, etc. Privacy examples – allow just immediate family members access, all family and friends but no strangers, etc.  It's your website so you have full control over privacy!
 1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
 1. Scroll down to Software/Services sections and click on Softaculous icon.
 1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory 'buggenie' to 'pm' for project manager.
+     1. In Directory textbox info from 'buggenie' to 'pm' for project manager.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon: https://en.gravatar.com
 1. Click the grey 'install' button.
@@ -38,7 +38,7 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Click on Vanilla.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory 'vanilla' to 'forum' for forum.
+     1. In Directory textbox info from 'vanilla' to 'forum' for forum.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
 1. Click the grey 'install' button.
@@ -48,20 +48,21 @@ http://www.umbrahosting.com/ssl-certificates.
 
         This game does not require a database and just works right away.
      1. Click the blue 'install' button.
+     1. Click the grey 'Install' button.
 1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp- with-a-gear-over-it icon (the first icon reading left-to-right).
 1. In the cPanel Files section click the 'File Manager' icon.
 1. !IMPORTANT! In the popup window that opens click the option to 'Show Hidden Files (dotfiles).'
 1. Click the popup window's 'Go' button.
 1. If you added the word search puzzle game for your website's false front
      1. Click on the 'New File' button in the top menu bar.
-     1. In the popup window that opens, type in 'index.html' in the 'New File Name' text box.
+     1. In the popup window that opens, type  'index.html' in the 'New File Name' text box (don't forget to put the period between 'index' and 'html').
      1. Click the 'Create New File' button.
      1. Click on your new index.html file to select it.
      1. Click the 'Edit' button in the top menu bar to open it.
      1. In the popup window that opens, click the 'Edit' button.
-     1. Copy the text below and paste it into the file: ```<meta http-equiv="refresh" content="0; url=http://YOURWEBSITE.COM/wsp/" />```
-     1. Replace 'YOURWEBSITE.COM' with your website's name and .com, .org, etc.
-     1. Click the 'Save' button.
+     1. Copy the text below and paste it into the index.html file: ```<meta http-equiv="refresh" content="0; url=http://YOURWEBSITE.COM/wsp/" />```
+     1. Replace 'YOURWEBSITE.COM' with your website's url = name and .com, .org, etc.
+     1. Click the 'Save Changes' button.
      1. Check out your website's new false front by typing in your website's url: YOURWEBSITE.COM.
 
 #####B. Template drop-in replacement preparation
