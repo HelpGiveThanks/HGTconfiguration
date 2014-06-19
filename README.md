@@ -40,7 +40,7 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Click on Vanilla.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory textbox info from 'vanilla' to 'forum'.
+     1. In Directory textbox information from 'vanilla' to 'forum'.
 
      If you plan on hosting several family, friend, etc. collaborative websites, then type the family's folder name followed by forum = myfamily/forum.
      1. Leave the password as 'pass' and change it when you're finished setting up.  
@@ -111,7 +111,6 @@ These next steps depend up on your selection of a custom icon to help distinguis
 HERE http://commons.wikimedia.org/wiki/Category:Initials
 
 Example: Cuculcan's 2008 InicialM. Copyright CC BY-SA 3.0  http://commons.wikimedia.org/wiki/File:InicialM.svg
-https://openclipart.org/
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png)
 
