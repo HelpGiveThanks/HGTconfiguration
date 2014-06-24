@@ -1,8 +1,11 @@
-## Help Give Thanks Research Project Website Configuration Tutorials and Files
+## Help Give Thanks Research Project website configuration tutorials and files
 
 The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago.
 
 ![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
+
+*Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 8/8/13 from commons.wikimedia.org/wiki/
+File:Sumerian_account_of_silver_for_the_govenor.JPG*
 
 The primary difference between clay and digital information storage is shareability.  You no longer have to employ many highly-skilled people to store, share, revise, improve, etc. your important information.  
 
@@ -32,9 +35,9 @@ https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitro
 Compare https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 
-## Creating a Collaborative Website Part 1: Setup to Customizing Look-and-Feel
+## Setting up and configuring an online collaboration toolset for your family, friends, organzation, etc. part 1: From basic setup to customizing website look-and-feel
 
-This is part 1 of a 2 part tutorial on one way to setup and configure a collaboration website using The Bug Genie progect manager and Vanilla forum.
+Part 2 will cover creating projects and issue types for the project manager, categories for the forum, and  configuring user permissions for both.
 
 #####A. Create a new project manager and forum for your family, roomates, friends, organization, business, etc.
 1. Purchase a website hosting account that comes with a cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and am very satified with their service and tech support: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plan.  (Perfect for a small website.)
