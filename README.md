@@ -8,21 +8,19 @@ Read more about the Help Give Thanks Research Project here: http://HelpGiveThank
 
 NOTE: The repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easy to keep track of all files from two different applications and two plugins, but not make changes to them.  Use the links below to contribute changes and compare changes already made to these files.
 
-HGT Configurations of
+The Bug Genie 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
 
-The Bug Genie 3.2.7.1 https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
-
-Vanilla 2.1
+Vanilla 2.1 HGT configuration
 https://github.com/HelpGiveThanks/vanilla/tree/2.1
 Compare  https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 
-Q&A Vanilla plugin
+Q&A Vanilla plugin HGT configuration
 https://github.com/HelpGiveThanks/addons/tree/2.1/plugins/QnA
 LastEdited Vanilla plugin
 https://github.com/HelpGiveThanks/addons/tree/2.1/plugins/LastEdited
 Compare Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
 
-FirstLastNames Vanilla plugin
+FirstLastNames Vanilla plugin HGT configuration
 https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitrogen/plugins/CAUTION/FirstLastNames
 Compare https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
