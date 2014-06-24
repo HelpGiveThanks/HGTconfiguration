@@ -2,20 +2,31 @@
 
 The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago. The primary difference between clay and digital information storage is sharability.  You no longer have to be rich and powerful to store and share your important information.  
 
-To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTtemplate/blob/master/README.md
+To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
 Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
-NOTE: The repository  https://github.com/HelpGiveThanks/HGTtemplate was created to make it easy to keep track of all files needed to accomplish this template in two different applications, but it is not a fork off of those applications, and so cannot be compared to them.  The actual fork off of TGB for the TGB template can found here https://github.com/virtualdavid/thebuggenie/tree/template.  The Vanilla theme files consists of a modified copy of its default theme version 2.1.  
+NOTE: The repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easy to keep track of all files from two different applications and two plugins, but not make changes to them.  Use the links below to contribute changes and compare changes already made to these files.
+
+HGT Configurations of
+
+The Bug Genie 3.2.7.1 https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
+
+Vanilla 2.1
+https://github.com/HelpGiveThanks/vanilla/tree/2.1
+Compare  https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
+
+Q&A Vanilla plugin
+https://github.com/HelpGiveThanks/addons/tree/2.1/plugins/QnA
+LastEdited Vanilla plugin
+https://github.com/HelpGiveThanks/addons/tree/2.1/plugins/LastEdited
+Compare Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
+
+FirstLastNames Vanilla plugin
+https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitrogen/plugins/CAUTION/FirstLastNames
+Compare https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 
-Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
-
-TGB https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
-
-FirstLastNames https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
-
-Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
 ## Creating a Collaborative Website Part 1: Setup to Customizing Look-and-Feel
 
 This is part 1 of a 2 part tutorial on one way to setup and configure a collaboration website using The Bug Genie progect manager and Vanilla forum.
