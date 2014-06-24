@@ -1,6 +1,10 @@
 ## Help Give Thanks Research Project Website Configuration Tutorials and Files
 
-The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago. The primary difference between clay and digital information storage is sharability.  You no longer have to be rich and powerful to store and share your important information.  
+The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago.
+
+![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
+
+The primary difference between clay and digital information storage is sharability.  You no longer have to be rich and powerful to store and share your important information.  
 
 To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
@@ -125,14 +129,14 @@ HERE http://commons.wikimedia.org/wiki/Category:Initials
 
 Example: Cuculcan's 2008 InicialM. Copyright CC BY-SA 3.0  http://commons.wikimedia.org/wiki/File:InicialM.svg
 
-![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png)
+![alt letter icon](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png)
 
 AND ALSO HERE
 https://openclipart.org
 
 Example: ruthirsty's 2014 Green googly-eye bird. Public Domain (not copyrighted, free to use, etc.) https://openclipart.org/detail/190894/green-bird-by-ruthirsty-190894
 
-![alt text](https://openclipart.org/people/ruthirsty/green_bird.svg)
+![alt picture icon](https://openclipart.org/people/ruthirsty/green_bird.svg)
 
 Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users frequent.
 
@@ -458,13 +462,13 @@ To see screenshots and read a detailed explanation about the HGT Template go her
 
 To download a copy of this template go here https://sourceforge.net/projects/helpgivethanks/.
 
-## Legal Stuff
-Copyright &copy; 2009-2014 Vanilla Forums Inc.
-
-Vanilla Forums is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-Vanilla Forums is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+## Legal
+The Help Give Thanks Research Project website configuration tutorials and files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the GNU General Public License for all Vanilla files and plugins.
+These files are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details. You should have received a copy of the GNU General Public License
-along with Vanilla Forums.  If not, see <http://www.gnu.org/licenses/>.
-Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
+See the open source licenses for more information.
+
+Mozilla Public License 1.1 http://opensource.org/licenses/mozilla1.1.php
+
+
+GNU General Public License, version 2 http://www.gnu.org/licenses/gpl-2.0.html
