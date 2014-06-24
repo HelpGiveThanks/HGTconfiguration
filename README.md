@@ -4,7 +4,7 @@ The Help Give Thanks Research Project (HGT) website tools were configured out of
 
 ![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
 
-The primary difference between clay and digital information storage is sharability.  You no longer have to be rich and powerful to store and share your important information.  
+The primary difference between clay and digital information storage is shareability.  You no longer have to employ many higly skilled people to store and share your important information.  
 
 To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
