@@ -8,9 +8,9 @@ The Help Give Thanks Research Project (HGT) website tools were configured out of
 
 The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people follow strict and complex rules (see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)  to store, share, revise, improve, etc. our important information.
 
-![alt Village Lawyer by Pieter Brueghel the Younger (1564–1638)  ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg/640px-Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
+![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg/640px-Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
-[Village Lawyer (1621) by Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
+[Village Lawyer (1621) by Flemish painter Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
 Thanks to these digital tools anyone including children can help create, improve, and manage the information we all need to live  our lives productively, peacefully, appreciatively, etc.
 
