@@ -18,7 +18,7 @@ To encourage wide spread use of these colloboration tools in everyday interactio
 
 Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
-### Where to help improve the configuration tutorials and files
+### Where to help improve configuration tutorials and files
 The HGTconfiguration repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easier to create the installation zip of files from two different applications and two plugins, but not make changes to these files, except for this tutorial file.  Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
 Use the links below to contribute changes and compare changes already made to the other configuration files.
