@@ -4,12 +4,16 @@ The Help Give Thanks Research Project (HGT) website tools were configured out of
 
 ![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
 
-*Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 8/8/13 from commons.wikimedia.org/wiki/
-File:Sumerian_account_of_silver_for_the_govenor.JPG*
+*Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
 
-The primary difference between clay and digital information storage is shareability.  You no longer have to employ many highly-skilled people to store, share, revise, improve, etc. your important information.  
+The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people follow strict and complex rules (see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)  to store, share, revise, improve, etc. our important information.
 
-To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users.
+![alt Village Lawyer by Pieter Brueghel the Younger (1564–1638)  ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg/640px-Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
+[Village Lawyer (1621) by Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
+
+Thanks to these digital tools anyone including children can help create, improve, and manage the information we all need to live  our lives productively, peacefully, appreciatively, etc.
+
+To encourage wide spread use of these colloboration tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users.
 
 Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
