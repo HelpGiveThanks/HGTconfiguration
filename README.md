@@ -1,8 +1,12 @@
-## Help Give Thanks Research Project Template
+## Help Give Thanks Research Project Website Configuration Tutorials and Files
 
-This template was created out of a need for an integrated website solution combining the powers of The Bug Genie (TBG) and Vanilla.   This template is aimed to be easy to install by relatively novice users to encourage wide spread use of these tools in everyday interactions with family and friends.  Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
+The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago. The primary difference between clay and digital information storage is sharability.  You no longer have to be rich and powerful to store and share your important information.  
 
-NOTE: The repository at https://github.com/HelpGiveThanks/HGTtemplate was created to make it easy to keep track of all files needed to accomplish this template in two different applications, but it is not a fork off of those applications, and so cannot be compared to them.  The actual fork off of TGB for the TGB template can found here https://github.com/virtualdavid/thebuggenie/tree/template.  The Vanilla theme files consists of a modified copy of its default theme version 2.1.  
+To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTtemplate/blob/master/README.md
+
+Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
+
+NOTE: The repository  https://github.com/HelpGiveThanks/HGTtemplate was created to make it easy to keep track of all files needed to accomplish this template in two different applications, but it is not a fork off of those applications, and so cannot be compared to them.  The actual fork off of TGB for the TGB template can found here https://github.com/virtualdavid/thebuggenie/tree/template.  The Vanilla theme files consists of a modified copy of its default theme version 2.1.  
 
 
 Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
@@ -12,9 +16,9 @@ TGB https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32.
 FirstLastNames https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 Vanilla https://github.com/HelpGiveThanks/vanilla/compare/2.1?expand=1
-## HGT Template Setup
+## Creating a Collaborative Website Part 1: Setup to Customizing Look-and-Feel
 
-This is part 1 of a 2 part tutorial on one way to set up a collaboration website using The Bug Genie progect manager coupled with a Vanilla forum.
+This is part 1 of a 2 part tutorial on one way to setup and configure a collaboration website using The Bug Genie progect manager and Vanilla forum.
 
 #####A. Create a new project manager and forum for your family, roomates, friends, organization, business, etc.
 1. Purchase a website hosting account that comes with a cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and am very satified with their service and tech support: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plan.  (Perfect for a small website.)
