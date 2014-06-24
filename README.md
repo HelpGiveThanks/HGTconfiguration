@@ -6,11 +6,14 @@ The Help Give Thanks Research Project (HGT) website tools were configured out of
 
 The primary difference between clay and digital information storage is shareability.  You no longer have to employ many highly-skilled people to store, share, revise, improve, etc. your important information.  
 
-To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users. Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
+To encourage wide spread use of these tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users.
 
 Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
-NOTE: The repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easy to keep track of all files from two different applications and two plugins, but not make changes to them.  Use the links below to contribute changes and compare changes already made to these files.
+## Where to help improve the configuration tutorials and files
+The HGTconfiguration repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easier to create the installation zip of files from two different applications and two plugins, but not make changes to these files, except for this tutorial file.  Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
+
+Use the links below to contribute changes and compare changes already made to the other configuration files.
 
 The Bug Genie 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
 
