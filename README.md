@@ -18,7 +18,7 @@ To encourage wide spread use of these colloboration tools in everyday interactio
 
 Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
 
-## Where to help improve the configuration tutorials and files
+### Where to help improve the configuration tutorials and files
 The HGTconfiguration repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easier to create the installation zip of files from two different applications and two plugins, but not make changes to these files, except for this tutorial file.  Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
 Use the links below to contribute changes and compare changes already made to the other configuration files.
@@ -40,7 +40,7 @@ https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitro
 Compare https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 
-## Setting up and configuring an online collaboration toolset for your family, friends, organzation, etc. part 1: From basic setup to customizing website look-and-feel
+### Setting up and configuring an online collaboration toolset for your family, friends, organzation, etc. part 1: From basic setup to customizing website look-and-feel
 
 Part 2 will cover creating projects and issue types for the project manager, categories for the forum, and  configuring user permissions for both.
 
