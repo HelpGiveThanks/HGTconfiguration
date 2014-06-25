@@ -6,11 +6,10 @@ I configured the Help Give Thanks Research Project (HGT) website tools at [HelpG
 
 Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create collaborative, non-arguementative, social environments.
 
-![alt clay tablet](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/arguetabletaccount.jpg)
+![alt clay tablet](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueAccount.gif)
 
-*Cartoon remix by David Matson, Copyright 2014.
-[Creative Commons
-Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)*
+*A Remix Cartoon by David Matson, Copyright 2014.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)*
 
 *Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
 
