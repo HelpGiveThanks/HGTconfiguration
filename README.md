@@ -4,11 +4,17 @@ Attribution 4.0 International
 
 I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from adding this collaborative environment to marriage, family, friend, and student-teacher relationships.  
 
-Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create a collaborative, non-arguementative, social environment.
+Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create collaborative, non-arguementative, social environments.
 
-![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
+![alt clay tablet](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/arguetabletaccount.jpg)
+
+*Cartoon remix by David Matson, Copyright 2014.
+[Creative Commons
+Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)*
 
 *Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
+
+*Matson, David (2013), Remix of Man 261 [Arguing Facts] and Remix of Man 227 [Looking and Pointing]. Originals from collection by Nova Development (1997). In Art Explosion: 250,000 images : Macintosh. Calabasas, California: Nova Development. Copyright 1997 by the Publisher.  All rights reserved. Available on 8/14/13 from http://www.worldcat.org/title/art-explosion-250000-images-macintosh/oclc/39893863*
 
 The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
 
