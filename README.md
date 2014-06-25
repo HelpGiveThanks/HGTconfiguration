@@ -6,7 +6,9 @@ I configured the Help Give Thanks Research Project (HGT) website tools at [HelpG
 
 Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create collaborative, non-arguementative, social environments.
 
-![alt clay tablet](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueAccount.gif)
+![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.gif)
+
+![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount2.gif)
 
 *A Remix Cartoon by David Matson, Copyright 2014.
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)*
