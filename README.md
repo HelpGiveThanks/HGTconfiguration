@@ -1,4 +1,4 @@
-## Help Give Thanks Research Project collaborative website configuration tutorial
+### Help Give Thanks Research Project collaborative website configuration tutorial
 by David Matson, Copyright 2014. Creative Commons
 Attribution 4.0 International
 
