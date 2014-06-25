@@ -150,7 +150,7 @@ Example: ruthirsty's 2014 Green googly-eye bird. Public Domain (not copyrighted,
 
 Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users frequent.
 
-I would recommend something very simple as these icons need to be identifiable when very, very small. They also need to visible against a dark blue background and a white background.  You could use just one icon, or a light, dark, and optional grey version of the same icon.
+I would recommend something very simple as these icons need to be identifiable when very, very small. They also need to be visible against a dark blue background and a white background.  You could use just one icon, or two light and dark versions of an icon, or three versions of the same icon colored solid white, grey, and black.
 
 1. If you downloaded an icon
    1. Duplicate it twice so that you have three copies of it, and then name these copies:
@@ -165,20 +165,20 @@ I would recommend something very simple as these icons need to be identifiable w
   Once you have your three icon files stored on your computer
 1. Click into your browser's File Manager pm folder by clicking the 'Up One Level' button twice, and then double clicking on your TGB folder = pm.
 
-     I'll refer to this main TBG folder from now on with three dots '...' in case you named it something different.
+     I'll refer to this main TBG folder from now on with three dots '...' = pm.
 1. Next, click into your .../thebuggenie/ folder.
 1. Click the 'Upload' button in the File Manager's top menu bar.
 1. Click the 'Choose File' button in the window that opens.
 1. Find and click on the favicon.png image file.
 1. Click the 'Choose' button.
-1. Click the 'Yes' button in the next popup window to replace the current favicon.png file.
+1. Click the 'Yes' button in the next popup window that opens to replace the current favicon.png file.
 1. Click the 'Choose File' button again.
 1. Find and click on the header.png file NOT the Header icon.png file.
 1. Click the 'Choose' button.
-1. Click the 'Yes' button in the next popup window to replace the current header.png file.
+1. Click the 'Yes' button in the next popup window that opens to replace the current header.png file.
 1. When the bottom right grey progress bar says that these uploads are complete, close the upload window.
 1. Open a new tab in your browser.
-1. Type in your website's buggenie url: http://YOURSITE.COM/pm/.
+1. Type in your website's buggenie url: http://YOURSITE.COM/pm/ OR http://YOURSITE.COM/yourfamily/pm/.
 
 #####E. Configure TGB name, theme, and icons
 
@@ -229,9 +229,9 @@ I would recommend something very simple as these icons need to be identifiable w
 1. Select 'Yes' for the 'Use Gravatar avatar' option.
 1. Click the 'save' button (bottom right).
 
-     I will cover the other important TBG configuration options, setting up projects, etc. in a follow-on tutorial.  This one is focused on configuring the initial  look-and-feel.  Onward!
+     I will cover the other important TBG configuration options, setting up projects, etc. in a follow-on tutorial.  This one is focused on configuring the initial look-and-feel.  Onward!
 
-#####F. Configure top, menu-bar icon and links in file  headertop.inc.php located in folder .../core/templates/
+#####F. Configure top, menu-bar icon and links in the file  headertop.inc.php located in the folder .../core/templates/
 
 To open cPanel files like the above – headertop.inc.php – that you now need to open
 1. Go to your browser's File Manager tab.
@@ -242,9 +242,9 @@ To open cPanel files like the above – headertop.inc.php – that you now need 
 
 If the code in the edit window does not display properly, then click the 'Use text editor' (upper right) button, which opens a more boring, but a more stable cPanel file editor.
 
-NOTE: I put a long string of numbers like this 111111111111111111111111111111111 above each section of code that you need to modify: 1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to the bottom of it to find the first change that you need to make.  There are very few changes in any file, and all are very easy to make.  
+NOTE: I put a long string of numbers like this 111111111111111111111111111111111 above each section of code that you need to modify: 1 for the first change, 2 for the second, and so on.  In some files, you may need to scroll to the bottom to find the first change that you need to make.  There are very few changes in any file, and all are very easy to make.  
 
-Now make the first change to headertop.inc.php file.
+Now make the first optional change to headertop.inc.php file.
 
 1. Experiment with icon size in the headertop.inc.php file to get the icon looking its best. Click on your TBG browser tab to see how it looks after each saved change, if any are needed. Don't forget to refresh the view in your TGB browser window to see the saved changes.
 
