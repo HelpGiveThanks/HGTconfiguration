@@ -2,7 +2,9 @@
 by David Matson, Copyright 2014. Creative Commons
 Attribution 4.0 International
 
-I configured the Help Give Thanks Research Project (http://HelpGiveThanks.org) website tools out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate online environment, and 2) to freely share this configuration with others so anyone can test the life changing, positive effects of these tools especially in family, friend, and student-teacher relationships.  Keep in mind that for all their complexity, these software tools have the same function as clay tablets used to store and access information thousands of years ago.
+I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from adding this collaborative environment to marriage, family, friend, and student-teacher relationships.  
+
+Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create a collaborative, non-arguementative, social environment.
 
 ![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
 
