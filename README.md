@@ -34,7 +34,7 @@ https://github.com/HelpGiveThanks/addons/tree/2.1/plugins/LastEdited
 Compare Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vanilla:2.1...2.1
 
 FirstLastNames Vanilla plugin HGT configuration
-https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitrogen/plugins/CAUTION/FirstLastNames
+https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaNitrogen/plugins/CAUTION/FirstLastNames
 Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 
@@ -122,10 +122,10 @@ http://www.umbrahosting.com/ssl-certificates.
 
 #####C. TGB configuration files drop-in replacement
 
-1. Click into the .../HGTconfiguration/TBGconfigurationNitrogen/ folder by first double clicking on the HGTconfiguration folder, which reveals the TBGnitrogen folder, that you then double-click on to open it.
+1. Click into the .../HGTconfiguration/TBGNitrogen/ folder by first double clicking on the HGTconfiguration folder, which reveals the TBGNitrogen folder, that you then double-click on to open it.
 1. Click the 'Select all' button from the second menubar (right above the file window, and right below the top menu bar).
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folders /HGTconfiguration/TBGconfigurationNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager
+1. In the popup window that opens, replace the two folders /HGTconfiguration/TBGNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager
 OR = familyfolder/pm.
 
      It should now read something like /public_html/pm OR /public_html/familyfolder/pm.
@@ -315,10 +315,10 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 
 #####K. Vanilla Drop-in replacement
 
-1. Click into the HGTconfiguration/VanillaThemeNitrogen/ folder.
+1. Click into the HGTconfiguration/VanillaNitrogen/ folder.
 1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folder names /HGTconfiguration/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum OR familyfolder/forum.
+1. In the popup window that opens, replace the two folder names /HGTconfiguration/VanillaNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum OR familyfolder/forum.
 
    It should now read something like /public_html/forum OR /public_html/familyfolder/forum.
 1. Click the grey 'Copy File(s)' button.
