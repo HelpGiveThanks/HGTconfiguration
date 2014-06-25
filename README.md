@@ -6,14 +6,14 @@ I configured the Help Give Thanks Research Project (HGT) website tools at [HelpG
 
 Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create collaborative, non-arguementative, social environments.
 
-![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.gif)
-
-![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount2.gif)
+![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.png)
 
 *A Remix Cartoon by David Matson, Copyright 2014.
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)*
 
 *Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
+
+![alt argue or account cartoon](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount2.png)
 
 *Matson, David (2013), Remix of Man 261 [Arguing Facts] and Remix of Man 227 [Looking and Pointing]. Originals from collection by Nova Development (1997). In Art Explosion: 250,000 images : Macintosh. Calabasas, California: Nova Development. Copyright 1997 by the Publisher.  All rights reserved. Available on 8/14/13 from http://www.worldcat.org/title/art-explosion-250000-images-macintosh/oclc/39893863*
 
