@@ -10,7 +10,7 @@ I configured the Help Give Thanks Research Project (http://HelpGiveThanks.org) w
 
 The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
 
-![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg/640px-Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
+![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
 [Village Lawyer (1621) by Flemish painter Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
