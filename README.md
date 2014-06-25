@@ -1,6 +1,6 @@
 ### Help Give Thanks Research Project collaborative website configuration tutorial
-by David Matson, Copyright 2014. Creative Commons
-Attribution 4.0 International
+by David Matson, Copyright 2014. [Creative Commons
+Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
 I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from adding this collaborative environment to marriage, family, friend, and student-teacher relationships.  
 
