@@ -1,10 +1,10 @@
-### Help Give Thanks Research Project collaborative website configuration tutorial
+### Help Give Thanks Research Project collaborative website-configuration tutorial
 by David Matson, Copyright 2014. [Creative Commons
 Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
-I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from adding this collaborative environment to marriage, family, friend, and student-teacher relationships.  
+I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creating/editing tools in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from incorporating this collaborative environment into marriage, family, friend, and student-teacher relationships.  
 
-Keep in mind that for all their complexity, the project manager, wiki, forum, and document creation/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to create collaborative, non-arguementative, social environments.
+Keep in mind that for all their complexity, the project manager, wiki, forum, and document creating/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to help create collaborative, non-arguementative, social environments.
 
 ![alt Argue Or Account. A Remix Cartoon by David Matson, Copyright 2014, CC BY 4.0](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.png)
 
@@ -12,18 +12,18 @@ Keep in mind that for all their complexity, the project manager, wiki, forum, an
 
 *Matson, David (2013), Remix of Man 261 [Arguing Facts] and Remix of Man 227 [Looking and Pointing]. Originals from collection by Nova Development (1997). In Art Explosion: 250,000 images : Macintosh. Calabasas, California: Nova Development. Copyright 1997 by the Publisher.  All rights reserved. Available on 8/14/13 from http://www.worldcat.org/title/art-explosion-250000-images-macintosh/oclc/39893863*
 
-The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
+The primary difference between clay and digital information storage is shareability and collaborative freedom for all with access to computers and the web.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information as depicted in the painting below *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
 
 ![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
 [Village Lawyer (1621) by Flemish painter Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
-Thanks to these digital tools anyone including children can now (for the first time in human history!) help create, improve, and manage the information we all need to live our lives productively, peacefully, appreciatively, etc.
+Thanks to these digital tools, anyone including children can now (for the first time in human history!) help create, improve, and manage the information all humans need to have peaceful (drama-free), appreciative, productive, fascinating, etc. relationships.  This tutorial, the project manager and forum configuration files, and all the HGT Research Project tools constitute my current attempt (after many, many failures) to help get these kind of tools into all relationships (especially domestic ones), and bring about the peace on Earth and good will towards everyone that I know information technology makes possible. I hope you will build upon, improve, remix, and most of all use and share these tools.
 
 ### Where to contribute changes to help improve this tutorial and HGT configuration files
 To encourage wide spread use of these collaboration tools in everyday interactions with family and friends, I have spent a lot of time editing and troubleshooting these instructions to insure that every setup and configuration step is spelled out completely. Of course editing my own work is never fool proof, so please help improve this file at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
-Use the links below to contribute changes, and compare changes already made to HGT configuration files.
+Use the links below to contribute improvements, and compare changes already made to HGT configuration files.
 
 The Bug Genie 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
 
