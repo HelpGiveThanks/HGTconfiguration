@@ -1,27 +1,25 @@
-## Help Give Thanks Research Project website configuration tutorials and files
+## Help Give Thanks Research Project collaborative website configuration tutorial
+by David Matson, Copyright 2014. Creative Commons
+Attribution 4.0 International
 
-The Help Give Thanks Research Project (HGT) website tools were configured out of my need to combine the powers of a project mananger, wiki, forum, and document creation/editing tool in an easy to navigate online environment.  Keep in mind that for all their complexity these combined tools have the same function as clay tablets used to store and access information thousands of years ago.
+I configured the Help Give Thanks Research Project (http://HelpGiveThanks.org) website tools out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creation/editing tool in an easy to navigate online environment, and 2) to freely share this configuration with others so anyone can test the life changing, positive effects of these tools especially in family, friend, and student-teacher relationships.  Keep in mind that for all their complexity, these software tools have the same function as clay tablets used to store and access information thousands of years ago.
 
 ![alt clay tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/242px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png)
 
 *Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
 
-The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people follow strict and complex rules (see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)  to store, share, revise, improve, etc. our important information.
+The primary difference between clay and digital information storage is shareability and collaborative freedom.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
 
 ![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg/640px-Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
 [Village Lawyer (1621) by Flemish painter Pieter Brueghel the Younger (1564–1638)](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
-Thanks to these digital tools anyone including children can help create, improve, and manage the information we all need to live  our lives productively, peacefully, appreciatively, etc.
+Thanks to these digital tools anyone including children can now (for the first time in human history!) help create, improve, and manage the information we all need to live our lives productively, peacefully, appreciatively, etc.
 
-To encourage wide spread use of these colloboration tools in everyday interactions with family and friends, I have tired to make this setup and configurtion process easy for even novice users.
+### Where to contribute changes to help improve this tutorial and HGT configuration files
+To encourage wide spread use of these collaboration tools in everyday interactions with family and friends, I have spent a lot of time editing and troubleshooting these instructions to insure that every setup and configuration step is spelled out completely. Of course editing my own work is never fool proof, so please help improve this file at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
-Read more about the Help Give Thanks Research Project here: http://HelpGiveThanks.org.
-
-### Where to help improve configuration tutorials and files
-The HGTconfiguration repository  https://github.com/HelpGiveThanks/HGTconfiguration was created to make it easier to create the installation zip of files from two different applications and two plugins, but not make changes to these files, except for this tutorial file.  Please help improve future versions of this file by offering your suggestions at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
-
-Use the links below to contribute changes and compare changes already made to the other configuration files.
+Use the links below to contribute changes, and compare changes already made to HGT configuration files.
 
 The Bug Genie 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
 
@@ -37,22 +35,24 @@ Compare Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vani
 
 FirstLastNames Vanilla plugin HGT configuration
 https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaThemeNitrogen/plugins/CAUTION/FirstLastNames
-Compare https://github.com/HelpGiveThanks/HGTtemplate/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
+Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
 
 
-### Setting up and configuring an online collaboration toolset for your family, friends, organzation, etc. part 1: From basic setup to customizing website look-and-feel
+### Setting up and configuring an online collaboration toolset part 1: From basic setup to customizing website look-and-feel
 
 Part 2 will cover creating projects and issue types for the project manager, categories for the forum, and  configuring user permissions for both.
 
-#####A. Create a new project manager and forum for your family, roomates, friends, organization, business, etc.
-1. Purchase a website hosting account that comes with a cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and am very satified with their service and tech support: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plan.  (Perfect for a small website.)
+#####A. Create a new project manager and forum for your family, friends, organization, etc.
+1. Purchase a website hosting account that meets the following requirements: cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and have always received excellent tech support and customer service: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plans   (perfect for a small website).
 
-     NOTE: If you want all user interactions with your website encyrpted (not necessary in my opinion) for $40/year you can purchase an SSL certificate:
+  Full Discloser: I am satisified customer of umbrahosting.com, and have not been paid, given any gifts, or special treatment for recommending them.  I hope my recommendation will help you save money and time searching for a hosting company, of which there many good ones.
+
+  NOTE: If you want all user interactions with your website encyrpted (not necessary) for $40/year you can purchase an SSL certificate:
 http://www.umbrahosting.com/ssl-certificates.
 
      Learn more about SSL Certificates here http://en.wikipedia.org/wiki/SSL_certificate
 
-     !SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, setting various privacy levels for different projects, forum topics, etc. Privacy examples – allow just immediate family members access, all family and friends but no strangers, etc.  It's your website so you have full control over privacy!
+     SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, each with its own password for entry and various privacy levels for projects, forum topics, etc. Privacy examples: allow just parents access, or only immediate family members, or all family and friends but no strangers, etc.  You have full and easy control over privacy!
 1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
 1. Scroll down to Software/Services sections and click on the Softaculous icon.
 1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
@@ -60,7 +60,7 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Leave most everything as is, but change
      1. In Directory textbox info from 'buggenie' to 'pm' for project manager.
 
-     If you plan on hosting several family, friend, etc. collaborative websites, then type in a folder name for each followed by pm = myfamily/pm.  The forward slash = new folder, so myfamily will be a folder containing a family's project manager and forum.
+     If you plan on hosting several family, friend, etc. collaborative websites, then type in a folder name for each followed by pm = myfamily/pm.  The forward slash = new folder, so myfamily will be a folder containing a family's project manager in its pm folder.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon: https://en.gravatar.com
 1. Click the grey 'install' button.
@@ -74,7 +74,7 @@ http://www.umbrahosting.com/ssl-certificates.
      1. Leave the password as 'pass' and change it when you're finished setting up.  
      1. Change the email address to the same one used to install The Bug Genie (TGB).  
 1. Click the grey 'install' button.
-1. If you would like visitors to see a false front while you set up your website
+1. If you would like visitors to see a false front at YOURWEBSITE.COM while you set up your project manager and forum
      1. Scroll up and type 'Word Search' in the top right search box.
      1. Click on Word Search Puzzle.
 
@@ -83,7 +83,7 @@ http://www.umbrahosting.com/ssl-certificates.
      1. Click the grey 'Install' button.
 1. Scroll up and return to the cPanel by clicking  the 'go to control panel' icon on the top menu bar.  It's the blue-postage-stamp-with-a-gear-over-it icon (the first icon reading left-to-right).
 1. In the cPanel Files section click the 'File Manager' icon.
-1. !IMPORTANT! In the popup window that opens click the option to 'Show Hidden Files'.
+1. **IMPORTANT!** In the popup window that opens click the option to 'Show Hidden Files'.
 1. Click the popup window's 'Go' button.
 1. If you added the word-search puzzle game for your website's false front
      1. Click on the 'New File' button in the top menu bar.
@@ -97,36 +97,35 @@ http://www.umbrahosting.com/ssl-certificates.
      1. Click the 'Save Changes' button.
      1. Check out your website's new false front by opening a new browser tab, and typing in your website's url: YOURWEBSITE.COM.
 
-#####B. Template drop-in replacement preparation
+#####B. Configuration files drop-in replacement preparation
 
-1. Download the HGTtemplate.zip from http://sourceforge.net/projects/helpgivethanks/files/HGTtemplate/.
+1. Download the HGTconfiguration.zip from http://sourceforge.net/projects/helpgivethanks/files/HGTconfiguration/.
 
-     NOTE: If you are  using Apple's Safari browser, it will unzip this zip file and trash the zip if you have the 'Open "save" files after downloading' preference checked in Safari's General Preferences. If this happens
+     NOTE: If you are  using Apple's Safari browser, it will unzip this zip file and trash the zip if you have the *'Open "save" files after downloading'* preference checked in Safari's General Preferences. If this happens
      1. Retrive the zip from the trash.
 
-     DO NOT re-compress/zip the HGTtemplate folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these files cluttering your cPanel's File Manager folders.
+     DO NOT re-compress/zip the HGTconfiguration folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these files cluttering your cPanel's File Manager folders.
 1. Click your browser's cPanel File Manager tab.
 1. Click the 'Upload' button in the File Manager's top menu bar.
 1. Click the 'Choose File' button in the window that opens.
-1. Find and click on  the HGTtemplate.zip.
+1. Find and click on  the HGTconfiguration.zip.
 1. Click the 'Choose' button.
 1. When the bottom-right, grey, progress bar says the upload is complete, close the upload window.
-1. Click the 'Reload' button (second menu bar) if you do not see the HGTtemplate.zip.
-1. Click on HGTtemplate.zip to select it.
+1. Click the 'Reload' button (second menu bar) if you do not see the HGTconfiguration.zip.
+1. Click on HGTconfiguration.zip to select it.
 1. Click the 'Extract' button from the top menu bar to unzip it.
 1. Click the grey 'Extract File(s)' button in the popup window that opens, and then the 'close' button.
 1. You can now delete the zip file to reduce clutter in your File Manager.
-1. Now backup The Bug Genie (TGB) you just installed before applying this uploaded template.
+1. Backup The Bug Genie (TGB) folder before applying the HGT file changes.
 1. Select your /pm/ (buggenie) folder by clicking on it.
-1. Create a compressed copy of it by clicking the 'Compress' button and then the 'Compress File(s)' button in the popup window that opens, and then the 'close' button.  
-2. Click on the resulting pm.zip file to select it, and then download it to a safe place on your computer as a backup by clicking the 'Download' button in the top menu bar.  
+1. Create a compressed copy of it by clicking the 'Compress' button and then the 'Compress File(s)' button in the popup window that opens, and then the 'close' button.
 
-#####C. TGB template drop-in replacement
+#####C. TGB configuration files drop-in replacement
 
-1. Click into the .../HGTtemplate/TBGTemplateNitrogen/ folder by first double clicking on the HGTtemplate folder, which reveals the TBGTemplateNitrogen folder, that you then double-click on to open it.
+1. Click into the .../HGTconfiguration/TBGconfigurationNitrogen/ folder by first double clicking on the HGTconfiguration folder, which reveals the TBGnitrogen folder, that you then double-click on to open it.
 1. Click the 'Select all' button from the second menubar (right above the file window, and right below the top menu bar).
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folders /HGTtemplate/TBGTemplateNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager
+1. In the popup window that opens, replace the two folders /HGTconfiguration/TBGconfigurationNitrogen/ with your Bug Genie's one folder name, which, if you followed my recommendation = pm for project manager
 OR = familyfolder/pm.
 
      It should now read something like /public_html/pm OR /public_html/familyfolder/pm.
@@ -305,7 +304,7 @@ Now make the first change to headertop.inc.php file.
 
 Congratulations!  TGB's look and feel configuration is now done. You still need to set up security, permissions, etc., which I will cover in a follow-on tutorial.  Now  apply the nitrogen theme to your Vanilla forum to make it part of your collaboration website.
 
-#####J. Vanilla template drop-in replacement preparation
+#####J. Vanilla configuration files drop-in replacement preparation
 
 1. Click your browser's cPanel File Manager tab.
 1. Click the 'Up One Level' button 4 times, until you are in your website's root folder: public_html.
@@ -316,10 +315,10 @@ Congratulations!  TGB's look and feel configuration is now done. You still need 
 
 #####K. Vanilla Drop-in replacement
 
-1. Click into the HGTtemplate/VanillaThemeNitrogen/ folder.
+1. Click into the HGTconfiguration/VanillaThemeNitrogen/ folder.
 1. Click the 'Select all' button from the  menubar right above the file window and right below the top menu bar.
 1. Click the 'Copy' (not move) button from the top menubar.
-1. In the popup window that opens, replace the two folder names /HGTtemplate/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum OR familyfolder/forum.
+1. In the popup window that opens, replace the two folder names /HGTconfiguration/VanillaThemeNitrogen/ with your Vanilla forum's folder name, which, if you followed my recommendation = forum OR familyfolder/forum.
 
    It should now read something like /public_html/forum OR /public_html/familyfolder/forum.
 1. Click the grey 'Copy File(s)' button.
@@ -462,16 +461,6 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
 Congratualtions!  Your forum's look-and-feel is now identical to your TGB project manager, and navigation between the two should be seamless.  
 
 Your next step is to create some categories for the forum, projects for the project manager, and setup user permissions for both.  This will be covered in part 2 of this 2 part tutorial.
-
-## Open Source
-
-This template is free, open source software.  The Bug Genie Nitrogen Template files are distributed under a Mozilla Public License Version 1.1, and the Vanilla Nitrogen Theme files are distributed under a GNU General Public License version 2 (GPLv2), which are the respective licenses of each of these amazing open source projects.  
-
-To compare CURRENT differences between the nitrogen template remix of TBG files and the original TBG v3.2.7.1 files, please visit https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 (GitHub will say 35 files have been changed as it combines both changed and added files in this count of changed files).  The Description of Nitrogen Template v1 Modifications.html that comes with each download of this template documents the EXACT CHANGES made to the files contained in this download.
-
-To see screenshots and read a detailed explanation about the HGT Template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
-
-To download a copy of this template go here https://sourceforge.net/projects/helpgivethanks/.
 
 ## Legal
 The Help Give Thanks Research Project website configuration tutorials and files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the GNU General Public License for all Vanilla files and plugins.

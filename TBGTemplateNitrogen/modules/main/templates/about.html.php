@@ -15,7 +15,7 @@
 		
 		
 		<br>
-		<b>NOTE: The Nitrogen Template has been applied to this copy of The Bug Genie primarily affecting its look and feel. </b> Scroll down for more info.  
+		<b>NOTE: The Nitrogen Configuration has been applied to this copy of The Bug Genie primarily affecting its look and feel. </b> Scroll down for more info.  
 		<br>	
 		<br>
 		
