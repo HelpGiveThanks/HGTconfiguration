@@ -4,11 +4,11 @@ Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
 I configured the Help Give Thanks Research Project (HGT) website tools at [HelpGiveThanks.org](http://HelpGiveThanks.org) out of my needs to 1) combine the powers of a project manager, wiki, forum, and document creating/editing tools in an easy to navigate, collaborative, online environment; and 2) to freely share this online environment with others, allowing anyone to test the relationship changing, positive effects that result especially from incorporating this collaborative environment into marriage, family, friend, and student-teacher relationships.  
 
-Keep in mind that for all their complexity, the project manager, wiki, forum, and document creating/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to help create collaborative, non-arguementative, social environments.
+Keep in mind that for all their complexity, the project manager, wiki, forum, and document creating/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to help create collaborative, non-argumentative, social environments.
 
 ![alt Argue Or Account. A Remix Cartoon by David Matson, Copyright 2014, CC BY 4.0](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.png)
 
-*Gavin.collins (2010). Summary account of silver for the govenor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
+*Gavin.collins (2010). Summary account of silver for the governor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
 
 *Matson, David (2013), Remix of Man 261 [Arguing Facts] and Remix of Man 227 [Looking and Pointing]. Originals from collection by Nova Development (1997). In Art Explosion: 250,000 images : Macintosh. Calabasas, California: Nova Development. Copyright 1997 by the Publisher.  All rights reserved. Available on 8/14/13 from http://www.worldcat.org/title/art-explosion-250000-images-macintosh/oclc/39893863*
 
@@ -47,11 +47,11 @@ Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f2
 Part 2 will cover creating projects and issue types for the project manager, categories for the forum, and  configuring user permissions for both.
 
 #####A. Create a new unconfigured project manager and forum for your family, friends, organization, etc.
-1. Purchase a website hosting account that meets the following requirements: cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and have always received excellent tech support and customer service: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plans. I recommend the .org designation for non-commercial, organization websites.  You might wqnt to also purchase the .com address, which can be easily redirected to your .org website.
+1. Purchase a website hosting account that meets the following requirements: cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and have always received excellent tech support and customer service: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plans. I recommend the .org designation for non-commercial, organization websites.  You might want to also purchase the .com address, which can be easily redirected to your .org website.
 
   Full Discloser: I am satisfied customer of umbrahosting.com, and have not been paid, given any gifts, or special treatment for recommending them.  I provide my recommendation to give you an idea of total cost, and, perhaps, save you time searching for a reliable hosting company with excellent tech support.
 
-  NOTE: If you want all user interactions with your website encyrpted (not necessary) for $40/year you can purchase an SSL certificate:
+  NOTE: If you want all user interactions with your website encrypted (not necessary) for $40/year you can purchase an SSL certificate:
 http://www.umbrahosting.com/ssl-certificates.
 
      Learn more about SSL Certificates here http://en.wikipedia.org/wiki/SSL_certificate
@@ -106,7 +106,7 @@ http://www.umbrahosting.com/ssl-certificates.
 1. Download the HGTconfiguration.zip from http://sourceforge.net/projects/helpgivethanks/files/HGTconfiguration/.
 
      NOTE: If you are  using Apple's Safari browser, it will unzip this zip file and trash the zip if you have the *'Open "save" files after downloading'* preference checked in Safari's General Preferences. If this happens
-     1. Retrive the zip from the trash.
+     1. Retrieve the zip from the trash.
 
      DO NOT re-compress/zip the HGTconfiguration folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these files cluttering your cPanel's File Manager folders.
 1. Click your browser's cPanel File Manager tab.
@@ -240,7 +240,7 @@ I would recommend something very simple as these icons need to be identifiable w
 
 To open cPanel files like the above – headertop.inc.php – that you now need to open
 1. Go to your browser's File Manager tab.
-1. Go to the folder specified  – .../core/templates/ –  by clicking the 'Up One Level' button as many times as neccessary to get the main folder = ... = pm.
+1. Go to the folder specified  – .../core/templates/ –  by clicking the 'Up One Level' button as many times as necessary to get the main folder = ... = pm.
 1. Then click on each subfolder in turn, which in this case is /core/ and then /templates/.  
 1. Once you've opened the last folder specified, click on the file you need to open to select it –  headertop.inc.php.  
 1. Finally, click the 'Code Editor' button in the top menubar, and then the 'Edit' button in the popup window that opens, to open the file.  
@@ -433,11 +433,11 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
      1. If you don't see this icon, then click the 'Use code editor' (upper right) button.
 2. Next, experiment with icon size and padding (5px 5px 5px 5px = TOP RIGHT BOTTOM LEFT) to match the icon in TGB exactly.  NOTE: If you increase the icon's height, you will need to decrease the bottom padding = 5px 5px **0px** 5px.
 
-     Click the 'Save Changes' button to try each new size change, and don't forget to refresh the view in your Vanilla Forum window to see the changes.  Click the 'Discussions' (upper left) button to get back the main page.
-3. Type in your Forum url, replacing http://YOURSITE.COM/YOURforum.
-4. Type in your GitHub url, replacing http://github.com/YOURorganization
+     Click the 'Save Changes' button to try each new size change out in your browser's Vanilla Forum tab (click the 'Discussions' (upper left) button to get back to the main forum page, if you are not already viewing your changes on this page). Remember to refresh the view in your Vanilla Forum window to see the changes.  
+3. Type in your Forum url to replace this url http://YOURSITE.COM/YOURforum.
+4. Type in your GitHub url to replace this url http://github.com/YOURorganization
 
-     You can also change the GitHub link name to Docs or something else, if you decided to use Google Docs instead of GitHub to collaborate with others on file creation, improvements, etc.  Just make sure that the link name is the same used in your TGB.
+     You can also change the GitHub link name to Docs or something else, if you decided to use Google Docs instead of GitHub to collaborate with others on file creation, improvements, etc.  Just make sure that the link name is the same as the one you used in your TGB.
 1. Save and close this file.
 
 #####Q. Restrict access to just people you want on the forum while you build up a trusted user base.
@@ -445,7 +445,7 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
 1. Click on your browser's Vanilla forum.
 1. Sign back in.
 1. Click the 'dashboard' button (left most button in the second row of buttons).
-1. Go to the left-menu column's Users section, and click its 'Registration' option.
+1. Go to the left-menu column's 'Users' section, and click its 'Registration' option.
 1. Select the 'Invitation' option in the 'Method' column.
 1. Scroll down and under the column 'Role'
      1. Change the Administrator = You from 'None' to 'Unlimited'.
@@ -462,7 +462,7 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
 1. From the right menu column, click the 'Change My Password' button.
 1. Enter your current password = pass.
 1. Now, wherever you keep your passwords, type out a new one including at least two symbols, two numbers, two lower-case, and two upper-case letters in random order = e#T89Gc& (but not, of course, exactly like this example).
-1. Copy and paste the new, strong and saved password into the provided Vanilla-forum fields.
+1. Copy and paste the new, strong and saved password into the provided new-password fields.
 1. Click the 'Change Password' button.
 
 #####S. Optional Final Step
@@ -472,17 +472,17 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
      1. Change the text on line 15 in single quotes after the equal sign = 'Register Invitation'.  
      1. Save and close this file.
 
-Congratualtions!  Your forum's look-and-feel is now identical to your TGB project manager, and navigation between the two should be seamless.  
+Congratulations!  Your forum's look-and-feel is now identical to your TGB project manager, and navigation between the two should be seamless.  
 
-Your next step is to create some categories for the forum, projects for the project manager, and setup user permissions for both.  This will be covered in part 2 of this 2 part tutorial.
+Your next step is to create some categories for the forum, projects and issue types for the project manager, and setup user permissions for both.  This will be covered in part 2 of this 2 part tutorial.
 
-## Legal
-The Help Give Thanks Research Project website configuration tutorials and files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the GNU General Public License for all Vanilla files and plugins.
+## Open Source License and Warranty Information
+The Help Give Thanks Research Project website configuration files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the General Public License for all Vanilla files and plugins.
 These files are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 See the open source licenses for more information.
 
-Mozilla Public License 1.1 http://opensource.org/licenses/mozilla1.1.php
+Mozilla Public License, version 1.1 http://opensource.org/licenses/mozilla1.1.php
 
 
-GNU General Public License, version 2 http://www.gnu.org/licenses/gpl-2.0.html
+General Public License, version 2 http://www.gnu.org/licenses/gpl-2.0.html
