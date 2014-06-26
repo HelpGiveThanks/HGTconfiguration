@@ -12,7 +12,7 @@ Keep in mind that for all their complexity, the project manager, wiki, forum, an
 
 *Matson, David (2013), Remix of Man 261 [Arguing Facts] and Remix of Man 227 [Looking and Pointing]. Originals from collection by Nova Development (1997). In Art Explosion: 250,000 images : Macintosh. Calabasas, California: Nova Development. Copyright 1997 by the Publisher.  All rights reserved. Available on 8/14/13 from http://www.worldcat.org/title/art-explosion-250000-images-macintosh/oclc/39893863*
 
-The primary difference between clay and digital information storage is shareability and collaborative freedom for all with access to computers and the web.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information as depicted in the painting below *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
+The primary difference between clay and digital information storage is shareability and collaborative freedom for all with access to computers and the web.  We no longer have to employ many highly-skilled people, strictly following numerous and complex rules to store, share, review, improve, etc. our important information as depicted in Pieter's painting below *(see [ancient bureaucracy](https://en.wikipedia.org/wiki/Beurocracy#Ancient_BureaucracyHuman) and [human computers](https://en.wikipedia.org/wiki/Human_computers) on Wikipedia.org)*.
 
 ![alt Village Lawyer by Pieter Brueghel the Younger)  ](https://upload.wikimedia.org/wikipedia/commons/a/a3/Pieter_Brueghel_the_Younger_-_Village_Lawyer_-_WGA3633.jpg)
 
@@ -46,10 +46,10 @@ Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f2
 
 Part 2 will cover creating projects and issue types for the project manager, categories for the forum, and  configuring user permissions for both.
 
-#####A. Create a new project manager and forum for your family, friends, organization, etc.
+#####A. Create a new unconfigured project manager and forum for your family, friends, organization, etc.
 1. Purchase a website hosting account that meets the following requirements: cPanel Version	11.42.+, PHP version	5.3.2+, MySQL version	5.1.7+.  I got mine here and have always received excellent tech support and customer service: http://www.umbrahosting.com/linux/shared-hosting $24/year + $10/year domain-name plans   (perfect for a small website).
 
-  Full Discloser: I am satisified customer of umbrahosting.com, and have not been paid, given any gifts, or special treatment for recommending them.  I hope my recommendation will help you save money and time searching for a hosting company, of which there many good ones.
+  Full Discloser: I am satisfied customer of umbrahosting.com, and have not been paid, given any gifts, or special treatment for recommending them.  I provide my recommendation to give you an idea of total cost, and, perhaps, save you time searching for a reliable hosting company with excellent tech support.
 
   NOTE: If you want all user interactions with your website encyrpted (not necessary) for $40/year you can purchase an SSL certificate:
 http://www.umbrahosting.com/ssl-certificates.
@@ -58,21 +58,21 @@ http://www.umbrahosting.com/ssl-certificates.
 
      SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, each with its own password for entry and various privacy levels for projects, forum topics, etc. Privacy examples: allow just parents access, or only immediate family members, or all family and friends but no strangers, etc.  You have full and easy control over privacy!
 1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
-1. Scroll down to Software/Services sections and click on the Softaculous icon.
-1. Enter 'The Bug' in the top right search box, and click on The Bug Genie.
+1. Scroll down to the Software/Services sections and click on the Softaculous icon.
+1. Enter 'The Bug' in the top right search box, and click on 'The Bug Genie' in the search results popup window.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory textbox info from 'buggenie' to 'pm' for project manager.
+     1. The 'In Directory' textbox information from 'buggenie' to 'pm' for project manager.
 
      If you plan on hosting several family, friend, etc. collaborative websites, then type in a folder name for each followed by pm = myfamily/pm.  The forward slash = new folder, so myfamily will be a folder containing a family's project manager in its pm folder.
      1. Leave the password as 'pass' and change it when you're finished setting up (it's just a lot easier).  
      1. Change the email address to an email address associated with a Gravatar icon: https://en.gravatar.com
 1. Click the grey 'install' button.
 1. Next, scroll up and type 'vanilla' in the top right search box.
-1. Click on Vanilla.
+1. Click on 'Vanilla' in the search results popup window.
 1. Click the blue 'install' button.
 1. Leave most everything as is, but change
-     1. In Directory textbox information from 'vanilla' to 'forum'.
+     1. The 'In Directory' textbox informationrmation from 'vanilla' to 'forum'.
 
      If you plan on hosting several family, friend, etc. collaborative websites, then type the family's folder name followed by forum = myfamily/forum.
      1. Leave the password as 'pass' and change it when you're finished setting up.  
