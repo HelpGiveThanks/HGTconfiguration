@@ -25,7 +25,9 @@ To encourage wide spread use of these collaboration tools in everyday interactio
 
 Use the links below to contribute improvements, and compare changes already made to HGT configuration files.
 
-The Bug Genie 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
+The Bug Genie (TGB) 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
+
+To see screenshots and read a detailed explanation of the TGB configuration go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
 
 Vanilla 2.1 HGT configuration
 https://github.com/HelpGiveThanks/vanilla/tree/2.1
