@@ -258,8 +258,8 @@ Now make the first change to the headertop.inc.php file.
     Keep the height amount at or below 30px, as anything greater will shift the breadcrumb text under the icon to the right.
 2. Change this url http://YOURSITE.COM/YOURforum/ to your site's forum-folder url.
 3. Change this url https://github.com/YOURorganization/ to your external
-   1. GitHub account url = $7/month for 5 private repositories (free for unlimited public repositories). So 5 groups – families, friends, etc. – could share the cost of one private GitHub account.
-   1. Google Drive account = free private folders, but fewer, and much less powerful collaboration tools compared with GitHub's offering.
+   1. GitHub account url = $7/month for 5 private repositories (free for unlimited public repositories). So 5 groups – families, friends, etc. – could share the cost of one private GitHub account.  [Learn more.](https://github.com/pricing)
+   1. Google Drive account = free private folders, but fewer, and much less powerful collaboration tools compared with GitHub's offering. [Learn more](http://www.google.com/docs/about/)
    1. Other collaborative document creating, editing, etc. web-tool account.
 1. Click the 'Save Changes' button.
 1. Test both the Forum and GitHub links in your  TGB browser tab (after you refresh your TGB browser window).
