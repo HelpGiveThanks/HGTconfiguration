@@ -123,7 +123,7 @@
 ![alt 10 Can change custom field values for any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/10 Can change custom field values for any issues.png)
 
 1. Can add/remove extra information and link issues (edition, component, release, links and files) to issues
-![alt 11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues.png)
+![alt 11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add:remove extra information and link issues {edition, component, release, links and files} to issues.png)
 
    1. 11a Permissions for 11a thru 11m (except 11i and 11j)
 ![alt 11a - 11m - except i and j ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11a - 11m - except i and j.png)
