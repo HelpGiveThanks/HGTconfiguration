@@ -1,8 +1,8 @@
 
-1. Can search for issues and create saved searches
+1. [DEFAULT] Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
-  1. 1a Can search for issues
+  1. [DEFAULT] 1a Can search for issues
   ![alt 1a Can search for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1a Can search for issues.png)
 
   1. 1b Can create saved searches that are public
