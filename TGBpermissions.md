@@ -77,55 +77,55 @@
       1. Can re-open any issues
 ![alt 8c2 Can re-open any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c2 Can re-open any issues.png)
 
-   1. 8d Can edit issue posted by field
-![alt 8d Can edit issue posted by field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8d Can edit issue posted by field.png)
+   1. 8d Can edit issue posted by
+![alt 8d Can edit issue posted by ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8d Can edit issue posted by.png)
 
-   1. 8e Can edit issue owned by field
-![alt 8e Can edit issue owned by field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8e Can edit issue owned by field.png)
+   1. 8e Can edit issue owned by
+![alt 8e Can edit issue owned by ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8e Can edit issue owned by.png)
 
-   1. 8f Can edit issue assigned_to field
-![alt 8f Can edit issue assigned_to field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8f Can edit issue assigned_to field.png)
+   1. 8f Can edit issue assigned_to
+![alt 8f Can edit issue assigned_to ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8f Can edit issue assigned_to.png)
 
-   1. 8g Can edit issue status field
-![alt 8g Can edit issue status field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8g Can edit issue status field.png)
+   1. 8g Can edit issue status
+![alt 8g Can edit issue status ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8g Can edit issue status.png)
 
-   1. 8h Can edit issue category field
-![alt 8h Can edit issue category field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8h Can edit issue category field.png)
+   1. 8h Can edit issue category
+![alt 8h Can edit issue category ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8h Can edit issue category.png)
 
-   1. 8i Can edit issue priority field
-![alt 8i Can edit issue priority field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8i Can edit issue priority field.png)
+   1. 8i Can edit issue priority
+![alt 8i Can edit issue priority ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8i Can edit issue priority.png)
 
-   1. 8j Can edit issue severity field
-![alt 8j Can edit issue severity field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8j Can edit issue severity field.png)
+   1. 8j Can edit issue severity
+![alt 8j Can edit issue severity ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8j Can edit issue severity.png)
 
-   1. 8k Can edit issue reproducibility field
-![alt 8k Can edit issue reproducability field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8k Can edit issue reproducability field.png)
+   1. 8k Can edit issue reproducibility
+![alt 8k Can edit issue reproducability ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8k Can edit issue reproducability.png)
 
-   1. 8L Can edit issue resolution field
-![alt 8l Can edit issue resolution field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8l Can edit issue resolution field.png)
+   1. 8L Can edit issue resolution
+![alt 8l Can edit issue resolution ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8l Can edit issue resolution.png)
 
    1. 8m Can estimate issues (field)
-![alt 8m Can estimate issues (field) ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues - field.png)
+![alt 8m Can estimate issues (field) ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues -.png)
 
    1. 8n Can spend time working on issues (field)
-![alt 8n Can spend time working on issues - field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8n Can spend time working on issues - field.png)
+![alt 8n Can spend time working on issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8n Can spend time working on issues.png)
 
-   1. 8o Can edit issue percent complete field
-![alt 8o Can edit issue percent complete  field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8o Can edit issue percent complete  field.png)
+   1. 8o Can edit issue percent complete
+![alt 8o Can edit issue percent complete  ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8o Can edit issue percent complete.png)
 
    1. 8p Can set issue milestone
-![alt 8p Can set issue milestone field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8p Can set issue milestone field.png)
+![alt 8p Can set issue milestone ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8p Can set issue milestone.png)
 
-1. Can change custom field values for issues reported by the user
-![alt 9 Can change custom field values for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/9 Can change custom field values for issues reported by the user.png)
+1. Can change custom values for issues reported by the user
+![alt 9 Can change custom values for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/9 Can change custom field values for issues reported by the user.png)
 
 1. Can change custom field values for any issues
 ![alt 10 Can change custom field values for any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/10 Can change custom field values for any issues.png)
 
-1. Can add/remove extra information and link issues - edition, component, release, links and files - to issues
-![alt 11 Can add/remove extra information and link issues - edition, component, release, links and files - to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add:remove extra information and link issues - edition, component, release, links and files - to issues.png)
+1. Can add/remove extra information and link issues (edition, component, release, links and files) to issues
+![alt 11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues.png)
 
-   1. 11a Permissions for i/a thru xiii/m (except ix/i and x/j)
+   1. 11a Permissions for 11a thru 11m (except 11i and 11j)
 ![alt 11a - 11m - except i and j ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11a - 11m - except i and j.png)
    1. 11b see 11i/a
    1. 11c see 11i/a
@@ -191,451 +191,24 @@
 1. Can manage stories, tasks, sprints and backlog on the project planning page
 ![alt 16 Can manage stories, tasks, sprints and backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16 Can manage stories, tasks, sprints and backlog on the project planning page.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. Can add new issues/tasks/stories to the backlog on the project planning page
+![alt 16a Can add new issues/tasks/stories to the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16a Can add new issues/tasks/stories to the backlog on the project planning page.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 16b Can manage the backlog on the project planning page
+![alt 16b Can manage the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16b Can manage the backlog on the project planning page.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 16c Can add milestones/sprints on the project planning page
+![alt 16c Can add milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16c Can add milestones/sprints on the project planning page.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page
+![alt 16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page.png)
 
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can manage project
+![alt 17 Can manage project ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17 Can manage project.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 17a Can manage project releases and components
+![alt 17a Can manage project releases and components ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17a Can manage project releases and components.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 17b Can edit project details and settings
+![alt 17b Can edit project details and settings ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17b Can edit project details and settings.png)
