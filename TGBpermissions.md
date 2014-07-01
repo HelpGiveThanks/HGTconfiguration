@@ -56,13 +56,13 @@
    1. 8a Can edit title and description on any issues
 ![alt 8a Can edit title and description on any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a Can edit title and description on any issues.png)
 
-      1. Can edit any issue title
+      1. 8a1 Can edit any issue title
 ![alt 8a1 Can edit any issue title ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a1 Can edit any issue title.png)
 
-      1. Can edit any issue description
+      1. 8a2 Can edit any issue description
 ![alt 8a2 Can edit any issue description ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a2 Can edit any issue description.png)
 
-      1. Can edit any issue steps to reproduce
+      1. 8a3 Can edit any issue steps to reproduce
 ![alt 8a3 Can edit any issue steps to reproduce ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a3 Can edit any issue steps to reproduce.png)
 
    1. 8b Can delete issues
