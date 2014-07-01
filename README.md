@@ -6,7 +6,7 @@ I configured the Help Give Thanks Research Project (HGT) website tools at [HelpG
 
 Keep in mind that for all their complexity, the project manager, wiki, forum, and document creating/editing tools have the same function — to store and access information — as clay tablets used thousands of years ago to help create collaborative, non-argumentative, social environments.
 
-![alt Argue Or Account. A Remix Cartoon by David Matson, Copyright 2014, CC BY 4.0](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/ArgueOrAccount.png)
+![alt Argue Or Account. A Remix Cartoon by David Matson, Copyright 2014, CC BY 4.0](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ArgueOrAccount.png)
 
 *Gavin.collins (2010). Summary account of silver for the governor written in Sumerian Cuneiform on a clay tablet. (From Shuruppak or Abu Salabikh, Iraq, circa 2,500 BCE. British Museum, London). Wikimedia Commons. Wikimedia Foundation. Copyright Public Domain. Available on 6/24/14 from https://commons.wikimedia.org/wiki/File:Sumerian_account_of_silver_for_the_govenor_(background_removed).png*
 
@@ -482,7 +482,7 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 1. Login to your project manager (TGB).
 1. Click on your name (upright corner), and click on the 'Configure The Bug Genie' option.
 1. Click on the 'Permissions' tile (first row, far right tile).
-1. 
+1.
 
 
 
