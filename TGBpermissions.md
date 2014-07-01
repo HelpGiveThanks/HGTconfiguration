@@ -107,24 +107,20 @@
    1. Can estimate issues (field)
 ![alt 8m Can estimate issues (field) ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues - field.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. Can edit issue percent complete
+![alt 8o Can edit issue percent complete  field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8o Can edit issue percent complete  field.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. Can set issue milestone
+![alt 8p Can set issue milestone field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8p Can set issue milestone field.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can change custom field values for issues reported by the user
+![alt 9 Can change custom field values for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/9 Can change custom field values for issues reported by the user.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can change custom field values for any issues
+![alt 10 Can change custom field values for any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/10 Can change custom field values for any issues.png)
 
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can add/remove extra information and link issues - edition, component, release, links and files - to issues
+![alt 11 Can add/remove extra information and link issues - edition, component, release, links and files - to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add:remove extra information and link issues - edition, component, release, links and files - to issues.png)
 
 1. asdf
 ![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
