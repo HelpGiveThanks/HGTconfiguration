@@ -151,20 +151,17 @@
    1. Can edit own comments
 ![alt 12c Can edit own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12c Can edit own comments.png)
 
-1. Can delete own comments
+   1. Can delete own comments
 ![alt 12d Can delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12d Can delete own comments.png)
 
 1. Can see all comments (including non-public), post new, edit and delete all comments
-![alt 13 Can see all comments -including non-public, post new, edit and delete all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13 Can see all comments [including non-public], post new, edit and delete all comments.png)
+![alt 13 Can see all comments -including non-public, post new, edit and delete all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13 Can see all comments {including non-public}, post new, edit and delete all comments.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. Can see all comments including hidden
+![alt 13a Can see all comments including hidden ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13a Can see all comments including hidden.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
-
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. Can edit all comments
+![alt 13b Can edit all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13b Can edit all comments.png)
 
 
 1. asdf
