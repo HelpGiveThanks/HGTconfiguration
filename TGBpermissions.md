@@ -32,22 +32,22 @@
    1. 7b Can edit title and description on issues reported by the user
 ![alt 7b Can edit title and description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b Can edit title and description on issues reported by the user.png)
 
-      1. Can edit issue title on issues reported by the user
+      1. 7b1 Can edit issue title on issues reported by the user
 ![alt 7b1 Can edit issue title on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b1 Can edit issue title on issues reported by the user.png)
 
-      1. Can edit issue description on issues reported by the user
+      1. 7b2 Can edit issue description on issues reported by the user
 ![alt 7b2 Can edit issue description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b2 Can edit issue description on issues reported by the user.png)
 
-      1. Can edit steps to reproduce on issues reported by the user
+      1. 7b3 Can edit steps to reproduce on issues reported by the user
 ![alt 7b3 Can edit steps to reproduce on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b3 Can edit steps to reproduce on issues reported by the user.png)
 
    1. 7c Can close and reopen issues reported by the user
 ![alt 7c Can close and reopen issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c Can close and reopen issues reported by the user.png)
 
-      1. Can close issues reported by the user
+      1. 7c1 Can close issues reported by the user
 ![alt 7c1 Can close issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c1 Can close issues reported by the user.png)
 
-      1.  Can re-open issues reported by the user
+      1.  7c2 Can re-open issues reported by the user
 ![alt 7c2 Can re-open issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c2 Can re-open issues reported by the user.png)
 
 1. Can delete, close, reopen and update any issue details and progress
@@ -71,10 +71,10 @@
    1. 8c Can close any issues
 ![alt 8c Can close any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c Can close any issues.png)
 
-      1. Can close any issues
+      1. 8c1 Can close any issues
 ![alt 8c1 Can close any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c1 Can close any issues.png)
 
-      1. Can re-open any issues
+      1. 8c2 Can re-open any issues
 ![alt 8c2 Can re-open any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c2 Can re-open any issues.png)
 
    1. 8d Can edit issue posted by
@@ -104,10 +104,10 @@
    1. 8L Can edit issue resolution
 ![alt 8l Can edit issue resolution ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8l Can edit issue resolution.png)
 
-   1. 8m Can estimate issues (field)
-![alt 8m Can estimate issues (field) ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues -.png)
+   1. 8m Can estimate issues
+![alt 8m Can estimate issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues.png)
 
-   1. 8n Can spend time working on issues (field)
+   1. 8n Can spend time working on issues
 ![alt 8n Can spend time working on issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8n Can spend time working on issues.png)
 
    1. 8o Can edit issue percent complete
@@ -191,18 +191,17 @@
 1. Can manage stories, tasks, sprints and backlog on the project planning page
 ![alt 16 Can manage stories, tasks, sprints and backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16 Can manage stories, tasks, sprints and backlog on the project planning page.png)
 
-   1. Can add new issues/tasks/stories to the backlog on the project planning page
-![alt 16a Can add new issues/tasks/stories to the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16a Can add new issues/tasks/stories to the backlog on the project planning page.png)
+   1. 16a Can add new issues/tasks/stories to the backlog on the project planning page
+![alt 16a Can add new issues/tasks/stories to the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16a Can add new issues:tasks:stories to the backlog on the project planning page.png)
 
    1. 16b Can manage the backlog on the project planning page
 ![alt 16b Can manage the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16b Can manage the backlog on the project planning page.png)
 
    1. 16c Can add milestones/sprints on the project planning page
-![alt 16c Can add milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16c Can add milestones/sprints on the project planning page.png)
+![alt 16c Can add milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16c Can add milestones:sprints on the project planning page.png)
 
-   1. 16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page
-![alt 16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16d Can re-assign issues/tasks/stories to milestones/sprints on the project planning page.png)
-
+   1. 16d Can (re-)assign issues/tasks/stories to milestones/sprints on the project planning page
+![alt 16d Can (re-)assign issues/tasks/stories to milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16d Can {re-}assign issues:tasks:stories to milestones:sprints on the project planning page.png)
 
 1. Can manage project
 ![alt 17 Can manage project ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17 Can manage project.png)
