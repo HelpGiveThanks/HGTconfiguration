@@ -63,18 +63,40 @@
 				
 
 <?php //  222222222222222222222222222222222  ?>
+<?php // Customize your site's guest view homepage title and welcome message. ?>	<?php echo 
+
+"Welcome to Your Website Name Here!"    ; ?>    <br> 
+
+	<span  style="font-size: .7em" ><?php echo 
+
+"Feel free to look around.    <br>  
+	
+Website testing and content editing in progress."    ; ?>
+
+	</span> <br> <span  style="font-size: .7em; font-weight:normal" ><?php echo 
+
+"Change this title and message in file    <br> 
 				
-<?php // Customize your site's guest view homepage title and welcome message. ?>						
- 		<?php echo "Welcome to Your Website Name Here!"; ?> <br> <span  style="font-size: .7em" ><?php echo "Feel free to look around.  Website testing and content editing in progress.  <br> Change this title and message in file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.  It's on lines 68 and 76."; ?></span></div><br>
-		<?php else: ?>
+/YOURBugGenieFolder/modules/publish/templates/_header.inc.php.    <br>
+				 
+It is all the text in quotes just below the strings of    <br> 
+
+222222222222222222222222222222222's and 333333333333333333333333333333333's."    ; ?>
+
+
+	</span></div><br><?php else: ?>
 			
 			
 
-<?php //  333333333333333333333333333333333  ?>
-			
-<?php // Customize your site's logged in view homepage title. ?>			
-		<?php echo "Your Website Name Overview"; ?><?php endif; ?>
-<?php endif; ?>
+<?php //  333333333333333333333333333333333  ?>		
+<?php // Customize your site's logged in view homepage title. ?><?php echo 
+
+
+"Your Website Name Overview"    ; ?>
+
+
+	<?php endif; ?>
+	<?php endif; ?>
 <?php // END IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
 
 

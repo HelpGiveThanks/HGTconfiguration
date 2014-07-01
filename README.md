@@ -1,4 +1,4 @@
-### Help Give Thanks Research Project collaborative website-configuration tutorial
+### Help Give Thanks Research Project collaborative website-configuration tutorial  (version 1.1)
 by David Matson, Copyright 2014. [Creative Commons
 Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
@@ -59,7 +59,7 @@ http://www.umbrahosting.com/ssl-certificates.
      Learn more about SSL Certificates here http://en.wikipedia.org/wiki/SSL_certificate
 
      SAVE MONEY! You can host several small family website project-managers and forums on one hosting plan, each with its own password for entry and various privacy levels for projects, forum topics, etc. Privacy examples: allow just parents access, or only immediate family members, or all family and friends but no strangers, etc.  You have full and easy control over privacy!
-1. Log into your cPanel: http://YOURWEBSITE.ORG/cpanel.
+1. After purchasing your website hosting account, log into your cPanel using the link emailed to you by your hosting company: http://YOURWEBSITE.ORG/cpanel.
 1. Scroll down to the Software/Services sections and click on the Softaculous icon.
 1. Enter 'The Bug' in the top right search box, and click on 'The Bug Genie' in the search results popup window.
 1. Click the blue 'install' button.
@@ -278,10 +278,8 @@ Now make the first change to the headertop.inc.php file.
      1. Upload it – Header icon.png – to replace the equally tall-and-wide version of itself.
 
   The Header icon.png is used by TBG on other pages that you are not customizing, and so it is important that its proportions be changed once at the icon-file level, and not in every TGB file in which it appears.
-1. Rewrite your site's guest overview page title and welcome message on line 68 below the 222222's.
-
-     FYI: Line numbers only show up when using the cPanel code editor to edit files, versus the text editor.
-2. Rewrite your site's logged-in overview title on line 76 below the 3333333's.
+1. Rewrite your site's guest overview page title and welcome message below the 222222's.
+2. Rewrite your site's logged-in overview title below the 3333333's.
 1. Click the 'Save Changes' button after each change.
 1. Test the look of your icon and readability of your titles in your TGB browser's overview tab.
 1. Return to the _header.inc.php file tab when everything is right, and click its 'Close' button (upper right corner).
@@ -476,7 +474,17 @@ The Terms of Use link in your Vanilla Forum will point people to a single docume
 
 Congratulations!  Your forum's look-and-feel is now identical to your TGB project manager, and navigation between the two should be seamless.  
 
-Your next step is to create some categories for the forum, projects and issue types for the project manager, and setup user permissions for both.  This will be covered in part 2 of this 2 part tutorial.
+
+### Setting up and configuring an online collaboration toolset part 2: Configuring user permission, creating project manager projects and issue types, and forum categories
+
+#####A. Configure project manager permissions
+
+1. Login to your project manager (TGB).
+1. Click on your name (upright corner), and click on the 'Configure The Bug Genie' option.
+1. Click on the 'Permissions' tile (first row, far right tile).
+1. 
+
+
 
 ## Open Source License and Warranty Information
 The Help Give Thanks Research Project website configuration files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the General Public License for all Vanilla files and plugins.
