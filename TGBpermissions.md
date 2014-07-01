@@ -2,10 +2,10 @@
 1. Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
-  1. Can search for issues
+  1. 1a Can search for issues
   ![alt 1a Can search for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1a Can search for issues.png)
 
-  1. Can create saved searches that are public
+  1. 1b Can create saved searches that are public
   ![alt 1b Can create saved searches that are public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1bCan create saved searches that are public.png)
 
 1. Can edit main menu
@@ -26,10 +26,10 @@
 1. Can create issues, edit basic information on issues reported by the user and close/re-open them
 ![alt 7 Can create issues, edit basic information on issues reported by the user and close:re-open them ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7 Can create issues, edit basic information on issues reported by the user and close:re-open them.png)
 
-   1. Can create new issues
+   1. 7a Can create new issues
 ![alt 7a Can create new issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7a Can create new issues.png)
 
-   1. Can edit title and description on issues reported by the user
+   1. 7b Can edit title and description on issues reported by the user
 ![alt 7b Can edit title and description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b Can edit title and description on issues reported by the user.png)
 
       1. Can edit issue title on issues reported by the user
@@ -41,7 +41,7 @@
       1. Can edit steps to reproduce on issues reported by the user
 ![alt 7b3 Can edit steps to reproduce on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b3 Can edit steps to reproduce on issues reported by the user.png)
 
-   1. Can close and reopen issues reported by the user
+   1. 7c Can close and reopen issues reported by the user
 ![alt 7c Can close and reopen issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c Can close and reopen issues reported by the user.png)
 
       1. Can close issues reported by the user
@@ -53,7 +53,7 @@
 1. Can delete, close, reopen and update any issue details and progress
 ![alt 8 Can delete, close, reopen and update any issue details and progress ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8 Can delete, close, reopen and update any issue details and progress.png)
 
-   1. Can edit title and description on any issues
+   1. 8a Can edit title and description on any issues
 ![alt 8a Can edit title and description on any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a Can edit title and description on any issues.png)
 
       1. Can edit any issue title
@@ -65,10 +65,10 @@
       1. Can edit any issue steps to reproduce
 ![alt 8a3 Can edit any issue steps to reproduce ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a3 Can edit any issue steps to reproduce.png)
 
-   1. Can delete issues
+   1. 8b Can delete issues
 ![alt 8b Can delete issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8b Can delete issues.png)
 
-   1. Can close any issues
+   1. 8c Can close any issues
 ![alt 8c Can close any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c Can close any issues.png)
 
       1. Can close any issues
@@ -77,40 +77,43 @@
       1. Can re-open any issues
 ![alt 8c2 Can re-open any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8c2 Can re-open any issues.png)
 
-   1. Can edit issue posted by field
+   1. 8d Can edit issue posted by field
 ![alt 8d Can edit issue posted by field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8d Can edit issue posted by field.png)
 
-   1. Can edit issue owned by field
+   1. 8e Can edit issue owned by field
 ![alt 8e Can edit issue owned by field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8e Can edit issue owned by field.png)
 
-   1. Can edit issue assigned_to field
+   1. 8f Can edit issue assigned_to field
 ![alt 8f Can edit issue assigned_to field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8f Can edit issue assigned_to field.png)
 
-   1. Can edit issue status field
+   1. 8g Can edit issue status field
 ![alt 8g Can edit issue status field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8g Can edit issue status field.png)
 
-   1. Can edit issue category field
+   1. 8h Can edit issue category field
 ![alt 8h Can edit issue category field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8h Can edit issue category field.png)
 
-   1. Can edit issue priority field
+   1. 8i Can edit issue priority field
 ![alt 8i Can edit issue priority field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8i Can edit issue priority field.png)
 
-   1. Can edit issue severity field
+   1. 8j Can edit issue severity field
 ![alt 8j Can edit issue severity field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8j Can edit issue severity field.png)
 
-   1. Can edit issue reproducability field
+   1. 8k Can edit issue reproducibility field
 ![alt 8k Can edit issue reproducability field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8k Can edit issue reproducability field.png)
 
-   1. Can edit issue resolution field
+   1. 8L Can edit issue resolution field
 ![alt 8l Can edit issue resolution field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8l Can edit issue resolution field.png)
 
-   1. Can estimate issues (field)
+   1. 8m Can estimate issues (field)
 ![alt 8m Can estimate issues (field) ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8m Can estimate issues - field.png)
 
-   1. Can edit issue percent complete
+   1. 8n Can spend time working on issues (field)
+![alt 8n Can spend time working on issues - field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8n Can spend time working on issues - field.png)
+
+   1. 8o Can edit issue percent complete field
 ![alt 8o Can edit issue percent complete  field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8o Can edit issue percent complete  field.png)
 
-   1. Can set issue milestone
+   1. 8p Can set issue milestone
 ![alt 8p Can set issue milestone field ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8p Can set issue milestone field.png)
 
 1. Can change custom field values for issues reported by the user
@@ -122,43 +125,43 @@
 1. Can add/remove extra information and link issues - edition, component, release, links and files - to issues
 ![alt 11 Can add/remove extra information and link issues - edition, component, release, links and files - to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add:remove extra information and link issues - edition, component, release, links and files - to issues.png)
 
-   1. Permissions for i thru xiii (except ix and x)
+   1. 11a Permissions for i/a thru xiii/m (except ix/i and x/j)
 ![alt 11a - 11m - except i and j ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11a - 11m - except i and j.png)
-   1. see 11i
-   1. see 11i
-   1. see 11i
-   1. see 11i
-   1. see 11i
-   1. see 11i
-   1. see 11i
-   1. Can add files to and remove own files from issues reported by the user
+   1. 11b see 11i/a
+   1. 11c see 11i/a
+   1. 11d see 11i/a
+   1. 11e see 11i/a
+   1. 11f see 11i/a
+   1. 11g see 11i/a
+   1. 11h see 11i/a
+   1. 11i Can add files to and remove own files from issues reported by the user
    ![alt 11i Can add files to and remove own files from issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11i Can add files to and remove own files from issues reported by the user.png)
-   1. Can add files to and remove own files from any issues
+   1. 11j Can add files to and remove own files from any issues
    ![alt 11J Can add files to and remove own files from any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11J Can add files to and remove own files from any issues.png)
-   1. see 11i
-   1. see 11i
-   1. see 11i
+   1. 11k see 11i/a
+   1. 11L see 11i/a
+   1. 11m see 11i/a
 
 1. Can see public comments, post new, edit own and delete own comments
 ![alt 12 Can see public comments, post new, edit own and delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12 Can see public comments, post new, edit own and delete own comments.png)
 
-   1. Can see public comments
+   1. 12a Can see public comments
 ![alt 12a Can see public comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12a Can see public comments.png)
 
-   1. Can post comments
+   1. 12b Can post comments
 ![alt 12b Can post comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12b Can post comments.png)
 
-   1. Can edit own comments
+   1. 12c Can edit own comments
 ![alt 12c Can edit own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12c Can edit own comments.png)
 
-   1. Can delete own comments
+   1. 12d Can delete own comments
 ![alt 12d Can delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12d Can delete own comments.png)
 
 1. Can see all comments (including non-public), post new, edit and delete all comments
 ![alt 13 Can see all comments -including non-public, post new, edit and delete all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13 Can see all comments {including non-public}, post new, edit and delete all comments.png)
 
-   1. 13c Can see all comments including hidden
-![alt 13c Can see all comments including hidden ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13a Can see all comments including hidden.png)
+   1. 13a Can see all comments including hidden
+![alt 13a Can see all comments including hidden ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13a Can see all comments including hidden.png)
 
    1. 13b Can edit all comments
 ![alt 13c Can edit all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13b Can edit all comments.png)
@@ -166,27 +169,27 @@
    1. 13c Can delete any comments
 ![alt 13c Can delete any comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13c Can delete any comments.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can see that project exists
+![14 Can see that project exists asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/14 Can see that project exists.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can see complete project hierarchy
+![alt 15 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15 Can see complete project hierarchy.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 15a Can see all editions
+![alt 15a Can see all editions ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15a Can see all editions.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 15b Can see all components
+![alt 15b Can see all components ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15b Can see all components.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+   1. 15c Can see all releases
+![alt 15c Can see all releases ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15c Can see all releases.png)
 
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. 15d Can see all milestones
+![alt 15d Can see all milestones ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15d Can see all milestones.png)
 
-1. asdf
-![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
+1. Can manage stories, tasks, sprints and backlog on the project planning page
+![alt 16 Can manage stories, tasks, sprints and backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16 Can manage stories, tasks, sprints and backlog on the project planning page.png)
 
 1. asdf
 ![alt asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/asd.png)
