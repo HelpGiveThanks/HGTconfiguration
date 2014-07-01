@@ -5,10 +5,10 @@
   1. [DEFAULT] 1a Can search for issues
   ![alt 1a Can search for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1a Can search for issues.png)
 
-  1. 1b Can create saved searches that are public
-  ![alt 1b Can create saved searches that are public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1bCan create saved searches that are public.png)
+  1. [DEFAULT] 1b Can create saved searches that are public
+  ![alt 1b Can create saved searches that are public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1b Can create saved searches that are public.png)
 
-1. Can edit main menu
+1. [DEFAULT] Can edit main menu
   ![alt 2 Can edit main menu ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/2 Can edit main menu.png)
 
 1. Can see issues reported by other users
