@@ -185,7 +185,7 @@
 ![alt 15c Can see all releases ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15c Can see all releases.png)
 
 
-1. 15d Can see all milestones
+   1. 15d Can see all milestones
 ![alt 15d Can see all milestones ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15d Can see all milestones.png)
 
 1. Can manage stories, tasks, sprints and backlog on the project planning page
