@@ -1,4 +1,5 @@
 http://www.thebuggenie.com/features
+Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from newer releases.
 1. [DEFAULT] Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
@@ -23,7 +24,7 @@ http://www.thebuggenie.com/features
 1. [DEFAULT] Can toggle issue access between restricted and public
 ![alt 6 Can toggle issue access between restricted and public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/6 Can toggle issue access between restricted and public.png)
 
-1. [changed] Can create issues, edit basic information on issues reported by the user and close/re-open them
+1. [DEFAULT] Can create issues, edit basic information on issues reported by the user and close/re-open them
 ![alt 7 Can create issues, edit basic information on issues reported by the user and close:re-open them ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7 Can create issues, edit basic information on issues reported by the user and close:re-open them.png)
 
    1. [DEFAULT] 7a Can create new issues
@@ -38,16 +39,16 @@ http://www.thebuggenie.com/features
       1. [DEFAULT] 7b2 Can edit issue description on issues reported by the user
 ![alt 7b2 Can edit issue description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b2 Can edit issue description on issues reported by the user.png)
 
-      1. [changed] 7b3 Can edit steps to reproduce on issues reported by the user
+      1. [DEFAULT] 7b3 Can edit steps to reproduce on issues reported by the user
 ![alt 7b3 Can edit steps to reproduce on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b3 Can edit steps to reproduce on issues reported by the user.png)
 
-   1. [changed] 7c Can close and reopen issues reported by the user
+   1. [DEFAULT] 7c Can close and reopen issues reported by the user
 ![alt 7c Can close and reopen issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c Can close and reopen issues reported by the user.png)
 
-      1. 7c1 Can close issues reported by the user
+      1. [DEFAULT] 7c1 Can close issues reported by the user
 ![alt 7c1 Can close issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c1 Can close issues reported by the user.png)
 
-      1.  7c2 Can re-open issues reported by the user
+      1.  [DEFAULT] 7c2 Can re-open issues reported by the user
 ![alt 7c2 Can re-open issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c2 Can re-open issues reported by the user.png)
 
 1. Can delete, close, reopen and update any issue details and progress
