@@ -20,7 +20,7 @@
 1. [changed] Can vote for issues
 ![alt 5 Can vote for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/5 Can vote for issues.png)
 
-1. [changed] Can toggle issue access between restricted and public
+1. [DEFAULT] Can toggle issue access between restricted and public
 ![alt 6 Can toggle issue access between restricted and public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/6 Can toggle issue access between restricted and public.png)
 
 1. [changed] Can create issues, edit basic information on issues reported by the user and close/re-open them
