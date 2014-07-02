@@ -51,7 +51,7 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
       1.  [DEFAULT] 7c2 Can re-open issues reported by the user
 ![alt 7c2 Can re-open issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c2 Can re-open issues reported by the user.png)
 
-1. Can delete, close, reopen and update any issue details and progress
+1. [DEFAULT] Can delete, close, reopen and update any issue details and progress
 ![alt 8 Can delete, close, reopen and update any issue details and progress ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8 Can delete, close, reopen and update any issue details and progress.png)
 
    1. 8a Can edit title and description on any issues
