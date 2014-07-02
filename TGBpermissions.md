@@ -11,37 +11,37 @@
 1. [DEFAULT] Can edit main menu
   ![alt 2 Can edit main menu ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/2 Can edit main menu.png)
 
-1. Can see issues reported by other users
+1. [DEFAULT] Can see issues reported by other users
 ![alt 3 Can see issues reported by other users ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/3 Can see issues reported by other users.png)
 
-1. Can see issues reported by users in the same group
+1. [DEFAULT] Can see issues reported by users in the same group
 ![alt 4 Can see issues reported by users in the same group ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/4 Can see issues reported by users in the same group.png)
 
-1. Can vote for issues
+1. [changed] Can vote for issues
 ![alt 5 Can vote for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/5 Can vote for issues.png)
 
-1. Can toggle issue access between restricted and public
+1. [changed] Can toggle issue access between restricted and public
 ![alt 6 Can toggle issue access between restricted and public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/6 Can toggle issue access between restricted and public.png)
 
-1. Can create issues, edit basic information on issues reported by the user and close/re-open them
+1. [changed] Can create issues, edit basic information on issues reported by the user and close/re-open them
 ![alt 7 Can create issues, edit basic information on issues reported by the user and close:re-open them ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7 Can create issues, edit basic information on issues reported by the user and close:re-open them.png)
 
-   1. 7a Can create new issues
+   1. [changed] 7a Can create new issues
 ![alt 7a Can create new issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7a Can create new issues.png)
 
-   1. 7b Can edit title and description on issues reported by the user
+   1. [changed] 7b Can edit title and description on issues reported by the user
 ![alt 7b Can edit title and description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b Can edit title and description on issues reported by the user.png)
 
-      1. 7b1 Can edit issue title on issues reported by the user
+      1. [changed] 7b1 Can edit issue title on issues reported by the user
 ![alt 7b1 Can edit issue title on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b1 Can edit issue title on issues reported by the user.png)
 
-      1. 7b2 Can edit issue description on issues reported by the user
+      1. [changed] 7b2 Can edit issue description on issues reported by the user
 ![alt 7b2 Can edit issue description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b2 Can edit issue description on issues reported by the user.png)
 
-      1. 7b3 Can edit steps to reproduce on issues reported by the user
+      1. [changed] 7b3 Can edit steps to reproduce on issues reported by the user
 ![alt 7b3 Can edit steps to reproduce on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b3 Can edit steps to reproduce on issues reported by the user.png)
 
-   1. 7c Can close and reopen issues reported by the user
+   1. [changed] 7c Can close and reopen issues reported by the user
 ![alt 7c Can close and reopen issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c Can close and reopen issues reported by the user.png)
 
       1. 7c1 Can close issues reported by the user
