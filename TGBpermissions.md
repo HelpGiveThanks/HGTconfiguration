@@ -1,4 +1,4 @@
-
+http://www.thebuggenie.com/features
 1. [DEFAULT] Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
@@ -26,16 +26,16 @@
 1. [changed] Can create issues, edit basic information on issues reported by the user and close/re-open them
 ![alt 7 Can create issues, edit basic information on issues reported by the user and close:re-open them ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7 Can create issues, edit basic information on issues reported by the user and close:re-open them.png)
 
-   1. [changed] 7a Can create new issues
+   1. [DEFAULT] 7a Can create new issues
 ![alt 7a Can create new issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7a Can create new issues.png)
 
-   1. [changed] 7b Can edit title and description on issues reported by the user
+   1. [DEFAULT] 7b Can edit title and description on issues reported by the user
 ![alt 7b Can edit title and description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b Can edit title and description on issues reported by the user.png)
 
-      1. [changed] 7b1 Can edit issue title on issues reported by the user
+      1. [DEFAULT] 7b1 Can edit issue title on issues reported by the user
 ![alt 7b1 Can edit issue title on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b1 Can edit issue title on issues reported by the user.png)
 
-      1. [changed] 7b2 Can edit issue description on issues reported by the user
+      1. [DEFAULT] 7b2 Can edit issue description on issues reported by the user
 ![alt 7b2 Can edit issue description on issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7b2 Can edit issue description on issues reported by the user.png)
 
       1. [changed] 7b3 Can edit steps to reproduce on issues reported by the user
