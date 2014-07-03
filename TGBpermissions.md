@@ -144,21 +144,20 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
 1. **[SET]** Can add/remove extra information and link issues (edition, component, release, links and files) to issues
 ![alt 17 Can add/remove extra information and link issues {edition, component, release, links and files} to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17 Can add:remove extra information and link issues {edition, component, release, links and files} to issues.png)
 
-   1. [grey] 17a Permissions for 17a thru 17m (except 17g, 17h, and 17m)
-![alt 17a - 17m - except g, h, and m ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17a - 17m - except g, h, and m.png)
-   1. [grey] 17b see 17i/a
-   1. [grey] 17c see 17i/a
-   1. [grey] 17d see 17i/a
-   1. [grey] 17e see 17i/a
-   1. [grey] 17f see 17i/a
+   1. [grey] 17a Can add releases / versions to list of affected versions for issues reported by the user
+   1. [grey] 17b Can add releases / versions to list of affected versions for any issues
+   1. [grey] 17c Can add components to list of affected components for issues reported by the user
+   1. [grey] 17d Can add components to list of affected components for any issues
+   1. [grey] 17e Can add editions to list of affected editions for issues reported by the user
+   1. [grey] 17f Can add editions to list of affected editions for any issues
    1. **[SET]** 17g Can add links to issues reported by the user
    ![alt 17g Can add links to issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17g Can add links to issues reported by the user.png)
    1. **[SET]** 17h Can add links to any issues
    ![alt 17h Can add links to any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17h Can add links to any issues.png)
-   1. [grey] 17i see 17i/a
-   1. [grey] 17j see 17i/a
-   1. [grey] 17k see 17i/a
-   1. [grey] 17L see 17i/a
+   1. [grey] 17i Can add files to and remove own files from issues reported by the user
+   1. [grey] 17j Can add files to and remove own files from any issues
+   1. [grey] 17k Can remove any attachments from issues reported by the user
+   1. [grey] 17L Can remove any attachments from any issues
    1. **[SET]** 17m Can add related issues to other issues
    ![alt 17m Can add related issues to other issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17m Can add related issues to other issues.png)
 
