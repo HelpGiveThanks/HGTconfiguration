@@ -123,6 +123,24 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
 1. **[SET]** Can change custom field values for any issues
 ![alt 10 Can change custom field values for any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/10 Can change custom field values for any issues.png)
 
+1. **[SET]** Can change issue field "status" for issues reported by the user
+![alt 11 Can change issue field "status" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can change issue field "status" for issues reported by the user.png)
+
+1. **[SET]** Can change issue field "priority" for issues reported by the user
+![alt 12 Can change issue field "priority" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/12 Can change issue field "priority" for issues reported by the user.png)
+
+1. **[SET]** Can change issue field "category" for issues reported by the user
+![alt 13 Can change issue field "category" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/13 Can change issue field "category" for issues reported by the user.png)
+
+1. **[SET]** Can change issue field "severity" for issues reported by the user
+![alt 14 Can change issue field "severity" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/14 Can change issue field "severity" for issues reported by the user.png)
+
+1. **[SET]** Can change issue field "reproducability" for issues reported by the user
+![alt 15 Can change issue field "reproducability" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/15 Can change issue field "reproducability" for issues reported by the user.png)
+
+1. **[SET]** Can change issue field "resolution" for issues reported by the user
+![alt 16 Can change issue field "resolution" for issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/16 Can change issue field "resolution" for issues reported by the user.png)
+
 1. Can add/remove extra information and link issues (edition, component, release, links and files) to issues
 ![alt 11 Can add/remove extra information and link issues {edition, component, release, links and files} to issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/11 Can add:remove extra information and link issues {edition, component, release, links and files} to issues.png)
 
