@@ -51,19 +51,19 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
       1.  [DEFAULT] 7c2 Can re-open issues reported by the user
 ![alt 7c2 Can re-open issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7c2 Can re-open issues reported by the user.png)
 
-1. [DEFAULT] Can delete, close, reopen and update any issue details and progress
+1. [changed] Can delete, close, reopen and update any issue details and progress
 ![alt 8 Can delete, close, reopen and update any issue details and progress ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8 Can delete, close, reopen and update any issue details and progress.png)
 
-   1. 8a Can edit title and description on any issues
+   1. [DEFAULT] 8a Can edit title and description on any issues
 ![alt 8a Can edit title and description on any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a Can edit title and description on any issues.png)
 
-      1. 8a1 Can edit any issue title
+      1. [DEFAULT] 8a1 Can edit any issue title
 ![alt 8a1 Can edit any issue title ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a1 Can edit any issue title.png)
 
-      1. 8a2 Can edit any issue description
+      1. [DEFAULT] 8a2 Can edit any issue description
 ![alt 8a2 Can edit any issue description ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a2 Can edit any issue description.png)
 
-      1. 8a3 Can edit any issue steps to reproduce
+      1. [DEFAULT] 8a3 Can edit any issue steps to reproduce
 ![alt 8a3 Can edit any issue steps to reproduce ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/8a3 Can edit any issue steps to reproduce.png)
 
    1. 8b Can delete issues
