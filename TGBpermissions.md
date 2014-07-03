@@ -1,30 +1,30 @@
 http://www.thebuggenie.com/features
 Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from newer releases.
-1. [DEFAULT] Can search for issues and create saved searches
+1. Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
-  1. [DEFAULT] 1a Can search for issues
+  1. 1a Can search for issues
   ![alt 1a Can search for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1a Can search for issues.png)
 
-  1. [DEFAULT] 1b Can create saved searches that are public
+  1. 1b Can create saved searches that are public
   ![alt 1b Can create saved searches that are public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1b Can create saved searches that are public.png)
 
-1. [DEFAULT] Can edit main menu
+1. Can edit main menu
   ![alt 2 Can edit main menu ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/2 Can edit main menu.png)
 
-1. [DEFAULT] Can see issues reported by other users
+1. Can see issues reported by other users
 ![alt 3 Can see issues reported by other users ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/3 Can see issues reported by other users.png)
 
-1. [DEFAULT] Can see issues reported by users in the same group
+1. Can see issues reported by users in the same group
 ![alt 4 Can see issues reported by users in the same group ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/4 Can see issues reported by users in the same group.png)
 
-1. [changed] Can vote for issues
+1. Can vote for issues
 ![alt 5 Can vote for issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/5 Can vote for issues.png)
 
-1. [DEFAULT] Can toggle issue access between restricted and public
+1. Can toggle issue access between restricted and public
 ![alt 6 Can toggle issue access between restricted and public ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/6 Can toggle issue access between restricted and public.png)
 
-1. [DEFAULT] Can create issues, edit basic information on issues reported by the user and close/re-open them
+1. Can create issues, edit basic information on issues reported by the user and close/re-open them
 ![alt 7 Can create issues, edit basic information on issues reported by the user and close:re-open them ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/7 Can create issues, edit basic information on issues reported by the user and close:re-open them.png)
 
    1. [DEFAULT] 7a Can create new issues
