@@ -229,3 +229,14 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
 
    1. [grey] 23b Can edit project details and settings
 ![alt 23b Can edit project details and settings ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23b Can edit project details and settings.png)
+
+### Project Permissions
+
+**[SET]**  1 Can see that project exists
+![alt project – 1 Can see that project exists ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 1 Can see that project exists.png)
+
+**[SET]**  2 Can see complete project hierarchy
+![alt project – 2 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 2 Can see complete project hierarchy.png)
+
+**[SET]**  5 Can access all project pages
+![alt project – 5 Can access all project pages ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 5 Can access all project pages.png)
