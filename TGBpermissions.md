@@ -154,78 +154,78 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
    ![alt 17g Can add links to issues reported by the user ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17g Can add links to issues reported by the user.png)
    1. **[SET]** 17h Can add links to any issues
    ![alt 17h Can add links to any issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17h Can add links to any issues.png)
-   1. [grey] 17i Can add files to and remove own files from issues reported by the user
-   1. [grey] 17j Can add files to and remove own files from any issues
+   1. [grey] 17i Can add files to and remove own files from issues reported by the user (IMPORTANT — If you want as and admin to upload files, but you do not want users to be able to upload files, then keep this permission X'd!)
+   1. [grey] 17j Can add files to and remove own files from any issues (IMPORTANT — If you want as and admin to upload files, but you do not want users to be able to upload files, then keep this permission X'd!)
    1. [grey] 17k Can remove any attachments from issues reported by the user
    1. [grey] 17L Can remove any attachments from any issues
    1. **[SET]** 17m Can add related issues to other issues
    ![alt 17m Can add related issues to other issues ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/17m Can add related issues to other issues.png)
 
-1. Can see public comments, post new, edit own and delete own comments
+1. **[SET]** Can see public comments, post new, edit own and delete own comments
 ![alt 18 Can see public comments, post new, edit own and delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18 Can see public comments, post new, edit own and delete own comments.png)
 
    1. 18a Can see public comments
 ![alt 18a Can see public comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18a Can see public comments.png)
 
-   1. 18b Can post comments
+   1. [grey] 18b Can post comments
 ![alt 18b Can post comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18b Can post comments.png)
 
-   1. 18c Can edit own comments
+   1. [grey] 18c Can edit own comments
 ![alt 18c Can edit own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18c Can edit own comments.png)
 
-   1. 18d Can delete own comments
+   1. [grey] 18d Can delete own comments
 ![alt 18d Can delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18d Can delete own comments.png)
 
-1. Can see all comments (including non-public), post new, edit and delete all comments
+1. **[SET]** Can see all comments (including non-public), post new, edit and delete all comments
 ![alt 19 Can see all comments -including non-public, post new, edit and delete all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/19 Can see all comments {including non-public}, post new, edit and delete all comments.png)
 
-   1. 19a Can see all comments including hidden
+   1. [grey] 19a Can see all comments including hidden
 ![alt 19a Can see all comments including hidden ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/19a Can see all comments including hidden.png)
 
-   1. 19b Can edit all comments
+   1. [grey] 19b Can edit all comments
 ![alt 19c Can edit all comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/19b Can edit all comments.png)
 
-   1. 19c Can delete any comments
+   1. [grey] 19c Can delete any comments
 ![alt 19c Can delete any comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/19c Can delete any comments.png)
 
-1. Can see that project exists
-![20 Can see that project exists asd ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/20 Can see that project exists.png)
+1. **[SET]** Can see that project exists
+![20 Can see that project exists ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/20 Can see that project exists.png)
 
-1. Can see complete project hierarchy
+1. **[SET]** Can see complete project hierarchy
 ![alt 21 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/21 Can see complete project hierarchy.png)
 
-   1. 21a Can see all editions
+   1. [grey] 21a Can see all editions
 ![alt 21a Can see all editions ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/21a Can see all editions.png)
 
-   1. 21b Can see all components
+   1. [grey] 21b Can see all components
 ![alt 21b Can see all components ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/21b Can see all components.png)
 
-   1. 21c Can see all releases
+   1. [grey] 21c Can see all releases
 ![alt 21c Can see all releases ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/21c Can see all releases.png)
 
-   1. 21d Can see all milestones
+   1. [grey] 21d Can see all milestones
 ![alt 21d Can see all milestones ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/21d Can see all milestones.png)
 
-1. Can manage stories, tasks, sprints and backlog on the project planning page
+1. **[SET]** Can manage stories, tasks, sprints and backlog on the project planning page
 ![alt 22 Can manage stories, tasks, sprints and backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/22 Can manage stories, tasks, sprints and backlog on the project planning page.png)
 
-   1. 22a Can add new issues/tasks/stories to the backlog on the project planning page
+   1. [grey] 22a Can add new issues/tasks/stories to the backlog on the project planning page
 ![alt 22a Can add new issues/tasks/stories to the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/22a Can add new issues:tasks:stories to the backlog on the project planning page.png)
 
-   1. 22b Can manage the backlog on the project planning page
+   1. [grey] 22b Can manage the backlog on the project planning page
 ![alt 22b Can manage the backlog on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/22b Can manage the backlog on the project planning page.png)
 
-   1. 22c Can add milestones/sprints on the project planning page
+   1. [grey] 22c Can add milestones/sprints on the project planning page
 ![alt 22c Can add milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/22c Can add milestones:sprints on the project planning page.png)
 
-   1. 22d Can (re-)assign issues/tasks/stories to milestones/sprints on the project planning page
+   1. [grey] 22d Can (re-)assign issues/tasks/stories to milestones/sprints on the project planning page
 ![alt 22d Can (re-)assign issues/tasks/stories to milestones/sprints on the project planning page ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/22d Can {re-}assign issues:tasks:stories to milestones:sprints on the project planning page.png)
 
-1. Can manage project
+1. **[SET]** Can manage project
 ![alt 23 Can manage project ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23 Can manage project.png)
 
-   1. 23a Can manage project releases and components
+   1. [grey] 23a Can manage project releases and components
 ![alt 23a Can manage project releases and components ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23a Can manage project releases and components.png)
 
-   1. 23b Can edit project details and settings
+   1. [grey] 23b Can edit project details and settings
 ![alt 23b Can edit project details and settings ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23b Can edit project details and settings.png)
