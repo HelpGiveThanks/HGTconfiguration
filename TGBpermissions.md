@@ -241,3 +241,8 @@ NOTE: Older versions of The Bug Genie mainly have default √'s (checks), wherea
 ### Project 2
 
 No set changes from globally set defaults.
+
+## Specific User Permissions
+### Project 1
+
+No set changes for any user from globally set defaults.
