@@ -164,7 +164,7 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
 1. **[SET]** Can see public comments, post new, edit own and delete own comments
 ![alt 18 Can see public comments, post new, edit own and delete own comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18 Can see public comments, post new, edit own and delete own comments.png)
 
-   1. 18a Can see public comments
+   1. **[SET]** 18a Can see public comments
 ![alt 18a Can see public comments ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/18a Can see public comments.png)
 
    1. [grey] 18b Can post comments
