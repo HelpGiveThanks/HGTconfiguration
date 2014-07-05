@@ -2,6 +2,8 @@ See http://www.thebuggenie.com/features to further appreciate features many of t
 
 NOTE: Older versions of The Bug Genie mainly have default √'s (checks), whereas newer releases mainly have x's.
 
+## General Permissions
+
 1. **[SET]** Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
