@@ -1,5 +1,7 @@
-http://www.thebuggenie.com/features
-Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from newer releases.
+See http://www.thebuggenie.com/features to further appreciate features many of these permissions turn on and off.
+
+NOTE: Older versions of The Bug Genie mainly have default √'s (checks) and whereas newer releases mainly have x's.
+
 1. **[SET]** Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
 
@@ -230,10 +232,19 @@ Default for 3.2.7.1.  Older versions default √ (checks) and x's differ from ne
    1. [grey] 23b Can edit project details and settings
 ![alt 23b Can edit project details and settings ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23b Can edit project details and settings.png)
 
-### Project Permissions
+## Project Permissions
+### Project 1
 
 **[SET]**  1 Can see that project exists
 ![alt project – 1 Can see that project exists ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 1 Can see that project exists.png)
+
+**[SET]**  2 Can see complete project hierarchy
+![alt project – 2 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 2 Can see complete project hierarchy.png)
+
+**[SET]**  5 Can access all project pages
+![alt project – 5 Can access all project pages ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 5 Can access all project pages.png)
+
+### Project 2
 
 **[SET]**  2 Can see complete project hierarchy
 ![alt project – 2 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 2 Can see complete project hierarchy.png)
