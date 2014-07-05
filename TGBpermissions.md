@@ -238,16 +238,6 @@ NOTE: Older versions of The Bug Genie mainly have default √'s (checks), wherea
 **[SET]**  1 Can see that project exists
 ![alt project – 1 Can see that project exists ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 1 Can see that project exists.png)
 
-**[SET]**  2 Can see complete project hierarchy
-![alt project – 2 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 2 Can see complete project hierarchy.png)
-
-**[SET]**  5 Can access all project pages
-![alt project – 5 Can access all project pages ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 5 Can access all project pages.png)
-
 ### Project 2
 
-**[SET]**  2 Can see complete project hierarchy
-![alt project – 2 Can see complete project hierarchy ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 2 Can see complete project hierarchy.png)
-
-**[SET]**  5 Can access all project pages
-![alt project – 5 Can access all project pages ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/project – 5 Can access all project pages.png)
+No set changes from globally set defaults.
