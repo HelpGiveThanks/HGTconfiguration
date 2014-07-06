@@ -2,7 +2,8 @@ See http://www.thebuggenie.com/features to further appreciate features many of t
 
 NOTE: Older versions of The Bug Genie mainly have default √'s (checks), whereas newer releases mainly have x's.
 
-## My Bug Genie's General (Global) Permissions
+## All Bug Genie Permissions
+### General (Global) Set and Unset Permissions
 
 1. **[SET]** Can search for issues and create saved searches
 ![alt 1 Can search for issues and create saved searches](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/1%20Can%20search%20for%20issues%20and%20create%20saved%20searches.png)
@@ -234,7 +235,7 @@ NOTE: Older versions of The Bug Genie mainly have default √'s (checks), wherea
    1. [grey] 23b Can edit project details and settings
 ![alt 23b Can edit project details and settings ](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/23b Can edit project details and settings.png)
 
-## Project Permissions
+## Project Set Permissions
 ### Project 1
 
 **[SET]**  1 Can see that project exists
@@ -244,7 +245,7 @@ NOTE: Older versions of The Bug Genie mainly have default √'s (checks), wherea
 
 No set changes from globally set defaults.  Project hidden from Regular Users and Guests.
 
-## Specific User Permissions
+## User Set Permissions
 ### User 1
 
 No set changes for any user from globally set defaults.
