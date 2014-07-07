@@ -1,4 +1,5 @@
-### Help Give Thanks Research Project collaborative website-configuration tutorial  (version 1.1)
+### Help Give Thanks Research Project collaborative website-configuration tutorial  (version 1.1 ALPHA)
+READY FOR TESTING NOT GENERAL USE
 by David Matson, Copyright 2014. [Creative Commons
 Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 

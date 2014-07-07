@@ -1,3 +1,5 @@
+READY FOR TESTING NOT GENERAL USE
+
 See http://www.thebuggenie.com/features to further appreciate features many of these permissions turn on and off.
 
 NOTE: Older versions of The Bug Genie mainly have default √'s (checks), whereas newer releases mainly have x's.
