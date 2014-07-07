@@ -8,7 +8,7 @@
 /*  111111111111111111111111111111111	*/
 
 /* Code in your favorite icon which shows up in browser tabs. */ 
-/*NOTE: You can do a find/replace to deal with all 8 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your Forum and GitHub urls to be added in below. */
+/*NOTE: You can do a find/replace to deal with all 9 instances of "YOURSITE.COM/YOURTBGfolder".  This will leave just your Forum and GitHub urls to be added in below. */
 rel="icon" type="image/png" 
 
 
@@ -100,15 +100,15 @@ rel="icon" type="image/png"
   /* Code in your website url and TBG folder name for privacy, terms of use, and about TGB pages.*/
 
     
-      href="http://helpfreeintelligence.org/pm/thebuggenie/wiki/Privacy" target="_blank">
+      href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/Privacy" target="_blank">
       Privacy </a>|<a style="color:#00A400;" 
     
     
-      href="http://helpfreeintelligence.org/pm/thebuggenie/wiki/TermsOfUse" target="_blank">
+      href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/TermsOfUse" target="_blank">
       Terms of Use </a>| Project Manager <a style="color:#00A400;" 
     
     
-      href="http://helpfreeintelligence.org/pm/thebuggenie/about" target="_blank">
+      href="http://YOURSITE.COM/YOURTBGfolder/thebuggenie/about" target="_blank">
       The Bug Genie</a>|
     
     
