@@ -10,7 +10,7 @@ NOTE: This plugin's 2012 registration view files' code has been replaced with th
 
 Kind permission to 'Oh, do whatever you want with it,' was given by the author here: http://vanillaforums.org/discussion/comment/208800#Comment_208800.  This remix is provided to you under a GNU GPL2 license as promised further down in the same VanillaForums.org discussion.  
 
-Use the following links to contribute improvements, and compare CURRENT changes made to the FirstLastNames Vanilla plugin HGT configuration https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaNitrogen/plugins/CAUTION/FirstLastNames Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f23cfb253e546866562d52e2f38f.  A zip file is included with the remix files showing differences between this version and the original.
+Use the following links to contribute improvements, and compare CURRENT changes made to the FirstLastNames Vanilla plugin HGT configuration https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaNitrogen/plugins/CAUTION/FirstLastNames Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/faf18cc60007c912a048a4d636623b43783aa02d.  A zip file is included with the remix files showing differences between this version and the original.
 
 To upgrade this plugin remix you will need to download the latest original (unremixed) version of the plugin http://vanillaforums.org/addon/870/firstlastnames, and modify it with the code changes found at the GitHub link above, or hire someone to do it for you. You can check at the Help Give Thanks SourceForge folder to see if there is an upgrade available, but no promises: http://sourceforge.net/projects/helpgivethanks/files/",
    'Version' => '1.3.2 Registration View Update Remix',

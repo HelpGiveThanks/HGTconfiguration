@@ -41,7 +41,7 @@ Compare Q&A and LastEdited https://github.com/HelpGiveThanks/addons/compare/vani
 
 FirstLastNames Vanilla plugin HGT configuration
 https://github.com/HelpGiveThanks/HGTconfiguration/tree/master/VanillaNitrogen/plugins/CAUTION/FirstLastNames
-Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/2c29e05638a8f23cfb253e546866562d52e2f38f
+Compare https://github.com/HelpGiveThanks/HGTconfiguration/commit/faf18cc60007c912a048a4d636623b43783aa02d
 
 
 ### Setting up and configuring an online collaboration toolset part 1: From basic setup to customizing website look-and-feel
