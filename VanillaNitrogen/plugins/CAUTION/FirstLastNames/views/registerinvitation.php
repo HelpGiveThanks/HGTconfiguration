@@ -8,7 +8,7 @@
 <?php //  111111111111111111111111111111111  ?>	
 
    <?php // Change terms url to your TGB wiki page's url.
-   $TermsOfServiceUrl = 'http://helpgivethanks.org/apps/thebuggenie/wiki/TermsOfUse';
+   $TermsOfServiceUrl = 'http://YOURSITE.COM/YOURTBGfolder/thebuggenie/wiki/TermsOfUse';
    $TermsOfServiceText = sprintf(T('I agree to the <a id="TermsOfService" target="terms" href="%s">terms of use</a>'), Url($TermsOfServiceUrl));
    
    

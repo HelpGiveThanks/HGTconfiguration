@@ -23,7 +23,7 @@ Thanks to these digital tools, anyone including children can now (for the first 
 ### Where to contribute changes to help improve this tutorial and HGT configuration files
 To encourage wide spread use of these collaboration tools in everyday interactions with family and friends, I have spent a lot of time editing and troubleshooting these instructions to insure that every setup and configuration step is spelled out completely. Of course editing my own work is never fool proof, so please help improve this file at https://github.com/HelpGiveThanks/HGTconfiguration/README.md
 
-Use the links below to contribute improvements, and compare changes already made to HGT configuration files.
+Use the links below to contribute improvements, and compare current changes to HGT configuration files.  
 
 The Bug Genie (TGB) 3.2.7.1 HGT configuration https://github.com/HelpGiveThanks/thebuggenie/tree/nitrogen Compare https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1
 
