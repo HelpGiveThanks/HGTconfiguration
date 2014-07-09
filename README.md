@@ -113,9 +113,9 @@ http://www.umbrahosting.com/ssl-certificates.
      DO NOT re-compress/zip the HGTconfiguration folder,  as the Mac will have added a bunch of files to help it find stuff in this folder, and you do not want these files cluttering your cPanel's File Manager folders.
 1. Click your browser's cPanel File Manager tab.
 1. Click the 'Upload' button in the File Manager's top menubar.
-1. Click the 'Choose File' button in the window that opens.
-1. Find and click on  the HGTconfiguration.zip.
-1. Click the 'Choose' button.
+1. In the File  Upload window that opens next, Click the 'Browse' button.
+1. Find and click on the HGTconfiguration.zip that you just downloaded.
+1. Click the 'Open' button.
 1. When the bottom-right, grey, progress bar says the upload is complete, close the upload window.
 1. Click the 'Reload' button (second menubar) if you do not see the HGTconfiguration.zip.
 1. Click on HGTconfiguration.zip to select it.
@@ -278,7 +278,9 @@ Now make the first change to the headertop.inc.php file.
      1. Upload it – Header icon.png – to replace the equally tall-and-wide version of itself.
 
   The Header icon.png is used by TBG on other pages that you are not customizing, and so it is important that its proportions be changed once at the icon-file level, and not in every TGB file in which it appears.
-1. Rewrite your site's guest overview page title and welcome message below the 222222's.
+1. Rewrite your site's guest overview page title and welcome message below the 222222's.  
+
+   Note: If you're upgrading and already wrote this, then go to your pmOLD folder and open this file to copy out your text and paste it here.
 2. Rewrite your site's logged-in overview title below the 3333333's.
 1. Click the 'Save Changes' button after each change.
 1. Test the look of your icon and readability of your titles in your TGB browser's overview tab.
