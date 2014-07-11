@@ -487,6 +487,10 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 1.
 
 
+http://issues.thebuggenie.com/wiki/WorkflowSteps
+http://issues.thebuggenie.com/wiki/WorkflowTransition
+
+
 
 ## Open Source License and Warranty Information
 The Help Give Thanks Research Project website configuration files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the General Public License for all Vanilla files and plugins.
