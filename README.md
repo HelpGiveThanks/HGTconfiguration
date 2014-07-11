@@ -491,6 +491,8 @@ http://issues.thebuggenie.com/wiki/WorkflowSteps
 http://issues.thebuggenie.com/wiki/WorkflowTransition
 
 
+![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+
 
 ## Open Source License and Warranty Information
 The Help Give Thanks Research Project website configuration files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the General Public License for all Vanilla files and plugins.
