@@ -142,18 +142,15 @@ OR = familyfolder/pm.
 
 These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites = other families', friends', etc. Bug Genies.  You can find lots of free images to use and modify for this purpose.
 
-HERE http://commons.wikimedia.org/wiki/Category:Initials
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png" width="115" height="100" style="float: left; padding:0px 15px 0 0;" alt="picture icon" />
+
+HERE http://commons.wikimedia.org/wiki/Category:Initials https://openclipart.org
 
 Example: Cuculcan's 2008 InicialM. Copyright CC BY-SA 3.0  http://commons.wikimedia.org/wiki/File:InicialM.svg
 
-![alt letter icon](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png)
-
-AND ALSO HERE
-https://openclipart.org
+AND ALSO HERE https://openclipart.org <img src="https://openclipart.org/people/ruthirsty/green_bird.svg" style="float: right; padding:0px" alt="picture icon" />
 
 Example: ruthirsty's 2014 Green googly-eye bird. Public Domain (not copyrighted, free to use, etc.) https://openclipart.org/detail/190894/green-bird-by-ruthirsty-190894
-
-![alt picture icon](https://openclipart.org/people/ruthirsty/green_bird.svg)
 
 Think of these images as icons, not logos.  They do not have to be unique, just distinctive from the icons of other websites that your users frequent.
 
