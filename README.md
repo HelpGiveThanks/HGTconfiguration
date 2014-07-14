@@ -142,7 +142,7 @@ OR = familyfolder/pm.
 
 These next steps depend up on your selection of a custom icon to help distinguish your website from other identical looking Bug Genie websites = other families', friends', etc. Bug Genies.  You can find lots of free images to use and modify for this purpose.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png" width="115" height="100" style="float: left; padding:0px 15px 0 0;" alt="picture icon" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/InicialM.svg/200px-InicialM.svg.png" width="115" height="100" style="align="Left" width:50px; margin:0; margin-right:10px;" alt="picture icon" />
 
 HERE http://commons.wikimedia.org/wiki/Category:Initials https://openclipart.org
 
