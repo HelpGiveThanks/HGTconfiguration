@@ -201,13 +201,14 @@ I would recommend something very simple as these icons need to be identifiable w
      1. Click on the tab for your Bug Genie, and refresh the page.
 
      This may solve the problem. If it does not, contact your hosting company's tech support people.
-1. Select the 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).
+1. Select the 'Uploads & attachments' tile (second row number one in the configuration screenshot below).
 
-![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
- 
+   ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+   I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
+
 1. Click 'Yes' for 'Enable uploads', which is the first option.
 1. Click the 'save' button (bottom right).
-1. Select 'Settings' (2nd option from the left menu column).
+1. Select 'Settings' (first row number one in the configuration screenshot above).
 1. Type in your Bug Genie's custom name (the name of your website, family, organization, etc.).
 1. Scroll down (if necessary) and click the 'save' button (bottom right).  
 1. Scroll up  (if necessary) and select the 'Appearance' tab.  
@@ -222,7 +223,7 @@ I would recommend something very simple as these icons need to be identifiable w
 1. Select the 'Users & security' tab.
 1. Scroll down to 'New user accounts' and click on 'Users can register new accounts' and change it to 'All new user accounts will be created by an admin'.  This will keep strangers from setting up accounts on your website until you are ready, if ever, to allow strangers to create accounts.
 1. Click the 'Save' button (bottom right).
-1. Select 'Email communication' (left menu column, 2nd item from the bottom).
+1. Select 'Email communication' (fourth row number three in the configuration screenshot above).
 
      The main reason to set this up now is to insure that if you forget your password TBG will be able to send you a new one via its forgot password button, which is only enabled if you configure this email module.
 1. Change the 'Enable outgoing email notifications' option from 'No' to 'Yes'.
@@ -492,8 +493,8 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 http://issues.thebuggenie.com/wiki/WorkflowSteps
 http://issues.thebuggenie.com/wiki/WorkflowTransition
 
-
-![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+   ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+   I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
 
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ColorLuminosity%20Sort%20Order.png)
 
