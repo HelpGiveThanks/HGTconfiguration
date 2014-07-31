@@ -495,6 +495,17 @@ http://issues.thebuggenie.com/wiki/WorkflowTransition
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ColorLuminosity%20Sort%20Order.png)
 
 
+
+http://issues.thebuggenie.com/thebuggenie/issues/2234
+
+Bug report #2234  -  GitHub Code checkins fails to show changes if project has a prefix
+
+Enhancement #2278  -  Allow more than one GitHub/VCS link per project
+
+http://issues.thebuggenie.com/thebuggenie/issues/2278
+
+
+
 ## Open Source License and Warranty Information
 The Help Give Thanks Research Project website configuration files are free for you to redistribute and modify under the terms of the Mozilla Public License for The Bug Genie files, and the General Public License for all Vanilla files and plugins.
 These files are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY;
