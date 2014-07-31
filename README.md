@@ -201,7 +201,10 @@ I would recommend something very simple as these icons need to be identifiable w
      1. Click on the tab for your Bug Genie, and refresh the page.
 
      This may solve the problem. If it does not, contact your hosting company's tech support people.
-1. Select the 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).  
+1. Select the 'Uploads & attachments' tile (second row, far right tile on the 'Configure The Bug Genie' page).
+
+![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+ 
 1. Click 'Yes' for 'Enable uploads', which is the first option.
 1. Click the 'save' button (bottom right).
 1. Select 'Settings' (2nd option from the left menu column).
