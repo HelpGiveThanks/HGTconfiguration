@@ -203,7 +203,7 @@ I would recommend something very simple as these icons need to be identifiable w
      This may solve the problem. If it does not, contact your hosting company's tech support people.
 1. Select the 'Uploads & attachments' tile (second row number one in the configuration screenshot below).
 
-   ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBGConfigurationOrder.png)
    I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
 
 1. Click 'Yes' for 'Enable uploads', which is the first option.
@@ -493,10 +493,10 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 http://issues.thebuggenie.com/wiki/WorkflowSteps
 http://issues.thebuggenie.com/wiki/WorkflowTransition
 
-   ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBG%20Configuration%20Order.png)
+   ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBGConfigurationOrder.png)
    I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
 
-![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ColorLuminosity%20Sort%20Order.png)
+![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ColorLuminositySortOrder.png)
 
 
 
