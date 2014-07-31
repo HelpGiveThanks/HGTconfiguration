@@ -496,7 +496,7 @@ http://issues.thebuggenie.com/wiki/WorkflowTransition
    ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBGConfigurationOrder.png)
    I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
 
-![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/ColorLuminositySortOrder.png)
+![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/LuminosityOrderedStatusTiles.png)
 
 
 
