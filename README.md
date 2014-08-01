@@ -201,14 +201,14 @@ I would recommend something very simple as these icons need to be identifiable w
      1. Click on the tab for your Bug Genie, and refresh the page.
 
      This may solve the problem. If it does not, contact your hosting company's tech support people.
-1. Select the 'Uploads & attachments' tile (second row number one in the configuration screenshot below).
+1. Select the 'Uploads & attachments' tile (second row, number one in the configuration screenshot below).
 
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBGConfigurationOrder.png)
    I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
 
 1. Click 'Yes' for 'Enable uploads', which is the first option.
 1. Click the 'save' button (bottom right).
-1. Select 'Settings' (first row number one in the configuration screenshot above).
+1. Select 'Settings' (first row, number two in the configuration screenshot above).
 1. Type in your Bug Genie's custom name (the name of your website, family, organization, etc.).
 1. Scroll down (if necessary) and click the 'save' button (bottom right).  
 1. Scroll up  (if necessary) and select the 'Appearance' tab.  
@@ -494,7 +494,7 @@ http://issues.thebuggenie.com/wiki/WorkflowSteps
 http://issues.thebuggenie.com/wiki/WorkflowTransition
 
    ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/TBGConfigurationOrder.png)
-   I assigned numbers to help identify the configuration order I am following in this tutorial, and colors to show configuration items that depend on each other. I am covering 1-3 now, and then in part two of this tutorial I'll cover 4-10.
+   Numbers identify the configuration order I am following in this tutorial, and colors show configuration items that depend on each other. I covered 1-3 in part one of this tutorial, and will focus on 4-10.
 
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/LuminosityOrderedStatusTiles.png)
 
