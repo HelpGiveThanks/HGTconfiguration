@@ -4,6 +4,8 @@ See http://www.thebuggenie.com/features to further appreciate features many of t
 
 NOTE: Older versions of The Bug Genie mainly have grey √'s (checks), whereas newer releases mainly have x's.
 
+Fork yourself a copy of this file and its pictures and keep it updated with any changes in your permissions.
+
 # All Bug Genie Permissions
 ## General (Global) Set and Unset Permissions
 
