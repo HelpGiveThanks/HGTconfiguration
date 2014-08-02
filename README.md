@@ -482,13 +482,21 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 
 ### Setting up and configuring an online collaboration toolset part 2: Configuring user permission, creating project manager projects and issue types, and forum categories
 
-#####A. Configure project manager permissions
+#####A. Create project folders (silos, containers, boxes, etc.)
+
+
+#####B. Configure TBG website permissions
 
 1. Login to your project manager (TGB).
 1. Click on your name (upright corner), and click on the 'Configure The Bug Genie' option.
-1. Click on the 'Permissions' tile (first row, far right tile).
+1. Click on the 'Permissions' tile (first row, number 4).
 1.
 
+#####C. Create types of documents that can be put into project folders
+
+These are forms for people to fill out that help sort
+
+#####C. Create custom information flags to add to put on the forms
 
 http://issues.thebuggenie.com/wiki/WorkflowSteps
 http://issues.thebuggenie.com/wiki/WorkflowTransition
