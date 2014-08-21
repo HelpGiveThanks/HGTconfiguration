@@ -522,7 +522,7 @@ http://issues.thebuggenie.com/wiki/WorkflowTransition
 
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/LuminosityOrderedStatusTiles.png)
 
-![alt TBG accepting and document for filing](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/BGFilingIn1719.jpg)
+![alt Project manager accepting a document for filing in 1719](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/PMin1719.jpg)
 
 http://issues.thebuggenie.com/thebuggenie/issues/2234
 
