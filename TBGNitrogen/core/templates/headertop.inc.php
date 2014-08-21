@@ -102,7 +102,7 @@
 				<?php if (TBGContext::isProjectContext() && $tbg_user->canSearchForIssues()): ?>
 					<li<?php if (in_array($tbg_response->getPage(), array('project_issues', 'viewissue'))): ?> class="selected"<?php endif; ?>>
 						<div>
-							<?php echo link_tag(make_url('project_issues', array('project_key' => TBGContext::getCurrentProject()->getKey())), __('Issues')); ?>
+							<?php echo link_tag(make_url('project_issues', array('project_key' => TBGContext::getCurrentProject()->getKey())), __('Records')); ?>
 							<?php if (TBGContext::isProjectContext()): ?>
 								
 							<?php endif; ?>

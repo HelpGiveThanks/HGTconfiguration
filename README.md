@@ -482,9 +482,16 @@ Congratulations!  Your forum's look-and-feel is now identical to your TGB projec
 
 ### Setting up and configuring an online collaboration toolset part 2: Configuring user permission, creating project manager projects and issue types, and forum categories
 
-First we'll deal with The Bug Genie and then Vanilla.  Configuration is really writing the job description for these powerful but dumb software employees. Unlike, human beings who used to insure that documents, forums, etc. where properly filled out and filed, the Bug Genie is ...  
+I'll deal first with configuring The Bug Genie (TGB) and then Vanilla.  
+
+Configuration is really writing a job description for an employee, which in the case of TGB is a file clerk job description.
 
 ![alt TBG accepting and document for filing](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/BGtoYou.jpg)
+
+Unlike, a human file clerk who can figure out the best way to help you create documents, fill out forms, keep track of them, etc., TGB is dumb.  It cannot figure out anything on its own, and will always do exactly what you tell it (configure it) to do.  Then benefit, of course, of TGB over a human file clerk is that we TGB works for free, 24/7, 365 days a year.  
+Why should you care about having your own file clerck?  Well, like all human beings, you cannot remember your ideas, track them, and share them very well with others if don't write them down and file them somewhere everyone agrees to put similar types of files for tracking and review.  TGB is specifically designed to help groups of people share project ideas.  
+
+![alt TBG accepting and document for filing](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/JustYouNoBG.jpg)
 
 
 #####A. Create project folders (silos, containers, boxes, etc.)
@@ -515,7 +522,7 @@ http://issues.thebuggenie.com/wiki/WorkflowTransition
 
 ![alt TBG configuration order screenshot](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/LuminosityOrderedStatusTiles.png)
 
-
+![alt TBG accepting and document for filing](https://raw.githubusercontent.com/HelpGiveThanks/HGTconfiguration/master/images/BGFilingIn1719.jpg)
 
 http://issues.thebuggenie.com/thebuggenie/issues/2234
 
