@@ -1,5 +1,5 @@
 /* General styles */
-body, td, th { padding: 0px; margin: 0px; font-family: 'Open Sans', sans-serif; font-style: normal; font-weight: normal; text-align: left; font-size: 13px; line-height: 1.43; color: #555;}
+body, td, th { padding: 0px; margin: 0px; font-family: 'Open Sans', sans-serif; font-style: normal; font-weight: normal; text-align: left; font-size: 15px; line-height: 1.2; color: #555;}
 html, body { padding: 0px; margin: 0px; height: 100%; }
 body { background-color: #FFF; }
 
@@ -674,13 +674,13 @@ footer img { margin: 4px 3px -6px 0; }
 .imgtd { width: 22px; text-align: center; vertical-align: middle; }
 
 /* frontpage article layout styling */
-.article { font-size: 1em; color: #666; width: auto; padding: 5px; position: relative; }
+.article { font-family: "TimesNewRomanPSMT","Times New Roman",serif; font-size: 1.2em; color: #444; width: auto; padding: 5px; position: relative; }
 .main_area.article { padding: 5px 5px 5px 15px; }
-.main_area.frontpage .article { padding-top: 0; }
+.main_area.frontpage .article { padding: 0px 100px 30px; clear: both; }
 .main_area.frontpage .article h1, .main_area.frontpage .article h2, .main_area.frontpage .article h3, .main_area.frontpage .article h4, .main_area.frontpage .article h5, .main_area.frontpage .article h6 {
     margin: 0 0 5px 0;
     padding: 5px 0;
-    color: #888;
+    color: #666;
     border-bottom: none;
     font-weight: normal;
 }
@@ -1553,7 +1553,7 @@ ul.project_list > li { margin: 0px; font-size: 1.0em; font-weight: bold; padding
 .client_dashboard, .project_overview { clear: both; }
 .client_dashboard .header, .project_overview .header { padding: 5px 5px 5px 2px; margin-bottom: 8px; border-bottom: 1px dotted #DDD; font-size: 1.1em; text-transform: uppercase; font-weight: normal }
 .client_dashboard { padding: 10px; }
-.team_dashboard, .project_overview { clear: both; }
+.team_dashboard, .project_overview { padding: 0px 100px; sclear: both; }
 .project_overview .button-group { float: right; }
 .project_overview .button-group .button { font-weight: normal; }
 .project_overview .button-group .button.lefthugging, .project_overview .button-group .button.lefthugging:hover { padding-left: 7px !important; font-size: 0.8em !important; }
@@ -11304,7 +11304,7 @@ div[id^='wiki_'][id$='_no_links']
 
 .article .content
 {
-    line-height: 1.65;
+    line-height: inherit;
 }
 
 .wiki-find-articles-button

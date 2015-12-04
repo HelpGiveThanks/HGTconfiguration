@@ -7,7 +7,7 @@
 .article_list.special_pages a { font-size: 1.1em; }
 .article_list.special_pages img { margin-top: 1px; }
 
-.toc .publish_toc_1 { margin: 10px 0 3px 2px; font-size: 1.2em; font-weight: bold; }
+.toc .publish_toc_1 { margin: 10px 0 3px 2px; font-size: 1.2em; }
 .toc .publish_toc_2 { margin: 0 0 3px 7px; font-size: 1.1em; }
 .toc .publish_toc_3 { margin: 0 0 3px 13px; font-size: 1.05em; }
 .toc .publish_toc_4 { margin: 0 0 3px 20px; font-size: 1em; }
@@ -39,15 +39,15 @@
 .article h1:hover a, .article h2:hover a, .article h3:hover a, .article h4:hover a, .article h5:hover a, .article h6:hover a {
     opacity: 1;
 }
-.article h2 { font-size: 1.5em; }
+.article h2 { font-size: 1.4em; font-family: "Open Sans",sans-serif}
 .article h2:target { color: #77B; background-color: #F6F6F6; }
-.article h3 { font-size: 1.4em; }
+.article h3 { font-size: 1.3em; font-family: "Open Sans",sans-serif;}
 .article h3:target { color: #77B; background-color: #F6F6F6; }
-.article h4 { font-size: 1.25em; }
+.article h4 { font-size: 1.25em; font-family: "Open Sans",sans-serif;}
 .article h4:target { color: #77B; background-color: #F6F6F6; }
-.article h5 { font-size: 1.15em; }
+.article h5 { font-size: 1.15em; font-family: "Open Sans",sans-serif;}
 .article h5:target { color: #77B; background-color: #F6F6F6; }
-.article h6 { font-size: 1.05em; }
+.article h6 { font-size: 1.05em; font-family: "Open Sans",sans-serif;}
 .article h6:target { color: #77B; background-color: #F6F6F6; }
 .article .no_articles { color: #AAA; margin: 10px 0; }
 
