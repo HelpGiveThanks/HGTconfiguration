@@ -1,4 +1,4 @@
-<?php 
+<?php
 
     $tbg_response->setTitle(__('Frontpage'));
     $tbg_response->addBreadcrumb(__('Frontpage'), make_url('home'));
@@ -13,10 +13,10 @@
 <?php endif; ?>
 <table style="margin-top: 0px; table-layout: fixed; width: 100%;" cellpadding=0 cellspacing=0>
     <tr>
-        <td class="side_bar">
+<?php /*        <td class="side_bar">
             <?php include_component('main/menulinks', array('links' => $links, 'target_type' => 'main_menu', 'target_id' => 0, 'title' => __('Quick links'))); ?>
             <?php \thebuggenie\core\framework\Event::createNew('core', 'index_left')->trigger(); ?>
-        </td>
+        </td> */?>
         <td class="main_area frontpage">
             <?php \thebuggenie\core\framework\Event::createNew('core', 'index_right_top')->trigger(); ?>
             <?php if ($show_project_list): ?>
