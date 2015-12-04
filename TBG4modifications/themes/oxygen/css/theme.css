@@ -895,12 +895,11 @@ div.dropdown_separator { border-left: 1px dotted #EAEAF5; padding: 0 0 0 4px; ma
 .header_menu { background-color: transparent; width: auto; height: 35px; color: #FFF; border-bottom: none; }
 .header_menu .selected, .header_menu li.selected:hover { background-color: #ECF0F4; }
 .header_menu ul { height: 100%; bottom: 0px; }
-.header_menu li { font-weight: 500; font-size: 1.1em; }
-.header_menu li div { color: #ECF0F4; padding-top: 6px; }
+.header_menu li { font-weight: 500; font-size: 1.01em; }
+.header_menu li div { color: #FFFFFF; padding-top: 6px; }
 .header_menu li.selected div { color: #333; }
 .header_menu li.selected {
     background: #ECF0F4;
-    text-shadow: 1px 1px 2px #ffffff;
     border-bottom: 0;
 }
 .header_menu li, .header_menu li:hover {
