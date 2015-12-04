@@ -294,7 +294,7 @@ header #user_notifications_count.unread + img { opacity: 1; }
     display: none;
 }
 header #header_userinfo { float: right; }
-header #header_userinfo li { margin-right: 0 !important; }
+header #header_userinfo li { margin-right: 5px !important; }
 header #header_userinfo li.temporarily_switched { background-color: rgb(228, 156, 109); }
 header #header_userinfo li.temporarily_switched .user_menu_dropdown { background-color: rgb(252, 240, 233); }
 #header_avatar { margin: -2px 5px 0 0; border-radius: 5px; }
@@ -11071,7 +11071,7 @@ li#header_usermenu_link > div
 
 #header_usermenu_link
 {
-    margin-left: 5px !important;
+    margin-left: 0px !important;
 }
 
 #user_notifications_loading_indicator
