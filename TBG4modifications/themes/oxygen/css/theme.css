@@ -310,7 +310,7 @@ header nav > ul { position: relative !important; display: inline-block; margin-r
 #usermenu_changestate { clear: both; margin: -5px 10px 10px 10px; }
 #change_userstate_dropdown { float: right; margin: -2px 5px 2px; }
 
-#logo_container { padding: 0 0 0 0px; float: left; margin: 5px 5px 5px 5px; display: block; }
+#logo_container { padding: 0 0 0 0px; float: left; margin: 5px 5px 5px 10px; display: block; }
 #logo_container .logo { float: left; margin: 0px 5px 0 0; text-decoration: none; border: 0; line-height: 0; }
 #logo_container a.logo:hover { text-decoration: none; border: 0; }
 #logo_container .logo_name { font-size: 1.2em; color: #ECF0F4; margin: 2px 5px; padding: 0; line-height: 1.3; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); float: left; }
