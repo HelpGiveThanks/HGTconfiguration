@@ -78,7 +78,7 @@ blockquote { border-left: 2px solid rgba(97, 147, 207, 0.5); padding: 0 0 0 5px;
 
 /* Main header area */
 header {
-    background: #4E81AB;
+    background: #4477A1;
     color: white;
 }
 .backdrop_detail_header, .backdrop_box h1 {
@@ -310,7 +310,7 @@ header nav > ul { position: relative !important; display: inline-block; margin-r
 #usermenu_changestate { clear: both; margin: -5px 10px 10px 10px; }
 #change_userstate_dropdown { float: right; margin: -2px 5px 2px; }
 
-#logo_container { padding: 0 0 0 10px; float: left; margin: 5px 30px 5px 5px; display: block; }
+#logo_container { padding: 0 0 0 0px; float: left; margin: 5px 5px 5px 5px; display: block; }
 #logo_container .logo { float: left; margin: 0px 5px 0 0; text-decoration: none; border: 0; line-height: 0; }
 #logo_container a.logo:hover { text-decoration: none; border: 0; }
 #logo_container .logo_name { font-size: 1.2em; color: #ECF0F4; margin: 2px 5px; padding: 0; line-height: 1.3; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); float: left; }
@@ -895,7 +895,7 @@ div.dropdown_separator { border-left: 1px dotted #EAEAF5; padding: 0 0 0 4px; ma
 .header_menu { background-color: transparent; width: auto; height: 35px; color: #FFF; border-bottom: none; }
 .header_menu .selected, .header_menu li.selected:hover { background-color: #ECF0F4; }
 .header_menu ul { height: 100%; bottom: 0px; }
-.header_menu li { text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5); font-size: 1.1em; }
+.header_menu li { font-weight: 500; font-size: 1.1em; }
 .header_menu li div { color: #ECF0F4; padding-top: 6px; }
 .header_menu li.selected div { color: #333; }
 .header_menu li.selected {
@@ -914,7 +914,7 @@ div.dropdown_separator { border-left: 1px dotted #EAEAF5; padding: 0 0 0 4px; ma
     height: 100%;
     border-top-right-radius: 0px;
     border-top-left-radius: 0px;
-    margin-right: 10px;
+    margin-right: 0px;
     border-top: none;
     color: #FFF;
 }
