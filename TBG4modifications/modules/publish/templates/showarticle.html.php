@@ -8,13 +8,15 @@
 <?php if ($article instanceof \thebuggenie\modules\publish\entities\Article): ?>
 <table style="margin-top: 0px; table-layout: fixed; width: 100%" cellpadding=0 cellspacing=0>
     <tr>
+    <?php /*>
         <td class="side_bar <?php if ($article->getArticleType() == \thebuggenie\modules\publish\entities\Article::TYPE_MANUAL) echo 'manual'; ?>">
             <?php if ($article->getArticleType() == \thebuggenie\modules\publish\entities\Article::TYPE_MANUAL): ?>
                 <?php include_component('manualsidebar', array('article' => $article)); ?>
             <?php else: ?>
                 <?php include_component('leftmenu', array('article' => $article)); ?>
             <?php endif; ?>
-        </td>
+        </td> <*/?>
+
         <td class="main_area article">
             <a name="top"></a>
             <?php if ($error): ?>
