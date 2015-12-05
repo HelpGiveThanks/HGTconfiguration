@@ -675,7 +675,7 @@ footer img { margin: 4px 3px -6px 0; }
 
 /* frontpage article layout styling */
 .article { font-family: "TimesNewRomanPSMT","Times New Roman",serif; font-size: 1.2em; color: #444; width: auto; padding: 5px; position: relative; }
-.main_area.article { padding: 5px 5px 5px 15px; }
+.main_area.article { font-size: 1.1em; padding: 0px 100px 30px }
 .main_area.frontpage .article { padding: 0px 100px 30px; clear: both; }
 .main_area.frontpage .article h1, .main_area.frontpage .article h2, .main_area.frontpage .article h3, .main_area.frontpage .article h4, .main_area.frontpage .article h5, .main_area.frontpage .article h6 {
     margin: 0 0 5px 0;

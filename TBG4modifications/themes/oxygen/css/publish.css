@@ -158,10 +158,10 @@
 
 .article.edit .header { margin: 10px 0 5px 10px; }
 .article.edit .editor_header { margin: 0 10px; }
-.article .header, #article_attachments > h4, #article_comments > h4 { margin: 0 0 5px 0; padding: 2px 3px 3px 0; font-weight: normal; font-size: 21px; border-bottom: none; }
+.article .header, #article_attachments > h4, #article_comments > h4 { margin: 0 0 5px 0; padding: 2px 3px 0px 0; font-weight: normal; font-size: 21px; border-bottom: none; }
 #article_attachments > h4, #article_comments > h4 { font-size: 17px; border-bottom: 1px dotted #CCC; }
 .article > .header .title_left_images:first-child img { margin-left: 0; }
-.article > .header { border: none; margin-bottom: 0; font-size: 1.8em; }
+.article > .header { font-family: "Open Sans",sans-serif; color: #666; border: none; margin-bottom: 0; font-size: 1.3em; }
 .article .header .button-group { float: right; font-size:13px; vertical-align: middle; margin-top: 3px; }
 .article .header .button-group .button { padding: 3px 7px; }
 .article .header .title_left_images { font-size: 0.6em; font-weight: normal; display: inline-block; height: 26px; width: auto; margin-right: 5px; vertical-align: middle; }
