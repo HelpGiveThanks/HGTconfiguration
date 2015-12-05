@@ -3,21 +3,23 @@
 ?>
 <div class="header <?php echo $mode; ?>">
     <?php if ($mode != 'edit'): ?>
-        <div class="title_left_images">
+
             <?php if ($tbg_user->isGuest()): ?>
-                <?php echo image_tag('star_faded.png', array('id' => 'article_favourite_faded_'.$article->getId())); ?>
+                <?php /* echo image_tag('star_faded.png', array('id' => 'article_favourite_faded_'.$article->getId())); ?>
                 <div class="tooltip from-above leftie">
                     <?php echo __('Please log in to subscribe to updates for this article'); ?>
-                </div>
+                </div> <*/?>
             <?php else: ?>
+              <div class="title_left_images">
                 <div class="tooltip from-above leftie">
                     <?php echo __('Click the star to toggle whether you want to be notified whenever this article updates or changes'); ?><br>
                 </div>
                 <?php echo image_tag('spinning_20.gif', array('id' => 'article_favourite_indicator_'.$article->getId(), 'style' => 'display: none;')); ?>
                 <?php echo image_tag('star_faded.png', array('id' => 'article_favourite_faded_'.$article->getId(), 'style' => 'cursor: pointer;'.(($tbg_user->isArticleStarred($article->getID())) ? 'display: none;' : ''), 'onclick' => "TBG.Main.toggleFavouriteArticle('".make_url('toggle_favourite_article', array('article_id' => $article->getID(), 'user_id' => $tbg_user->getID()))."', ".$article->getID().");")); ?>
                 <?php echo image_tag('star.png', array('id' => 'article_favourite_normal_'.$article->getId(), 'style' => 'cursor: pointer;'.((!$tbg_user->isArticleStarred($article->getID())) ? 'display: none;' : ''), 'onclick' => "TBG.Main.toggleFavouriteArticle('".make_url('toggle_favourite_article', array('article_id' => $article->getID(), 'user_id' => $tbg_user->getID()))."', ".$article->getID().");")); ?>
+              </div>
             <?php endif; ?>
-        </div>
+
     <?php endif; ?>
     <?php if ($article->getID() || $mode == 'edit'): ?>
         <?php if ($show_actions): ?>
@@ -33,7 +35,13 @@
                     <?php endif; ?>
                 <?php endif; ?>
                 <?php if (!isset($embedded) || !$embedded): ?>
+
+                   <?php if ($tbg_user->isGuest()): ?>
+                     <?php else: ?>
                     <a class="button button-silver more_actions_button dropper last" id="more_actions_article_<?php echo $article->getID(); ?>_button"><?php echo __('More actions'); ?></a>
+                    <?php endif; ?>
+
+
                     <ul class="simple_list rounded_box white shadowed more_actions_dropdown popup_box" onclick="$('more_actions_article_<?php echo $article->getID(); ?>_button').toggleClassName('button-pressed');TBG.Main.Profile.clearPopupsAndButtons();">
                         <?php if ($mode == 'edit'): ?>
                             <li><a href="javascript:void(0);" onclick="$('main_container').toggleClassName('distraction-free');"><?php echo __('Toggle distraction-free writing'); ?></a></li>
@@ -83,6 +91,34 @@
             <input type="text" name="manual_name" id="manual_name" value="<?php echo $article->getManualName(); ?>">
         </div>
     <?php else: ?>
+      <?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
+      		<?php if ($tbg_response->getTitle() != 'Overview'): ?>
+      			<?php echo get_spaced_name($article_name); ?>
+      		<?php else: ?>
+       <?php if ($tbg_user->isGuest()): ?>
+
+         <?php //  222222222222222222222222222222222  ?>
+         <?php // Customize your site's guest view homepage title and welcome message. ?>	<?php echo
+
+         "Welcome to Your Website Name Here!"    ; ?>    <br>
+
+         	<span  style="font-size: .7em" ><?php echo
+
+         "Feel free to look around.    <br>
+
+         Website testing and content editing in progress."    ; ?>
+
+         	</span> <br> <span  style="font-size: .7em; font-weight:normal" ><?php echo
+
+         "Change this title and message in file    <br>
+
+         /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.    <br>
+
+         It is all the text in quotes just below the strings of    <br>
+
+         222222222222222222222222222222222's and 333333333333333333333333333333333's."    ; ?>
+
+      <?php else: ?>
     <?php
         if ($article->getArticleType() == \thebuggenie\modules\publish\entities\Article::TYPE_MANUAL)
         {
@@ -104,7 +140,7 @@
             echo get_spaced_name(implode(':', $namespaces));
         }
     ?>
-    <?php endif; ?>
+    <?php endif; ?><?php endif; ?><?php endif; ?>
     <?php
 
         if ($article->getID() && $mode)

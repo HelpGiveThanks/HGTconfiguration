@@ -3,7 +3,7 @@
 
 
 <?php // CHANGE STYLE OF WIKI TITLE IF USER IS GUEST ?>
-<?php if (!$tbg_user->isGuest()): ?> <div class="header tab_menu"   > 
+<?php if (!$tbg_user->isGuest()): ?> <div class="header tab_menu"   >
 <?php else: ?>
 		<div class="guest"   >
 <?php endif; ?>
@@ -28,7 +28,7 @@
 						<li<?php if ($mode == 'permissions'): ?> class="selected"<?php endif; ?>>
 						<?php echo link_tag(make_url('publish_article_permissions', array('article_name' => $article_name)), __('Permissions')); ?></li>
 					<?php endif; ?>
-					<li<?php if ($mode == 'attachments'): ?> class="selected"<?php endif; ?>><?php echo link_tag(make_url('publish_article_attachments', array('article_name' => $article_name)), __('Attachments')); ?></li>			
+					<li<?php if ($mode == 'attachments'): ?> class="selected"<?php endif; ?>><?php echo link_tag(make_url('publish_article_attachments', array('article_name' => $article_name)), __('Attachments')); ?></li>
 			</ul>
 				<?php endif; ?>
 				<?php endif; ?>
@@ -46,50 +46,52 @@
 	<?php elseif (mb_substr($article_name, 0, 9) == 'Category:'): ?>
 		<span class="faded_out blue">Category:</span><?php echo get_spaced_name(mb_substr($article_name, 9)); ?>
 	<?php else: ?>
-	
-	
-	
-<?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
-		<?php if ($tbg_response->getTitle() != 'Overview'): ?><?php echo get_spaced_name($article_name); ?> <?php else: ?>
-		<?php if ($tbg_user->isGuest()): ?> 
-						
-				
 
-<?php //  111111111111111111111111111111111  ?> 
+
+
+<?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
+		<?php if ($tbg_response->getTitle() != 'Overview'): ?>
+			<?php echo get_spaced_name($article_name); ?>
+		<?php else: ?>
+		<?php if ($tbg_user->isGuest()): ?>
+
+
+
+<?php //  111111111111111111111111111111111  ?>
 
 <?php // Customize your site's icon size. ?>
-			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'width: 75px; height: 75px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br> 
-				
-				
+			<div class="guest_overview_page"><?php echo image_tag(TBGSettings::getHeaderIconUrl(), array('style' => 'width: 75px; height: 75px;'), TBGSettings::isUsingCustomHeaderIcon()); ?><br>
+
+
 
 <?php //  222222222222222222222222222222222  ?>
-<?php // Customize your site's guest view homepage title and welcome message. ?>	<?php echo 
+<?php // Customize your site's guest view homepage title and welcome message. ?>	<?php echo
 
-"Welcome to Your Website Name Here!"    ; ?>    <br> 
+"Welcome to Your Website Name Here!"    ; ?>    <br>
 
-	<span  style="font-size: .7em" ><?php echo 
+	<span  style="font-size: .7em" ><?php echo
 
-"Feel free to look around.    <br>  
-	
+"Feel free to look around.    <br>
+
 Website testing and content editing in progress."    ; ?>
 
-	</span> <br> <span  style="font-size: .7em; font-weight:normal" ><?php echo 
+	</span> <br> <span  style="font-size: .7em; font-weight:normal" ><?php echo
 
-"Change this title and message in file    <br> 
-				
+"Change this title and message in file    <br>
+
 /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.    <br>
-				 
-It is all the text in quotes just below the strings of    <br> 
+
+It is all the text in quotes just below the strings of    <br>
 
 222222222222222222222222222222222's and 333333333333333333333333333333333's."    ; ?>
 
 
 	</span></div><br><?php else: ?>
-			
-			
 
-<?php //  333333333333333333333333333333333  ?>		
-<?php // Customize your site's logged in view homepage title. ?><?php echo 
+
+
+<?php //  333333333333333333333333333333333  ?>
+<?php // Customize your site's logged in view homepage title. ?><?php echo
 
 
 "Your Website Name Overview"    ; ?>
