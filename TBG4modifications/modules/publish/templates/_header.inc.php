@@ -92,31 +92,37 @@
         </div>
     <?php else: ?>
       <?php // IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW ?>
+
       		<?php if ($tbg_response->getTitle() != 'Overview'): ?>
       			<?php echo get_spaced_name($article_name); ?>
       		<?php else: ?>
-       <?php if ($tbg_user->isGuest()): ?>
+          <?php if ($tbg_user->isGuest()): ?>
+
+    <div style="text-align: center;" >
+
+          <?php //  111111111111111111111111111111111  ?>
+          <?php // Customize your site's icon size. ?>
+          <?php echo image_tag(\thebuggenie\core\framework\Settings::getHeaderIconUrl(), array('style' => 'width: 50px; height: 50px;'), \thebuggenie\core\framework\Settings::isUsingCustomHeaderIcon()); ?> </img><br>
 
          <?php //  222222222222222222222222222222222  ?>
-         <?php // Customize your site's guest view homepage title and welcome message. ?>	<?php echo
+         <?php // Customize your site's guest view homepage title and welcome message.  Replace or delete the text below between the quotes. ?>	 <?php echo
 
-         "Welcome to Your Website Name Here!"    ; ?>    <br>
+         "Welcome to Your Website Name Here!"
 
-         	<span  style="font-size: .7em" ><?php echo
+          ; ?><br><span  style="font-size: .6em" ><?php echo
 
-         "Feel free to look around.    <br>
+         "Feel free to look around.
+         <br>
 
-         Website testing and content editing in progress."    ; ?>
+         Website testing and content editing in progress.
+         <br>
 
-         	</span> <br> <span  style="font-size: .7em; font-weight:normal" ><?php echo
+         Change the icon size and this text on lines 102 thru 124 in the file    <br>
 
-         "Change this title and message in file    <br>
+         /YOURBugGenieFolder/modules/publish/templates/_header.inc.php."
+         ; ?>
 
-         /YOURBugGenieFolder/modules/publish/templates/_header.inc.php.    <br>
-
-         It is all the text in quotes just below the strings of    <br>
-
-         222222222222222222222222222222222's and 333333333333333333333333333333333's."    ; ?>
+    </div>
 
       <?php else: ?>
     <?php
