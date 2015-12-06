@@ -46,9 +46,11 @@
                             <?php echo image_tag('star.png', array('id' => 'issue_favourite_normal_'.$issue->getId(), 'style' => 'cursor: pointer;'.((!$tbg_user->isIssueStarred($issue->getID())) ? 'display: none;' : ''), 'onclick' => "TBG.Issues.toggleFavourite('".make_url('toggle_favourite_issue', array('issue_id' => $issue->getID(), 'user_id' => $tbg_user->getID()))."', ".$issue->getID().");")); ?>
                         <?php endif; ?>
                     </td>
+                    <?php /* DO NOT SHOW ISSUE TYPE IMAGE ?>
                     <td class="title_left_images">
                         <?php echo image_tag((($issue->hasIssueType()) ? $issue->getIssueType()->getIcon() : 'icon_unknown') . '_small.png', array('id' => 'issuetype_image')); ?>
                     </td>
+                    < */ ?>
                     <td id="title_field" class="<?php if ($issue->isTitleChanged()): ?>issue_detail_changed<?php endif; ?><?php if (!$issue->isTitleMerged()): ?> issue_detail_unmerged<?php endif; ?> hoverable">
                         <div class="viewissue_title">
                             <span class="faded_out" id="title_header">
