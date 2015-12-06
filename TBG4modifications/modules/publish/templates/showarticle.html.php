@@ -55,8 +55,11 @@
                     </form>
                 </div>
             <?php endif; ?>
-            <?php if ($article->getID()): ?>
+      <?php if ($article->getID()): ?>
                 <?php $attachments = $article->getFiles(); ?>
+         <?php if ($tbg_user->isGuest()): ?>
+              <?php // Don't show attachments or comments ?>
+         <?php else: ?>
                 <div id="article_attachments">
                     <?php /*if (\thebuggenie\core\framework\Settings::isUploadsEnabled() && $article->canEdit()): ?>
                         <?php include_component('main/uploader', array('article' => $article, 'mode' => 'article')); ?>
@@ -80,7 +83,8 @@
                     </h4>
                     <?php include_component('main/comments', array('target_id' => $article->getID(), 'mentionable_target_type' => 'article', 'target_type' => \thebuggenie\core\entities\Comment::TYPE_ARTICLE, 'show_button' => false, 'comment_count_div' => 'article_comment_count', 'forward_url' => make_url('publish_article', array('article_name' => $article->getName())))); ?>
                 </div>
-            <?php endif; ?>
+         <?php endif; ?>
+      <?php endif; ?>
         </td>
     </tr>
 </table>
